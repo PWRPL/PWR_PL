@@ -1,0 +1,2287 @@
+<4>[projekt] Wybuch niestabilnej energii uwolnionej z uszkodzonego emitera dzikiej magii zadaje 3k8 obrażeń od elektryczności. Udany rzut na Refleks zmniejsza je o połowę.
+<5>[projekt] Uwolnienie Wyrzutu Energii
+<6>[projekt] Generator fali magii wygląda na niestabilny. Uszkodzenie go doprowadzi do wyrzutu energii, która uderzy we wszystkich wokół. 
+<7>[projekt] Niestabilny Generator
+<8>[projekt] Żywe Tornado
+<9>[projekt] Emiter Dzikiej Magii
+<10>[projekt] Ta postać znajduje się w polu dzikiej magii — rzadkiego zjawiska, które radykalnie zmienia wynik magicznych równań. Za każdym razem, gdy rzuca zaklęcie, używa zdolności czaropodobnej lub aktywuje magiczny przedmiot, musi wykonać test koncentracji. Jeżeli będzie on nieudany, zaklęcie zostaje zmarnowane, ale zamiast niego rzucane jest inne, losowe zaklęcie, które oddziałuje na pierwotny cel.
+<11>[projekt] Pole Dzikiej Magii
+<12>[projekt] Na 8 poziomie zyskujesz odporność na zimno 10. Na 14 poziomie ta odporność wzrasta do 20.
+<13>[projekt] Na 4 poziomie Dziecię Zimy zyskuje odporność na zimno 5. Odporność ta zwiększa się o 5 co każde 4 poziomy. Postać zyskuje także niewrażliwość na stan zamroczenia. <br>Zdolnośc ta zastępuje druidzką zdolność Odporność na Urok Natury.
+<14>[projekt] Mieszkaniec Arktyki
+<15>[projekt] Na 4 poziomie Dziecię Zimy tworzy więź z żywiołakiem zamieci. Ta zdolność działa tak samo, jak druidzka zdolność Zwierzęcy Towarzysz z tą różnicą, że efektywny poziom druida jest równy poziomowi arktycznego druida -3, oraz że oferuje jedynie jednego towarzysza, którym jest żywiołak zamieci. <br>Ta zdolność zastępuje Dziki Kształt. 
+<16>Sługa Zamieci
+<17>[projekt] Na 6 poziomie Dziecię Zimy wzmacnia więź ze swoim towarzyszem, użyczając mu część swojej mocy. Sługa zamieci zyskuje następujące korzyści:<br>Jego rozmiar zwiększa się do średniego; otrzymuje premię +2 do Siły, +4 do Zręczności; +2 do Kondycji, a jego odporność na zimno zwiększa się do 10. 
+<18>[projekt] Sługa Zamieci - Nadchodzi Zima
+<19>[projekt] Na 11 poziomie Dziecię Zimy wzmacnia swoją więź z towarzyszem, użyczając mu część swojej mocy i wzmacniając go. Sługa zamieci otrzymuje następujące korzyści:<br>Jego rozmiar zwiększa się do dużego; otrzymuje premię +4 do Siły i Zręczności, premię +2 do Kondycji, premię +2 z naturalnego pancerza do KP, RO 5/-, a jego Odporność na Zimno zwiększa się do 15. Dodatkowo jego Wir Zamieci zaczyna działać wybiórczo i przestaje wpływać na sojuszników.
+<20>[projekt[ Sługa Zamieci — Głęboka Więź
+<21>[projekt] Na 16 poziomie Dziecię Zimy używa fragmentu swojej duszy, aby umożliwić wielkiemu duchowi zamieci wniknięcie do świata materialnego. Sługa zamieci otrzymuje następujące korzyści:<br>Jego rozmiar zwiększa się do ogromnego; otrzymuje premię +4 do Siły, premię +6 do Zręczności, premię +2 do Kondycji, premię +2 z naturalnego pancerza do KP, zdolność Odrętwiający Chłód, a jego Odporność na Zimno zwiększa się do 20. Dodatkowo jego Wir Zamieci zaczyna działać wybiórczo i przestaje wpływać na sojuszników.
+<22>[projekt] Sługa Zamieci — Pokrewne Dusze
+<23>[Projekt] The winter child summons creatures from the frozen wastes of the north, in whose hearts the essence of cold slowly beats. All creatures summoned by winter child gain resist cold 5. At 10th level, cold resistance increases to 10, and the blizzard hinders their opponents as if they were under a blink spell. At 15th level, cold resistance increases to 15, and all creature attacks deal an additional 2d6 cold damage. The winter child cannot summon fire elementals.
+<24>[projekt] Wezwanie na Ucztę
+<25>[Projekt] At 15th level, all creatures summoned by winter child increases cold resistance increases to 15, and all creature attacks deal an additional 2d6 cold damage.
+<26>[Projekt] Calling For a Feast — Frost Bites
+<27>[Projekt] At 10th level, all creatures summoned by winter child increases cold resistance to 10, and the blizzard hinders their opponents as if they were under a blink spell.
+<28>[Projekt] Calling For a Feast — Covering Blizzard
+<29>[Projekt] At 20th level, an winter child fully reveals his connection to the blizzard. It gains cold immunity, an airborne feature, an elemental subtype, and is also considered a native outsider for effects spells and spell-like abilities.
+<30>[Projekt] Flurry Form
+<31>[Projekt] At 9th level, the winter child gains the ability as a swift action to call upon the primal forces of winter to change the damage type of his spells to cold.In addition, she can see normally in ice storm or similar natural snowstorms.
+<32>[Projekt] Snowcaster
+<33>[projekt] Dziecię Zimy
+<34>[Projekt]At 1nd level, a winter child must select the Ice subdomain when choosing a domain. This ability replaces nature bond.
+<35>[Projekt] Ice In The Blood
+<36>[projekt] Sługa Zamieci
+<37>[Projekt] Numbing Cold
+<38>[Projekt] When an blizzard elemental deals cold damage to a creature, that creature must succeed on a Fortitude save or be staggered for 1 round. The save DC is Constitution-based.
+<39>[Projekt] Blizzard servant can transform yourself into whirlwind and back again. A creature in whirlwind form cannot make its normal {g|Encyclopedia:Attack}attacks{/g} and does not {g|Encyclopedia:Threatened_Area}threaten{/g} the area around it. Creatures caught in the whirlwind take a –4 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Dexterity}Dexterity{/g} and a –2 penalty on attack rolls and must succeed on a {g|Encyclopedia:Concentration}concentration check{/g} ({g|Encyclopedia:DC}DC{/g} 15 + {g|Encyclopedia:Spell}spell{/g} level) to cast a spell. An affected creature must succeed on a {g|Encyclopedia:Saving_Throw}Reflex save{/g} (DC 10 + half blizzard's servant level + his {g|Encyclopedia:Strength}Strength{/g} modifier) each round or take {g|Encyclopedia:Damage}damage{/g} as if it were hit by the blizzard's servant slam attack.
+<40>[Projekt] Blizzard Whirlwind
+<41>[Projekt] A shield with this ability flashes with a brilliant light up to twice per day upon command of the wielder. Except for the wielder, anyone within 20 feet must make a successful DC 14 Reflex save or be blinded for 1d4 rounds.
+<42>[Projekt] Blinding
+<43>[Projekt] This shield is as highly polished as a mirror, and its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster exactly like the spell turning spell.
+<44>[Projekt] Reflecting
+<45> 
+<46>Na 8 poziomie Mroczna Siostra potrafi wymusić na ofierze swe kapryśne życzenia, a zarazem pozbawić ją magicznych wzmocnień. Jeżeli uda jej się skutecznie użyć wobec danej istoty efektu wpływającego na umysł (za pomocą {g|Encyclopedia:Spell}zaklęcia{/g}, {g|Encyclopedia:Special_Abilities}zdolności czaropodobnej{/g} lub heksa), może jednocześnie rzucić na nią Większe Rozproszenie Magii. Mroczna Siostra może użyć tej zdolności raz dziennie. Na 14 i 20 poziomie otrzymuje jedno dodatkowe użycie dziennie.
+<47>Mroczne Siostry wzbudzają strach ze względu na swoje zdolności do naginania umysłów i siania niezgody. Niektórzy twierdzą, że te czarownice mogą obserwować swoich wrogów z daleka, a nawet mogą wypaczać umysły najbardziej niewinnych lub oddanych, w tym noworodków i ukochanych zwierząt domowych.
+<48>Twoje następne {g|Encyclopedia:Spell}zaklęcie{/g}, {g|Encyclopedia:Special_Abilities}zdolność czaropodobna{/g} lub heks wpływają również na wszystkie cele z Rozproszeniem Magii (Cel).<br>Działa jak celowane Rozproszenie Magii, ale może rozproszyć jedno zaklęcie na każde cztery {g|Encyclopedia:Caster_Level}poziomy rzucającego{/g}, które posiadasz, zaczynając od zaklęć najwyższego poziomu i przechodząc do zaklęć niższego poziomu.<br>Rozproszenie Magii (Cel): Możesz użyć Rozproszenia Magii, aby zakończyć jedno trwające zaklęcie rzucone na istotę.<br>Wykonujesz jeden {g|Encyclopedia:Check}test{/g} rozproszenia ({g|Encyclopedia:Dice}1k20{/g} + twój poziom rzucającego) i porównujesz go z zaklęciem o najwyższym poziomie rzucającego ({g|Encyclopedia:DC}Klasa Trudności (KT){/g} = 11 + poziom rzucającego zaklęcia). Jeśli test się powiedzie, działanie zaklęcia ulega rozproszeniu. Jeśli nie, porównywany jest ten sam rezultat z zaklęciem o następnym najwyższym poziomie rzucającego. Ten proces jest powtarzany, dopóki nie rozproszysz jednego zaklęcia wpływającego na cel lub nie uda ci się rozproszyć wszystkich zaklęć.
+<49>Czarcie istoty żyją na Planach Niższych, takich jak Otchłań i Piekło.<br>Piekielne istoty zyskują {g|Encyclopedia:Spell_Resistance}odporność na zaklęcia (OZ){/g} równą swojemu poziomowi +5. Zyskują również:<br>1 — 4 {g|Encyclopedia:Hit_Dice}Kostek Wytrzymałości (KW){/g}: {g|Encyclopedia:Energy_Resistance}odporność{/g} 5 na zimno i ogień.<br>5 — 10 KW: odporność 10 na zimno i ogień, {g|Encyclopedia:Damage_Reduction}RO{/g} 5/dobro<br>11+ KW: odporność 15 na zimno i ogień, RO 10/dobro<br>Ugodzenie Dobra (Su): Raz dziennie czarcia istota może ugodzić istotę {g|Encyclopedia:Alignment}o dobrym charakterze{/g}. Wytkorzystując {g|Encyclopedia:Swift_Action}szybką akcję{/g}, istota wybiera jeden cel w zasięgu wzroku, który chce zaatakować. Jeśli ten cel jest charakteru dobrego, istota dodaje swoją premię z {g|Encyclopedia:Charisma}Charyzmy{/g} (jeśli takowa istnieje) do {g|Encyclopedia:Attack}testów ataku{/g} i zyskuje {g|Encyclopedia:Damage}obrażenia{/g}. {g|Encyclopedia:Bonus}Premia{/g} jest równa wartości Kostek Wytrzymałości (KW) czarciej istoty przeciwko temu wrogowi. Efekt ten utrzymuje się do momentu śmierci celu lub odpoczynku istoty.
+<50>[Projekt] Candle of the Playful Succubus
+<51>[projekt] this +1 breastplate is unusualy clean and shiny
+<52>[projekt] Sun Gleam Cuirass
+<53>[projekt] crafted by gnome blacksmith, Fizzle Brightspark. Fizzle believed that a clean and shiny armor increased a warrior's luck, asserting that the <bs_n1>gods loved a shiny target.<bs_n1> Thus, he crafted the Sun Gleam Cuirass from an alloy of steel and sunsilver, imbuing it with an alchemical solution to keep it perpetually clean and gleaming.<br>The armor has been through numerous battles, always maintaining its luster. Its immaculate surface seems to repel grime and blood, a feature appreciated by many adventurers. While not the most potent artifact, it stands as a symbol of immaculate presentation and pride. Whether you believe in Fizzle's philosophy or not, this self-cleaning armor certainly makes a bold statement.
+<54>Ten pierścień ochrony +4 zapewnia noszącemu ciągły efekt {g|Encyclopedia:Spell}zaklęcia{/g} Osłona przed Śmiercią.
+<55>Twój repertuar arkanistycznych eksperymentów się poszerza. Otrzymujesz jeden dodatkowy arkanistyczny eksperyment. Musisz spełnić wymagania wstępne tego eksperymentu. Ten atut można zdobyć 3 razy.
+<56>(projekt) Whenever you score a critical hit with a slashing or piercing weapon, your opponent takes 2d6 points of bleed damage each round on his turn, in addition to the damage dealt by the critical hit. Bleed damage can be stopped through any magical healing. The effects of this feat stack.<br>Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+<57>{projekt) Bleeding Critical
+<58>(projekt) Your shield bash causes your enemies to falter. Creatures struck by your shield bash take a –2 penalty to their AC until the end of your next turn.
+<59>(projekt) Stumbling Bash
+<60>(projekt) Your flesh-ripping unarmed strikes terrify your victims.<br>You add piercing damage to the damage types you can deal with your unarmed strikes. Further, you gain a +2 bonus on Persuasion checks to demoralize opponents. While using Boar Style, whenever you tear an opponent's flesh, you can make an Persuasion check to demoralize that opponent as a free action.
+<61>(projekt) Zaciekłość Dzika
+<62>(projekt) The wounds you inflict with your unarmed strikes bleed, giving you renewed vigor.<br>You can make an Persuasion check to demoralize an opponent as a move action. While using Boar Style, whenever you tear an opponent's flesh, you make the enemy bleed for 1d6 damage each round. The bleed damage dealt while using Boar Style persist even if you later switch to a different style.
+<63>(projekt) Boar Ferocity
+<64>(projekt) Your sharp teeth and nails rip your foes open.<br>You can deal bludgeoning damage and slashing damage with your unarmed strikes. While using this style, once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal 2d6 extra points of damage with the attack.
+<65>(projekt) Styl Dzika
+<66>Udało ci się odkryć nowe sekretne arkana Maga Bojowego. Zyskujesz jeden dodatkowy tajnik magiczny. Musisz spełnić wszystkie warunki wstępne. Ten atut może być użyty 3 razy.
+<67>Dodatkowy Tajnik
+<68>Dodatkowy Arkanistyczny Eksperyment
+<69>Dokonałeś nowego przełomu alchemicznego. Zyskujesz jedno dodatkowe odkrycie. Musisz spełnić warunki wstępne. Z tego atutu można skorzystać 3 razy.
+<70>Dodatkowe Odkrycie
+<71>Twoja pula ki wzrasta o 2. Ten atut może być użyty wielokrotnie. Jego efekty kumulują się.
+<72>Dodatkowa Pula Ki
+<73>Zdolność Nakładania Rąk zyskuje dodatkowe pokłady miłosierdzia. Wybierz jedno dodatkowe miłosierdzie, do którego się kwalifikujesz. Gdy używasz Nakładania Rąk, aby wyleczyć obrażenia u jednego celu, odczuje on również dodatkowe efekty tego miłosierdzia. Z tego atutu można skorzystać 3 razy.
+<74>Dodatkowe Pokłady Miłosierdzia
+<75>Zasoby Rezerwy Magicznej zwiększają się o 3. Ten atut można wykorzystać wielokrotnie. Jego efekty kumulują się.
+<76>Dodatkowa Rezerwa Magiczna
+<77>Dzięki ciągłej praktyce nauczyłeś się specjalnej sztuczki. Zyskujesz jeden dodatkowy talent Łotrzyka. Musisz spełnić wszystkie warunki wstępne. Ten talent można wybrać 3 razy.
+<78>Dodatkowy talent łotrzyka
+<79>Poznałeś sekrety nowego heksa. Zyskujesz jeden dodatkowy szamański heks. Musisz spełnić warunki wstępne dla tego heksa. Z tego atutu można skorzystać 3 razy.
+<80>Dodatkowy Heks (Szaman)
+<81>Dokonałeś nowego przełomu medycznego. Zyskujesz jedno dodatkowe odkrycie. Musisz spełnić warunki wstępne dla tego odkrycia. Z tego atutu można skorzystać 3 razy.
+<82>Dodatkowe Odkrycie (Wiwisekcjonista)
+<83>Zyskujesz dodatkowy dziki talent. Musisz spełnić warunki wstępne dla tego dzikiego talentu. Z tego atutu można skorzystać 3 razy.
+<84>Dodatkowy Dziki Talent
+<85>Poznałeś sekrety nowego heksa. Zyskujesz jednen dodatkowy wiedźmi heks. Musisz spełnić warunki wstępne dla tego heksa. Z tego atutu można skorzystać 3 razy.
+<86>Dodatkowy Heks (Wiedźma)
+<87>(projekt) Whenever you score a critical hit, your opponent takes a –1 penalty to its natural armor bonus for the duration of the encounter. This penalty is cumulative, but cannot reduce an opponent's natural armor bonus below 0.
+<88>(projekt) Flaying Critical
+<89>(projekt)) Your anatomical insight adds deadliness to your shots.<br>Benefit: As a standard action, you may make an attack with a ranged weapon and add your Intelligence modifier on the damage roll. You must be within 30 feet of your target to deal this extra damage. Creatures immune to critical hits and sneak attacks are immune to this extra damage.
+<90>(projekt) Focused Shot
+<91>Jesteś w stanie wyłonić się z ukrycia i wzbudzić strach w przeciwnikach. Gdy trafisz nieprzygotowanego przeciwnika, możesz wykonać natychmiastowy test Perswazji (Zastraszenie) jako darmową akcję, aby spróbować zdemoralizować przeciwnika.
+<92>(projekt) Frightening Ambush
+<93>(projekt) Even in the midst of fierce and furious blows, you can find focus in the carnage and your seemingly wild blows strike home. When you are wielding a two-handed weapon or a one-handed weapon with two hands, and using the Power Attack feat, you get a bonus on melee attack rolls on the first attack you make for each turn, equal to the penalty for using a Power Attack.
+<94>(projekt) Furious Focus
+<95>(projekt)) Your deft strikes and canny positioning control the flow of combat. When you deal damage with an unarmed attack to an opponent you have already damaged this round, you can impose a –1 penalty on that target's attacks against creatures other than you. The penalties stack and remain until the target misses an attack or the start of your next turn, whichever comes first.
+<96>(projekt) Sculpting the River
+<97>(projekt) Your shield bash causes your enemies to falter. Creatures struck by your shield bash take a –2 penalty to their AC until the end of your next turn.
+<98>(projekt) Stumbling Bash
+<99>(projekt) Whenever you score a critical hit, your opponent becomes stunned for 1d4 rounds. A successful Fortitude save reduces this to staggered for 1d4 rounds. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.<br>Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+<100>(projekt) Stunning Critical
+<101>(projekt) Your shield bash throws your enemies off balance. Once per round when you hit a creature with a shield bash, you can attempt a trip combat maneuver against that creature at a –5 penalty. This does not provoke an attack of opportunity.
+<102>(projekt) Toppling Bash
+<103>[projekt] This crimson liquid smeels bitter and spicy. Upon consuption for 12 hours it gives aclhemic penalty to wisdom by 2, but gives aclhemic bonus to dexterity by 2.
+<104>[projekt] Shadow eel ale
+<105> 
+<106> 
+<107> 
+<108> 
+<109> 
+<110> 
+<111> 
+<112> 
+<113> 
+<114> 
+<115> 
+<116>[projekt] When ingested this magical plant grants ability similar to Barkskin
+<117>[projekt] Storasta Flower
+<118> 
+<119> 
+<120>[projekt] This magical flower is infused with sotrasta jungle corruption. Ingesting it may grant you some strange ability.
+<121>[projekt] Storasta Wild Flower
+<122> 
+<123> 
+<124>[Projekt] A pint of good ale splashes in this lucky belly, giving him a +2 morale bonus on saving throws against fear.
+<125>[Projekt] Pint of ale in the stomach
+<126>[Projekt] Ta różdżka, stworzona przez pewnego wielkiego, ale bardzo lubianego maga, znacznie ułatwia życie po nieumiarkowanym pijaństwie. Raz dziennie uwalnia istotę od następujących stanów: niemoc, choroba, dezorientacja, zamęt, zatrucie, zamęt, oślepienie, otępienie, mdłości, obrażenia statystyk, zmęczenie i wstrząs. Dodatkowo, żołądek użytkownika wypełnia się zawartością kufla dobrego piwa, przyznając mu premię +2 z morale do rzutów obronnych przeciwko strachowi na 1 godzinę.
+<127>[Projekt] Wand of Hangover
+<128>[Projekt] Ta różdżka, stworzona przez pewnego wielkiego, ale bardzo lubianego maga, znacznie ułatwia życie po nieumiarkowanym pijaństwie. Raz dziennie uwalnia istotę od następujących stanów: niemoc, choroba, dezorientacja, zamęt, zatrucie, zamęt, oślepienie, otępienie, mdłości, obrażenia statystyk, zmęczenie, wstrząs. Dodatkowo, żołądek użytkownika wypełnia się zawartością kufla dobrego piwa, przyznając mu premię +2 z morale do rzutów obronnych przeciwko strachowi na 1 godzinę.
+<129>P
+<130>[Projekt] Once per day, the owner of this candle can summon a succubus to their side, making a Fortitude saving throw as if they were drained by the succubus' energy.
+<131>[Projekt] Candle of the Playful Succubus
+<132>[Projekt] Once per day, the owner of this candle can summon a succubus to their side, making a Fortitude saving throw as if they were drained by the succubus' energy.
+<133>Azata otula siebie i swoich towarzyszy całunem wirujących liści. Pod wpływem tego efektu wszystkie {g|Encyclopedia:Attack}ataki{/g} wymierzone w Azatę i jego towarzyszy mają 50% szans na chybienie. Stajesz się niewrażliwy na {g|Encyclopedia:Energy_Damage}obrażenia od zimna{/g}. Za każdym razem, gdy wróg rzuca {g|Encyclopedia:Spell}zaklęcie{/g} przeciwko tobie, ponosi {g|Encyclopedia:Dice}1k6{/g} {g|Encyclopedia:Damage}obrażeń{/g} dźwiękowych za każde 5 {g|Encyclopedia:Caster_Level}poziomów rzucającego{/g} Azaty.
+<134>Mityczny Puklerz - Styl Latającej Tarczy
+<135>Nauczyłeś się rzucać tarczą po polu bitwy w taki sposób, że odbija ona ataki wymierzone w twoich sojuszników, wracając za każdym razem do ciebie. Gdy dzierżysz tarczę, przyznaje ona premię do Klasy Pancerza (KP) wszystkim sojusznikom w promieniu 30 stóp.
+<136>Mityczny Agresywny Blok Ciężką Tarczą
+<137>Każdy przeciwnik, który trafi cię bronią do walki w zwarciu, atakiem naturalnym atakiem lub atakiem bez broni, otrzymuje od ciebie kontrę zadającą mu obrażenia obuchowe. Wysokość tych obrażeń to: premia z tarczy do KP + premia z Siły.  
+<138>Mityczne Parowanie Lekką Tarczą 
+<139>Zyskujesz premię z tarczy do Klasy Pancerza (KP) w rzutach obronnych na Refleks i Wytrwałość
+<140>Opanowujesz zdolność używania pawęża do blokowania nim obrażeń fizycznych. Raz na rundę, gdy wymierzony zostaje w ciebie atak fizyczny, redukujesz otrzymywane od niego obrażenia o wysokość posiadanej premii z tarczy do KP.
+<141>Mityczny Blok Pawężem
+<142>Serce Obrońcy zostało upadło na skutek twoich czynów, a właściwie przez twoją bezczynność. 
+<143>Zapraszamy do zapoznania się z naszą najnowszą grą RPG, osadzoną w znanym na całym świecie ponurym i mrocznym uniwersum.
+<144>Niniejsza EULA jest umową pomiędzy Tobą, osobą fizyczną posiadającą pełną zdolność do czynności prawnych a OWLCAT GAMES LTD (dalej <bs_n1>Owlcat<bs_n1>) dotyczącą oprogramowania <bs_n1>Pathfinder: Wrath of the Righteous<bs_n1> oraz całej powiązanej dokumentacji, wszelkich aktualizacji i uaktualnień, które zastępują lub uzupełniają oprogramowanie pod jakimkolwiek względem i które nie są dystrybuowane z oddzielną licencją (<bs_n1>Oprogramowanie<bs_n1> i/lub <bs_n1>Gra<bs_n1> są taktowane zbiorczo)) (zwane dalej <bs_n1>Oprogramowaniem<bs_n1>). W przypadku korzystania z Oprogramowania za pośrednictwem dostawcy konsoli, platformy lub aplikacji (zwanego <bs_n1>Trzecią Stroną<bs_n1>, np, PlayStation, Xbox, Nintendo, Steam, GOG, itp.), wszelkie działania świadczone przez taką stronę trzecią poza kontrolą Owlcat Games, jak również korzystanie z Oprogramowania przez Stronę Trzecią podlegają zasadom i umowom tej strony trzeciej.<br>Akceptacja warunków niniejszej Umowy licencyjnej użytkownika końcowego (zwanej dalej <bs_n1>EULA<bs_n1> lub <bs_n1>Umową<bs_n1>) jest obowiązkowa, aby Użytkownik mógł korzystać z Oprogramowania. Prosimy o uważne przeczytanie warunków EULA przed zainstalowaniem Oprogramowania na komputerze osobistym (<bs_n1>Urządzeniem<bs_n1>). Jeśli nie zgadzasz się z warunkami niniejszej Umowy lub nie możesz korzystać z Oprogramowania zgodnie z warunkami niniejszej Umowy, przerwij instalację Oprogramowania i/lub natychmiast usuń Oprogramowanie ze swojego Urządzenia.<br>Jeśli nie posiadasz pełnej zdolności prawnej do zawarcia niniejszej Umowy, jesteś zobowiązany do uzyskania zgody rodzica lub opiekuna prawnego na korzystanie z Oprogramowania i zawarcie niniejszej Umowy<br>Pobieranie, instalacja Oprogramowania (zgodnie z opisem poniżej) i/lub jakiekolwiek korzystanie z Oprogramowania oznacza twoją pełną zgodę na warunki niniejszej Umowy i wszelkich innych powiązanych dokumentów. Korzystanie z Oprogramowania niezgodnie z niniejszą EULA grozi konsekwencjami prawnymi.<br>Musisz również zaakceptować i przestrzegać wszystkich zasad platform stron trzecich dystrybuujących Oprogramowanie. Jakiekolwiek naruszenie zasad platform Stron Trzecich będzie również traktowane jako podstawowe naruszenie niniejszej EULA.<br>Odrębne warunki mogą regulować korzystanie z usług online w związku z Oprogramowaniem. Możesz zapoznać się z treścią takiego regulaminu na stronie owlcatgames.com lub na innej oficjalnej stronie internetowej Oprogramowania i/lub Strony Trzeciej.<br>Należy pamiętać, że Oprogramowanie zawiera Zawartość Otwartą dostępną na licencji Open Game License (https://owlcat.games/OGLPFWotR), niektóre biblioteki i oprogramowanie należy do osób trzecich. Pełny opis Otwartej Zawartości i wszystkie powiązane informacje można znaleźć lokalnie w formacie PDF (sprawdź <folder instalacyjny gry>/OGL) lub na naszej stronie Internetowej (https://owlcat.games/PFWotRCRPGRD). Wszystkie odnośne informacje są również dostępne w oknie Autorów gry lub lokalnie w folderze instalacyjnym.<br>1. POSTANOWIENIA OGÓLNE<br>1.1. Owlcat posiada wszelkie prawa niezbędne do zawarcia niniejszej Umowy. Owlcat niniejszym informuje, że korzysta ze wszystkich bibliotek lub oprogramowania osób trzecich zawartych w Oprogramowaniu na odpowiednich warunkach i na podstawie stosownych licencji (jeśli takie istnieją), do których dostęp można uzyskać na stronach internetowych ich właścicieli. Jakiekolwiek korzystanie z Oprogramowania podlega Umowie z Owlcat. Użytkownik nie może zmieniać ani usuwać informacji o prawach autorskich i/lub jakichkolwiek znaków towarowych zawartych w Oprogramowaniu.<br>1.2. Użytkownicy mogą znaleźć na oficjalnej stronie internetowej Oprogramowania minimalne i zalecane wymagania systemowe Urządzenia do prawidłowego korzystania z Oprogramowania. Ze względu na możliwe zmiany i ulepszenia programowe, minimalne i zalecane wymagania systemowe dla Urządzenia w celu działania Oprogramowania mogą ulec zmianie z czasem, a Oprogramowanie może stać się niedostępne dla niektórych typów Urządzeń.<br>2. OGRANICZONA LICENCJA<br>2.1. Od momentu akceptacji niniejszej EULA Użytkownik otrzymuje osobistą, ograniczoną, niewyłączną licencję na instalację i korzystanie z Oprogramowania do użytku niekomercyjnego wyłącznie zgodnie z postanowieniami niniejszej Umowy. Owlcat nie udziela Użytkownikowi żadnych praw z tytułu korzystania z Oprogramowania, z wyjątkiem praw wyraźnie określonych w niniejszej EULA.<br>2.2. Użytkownikowi nie wolno:<br>• rozpowszechniać, wypożyczać, wynajmować odpłatnie Oprogramowania lub jego kopii osobom trzecim;<br>• zmieniać, scalać, adaptować, dekompilować, dezasemblować, modyfikować, tłumaczyć na inne języki lub w jakikolwiek sposób zmieniać Oprogramowania lub któregokolwiek z jego elementów;<br>• tworzyć prac pochodnych opartych na Oprogramowaniu;<br>• używać Oprogramowania w inny sposób, który nie jest wyraźnie określony w niniejszej EULA.<br>2.3. Użytkownik może korzystać z Oprogramowania w czasie obowiązywania niniejszej Umowy licencyjnej w wyżej wymieniony sposób w dowolnym miejscu na świecie.<br>2.4. Oprogramowanie jest przeznaczone wyłącznie do niekomercyjnego użytku Użytkownika.<br>2.5. Wszelkie prawa, które nie zostały wyraźnie przyznane w niniejszej Umowie Licencyjnej są zastrzeżone.<br>2.6. Użytkownikom zabrania się dekompilacji, dekodowania i odtwarzania danych, obchodzenia systemów bezpieczeństwa danych, łamania lub prób złamania elementów składowych Oprogramowania. Zabronione są następujące czynności: (między innymi) wszelkie modyfikacje, zmiany, dekompilacja, dekodowanie, sprzedaż lub dystrybucja zmodyfikowanych materiałów Oprogramowania w całości lub we fragmentach (lub środków i materiałów niezbędnych do wykonania takich czynności), wykorzystywanie błędów programistycznych, dokonywanie zmian w kodzie programu.<br>2.7. Zabrania się fałszowania, usuwania lub wyłączania jakichkolwiek informacji o prawach autorskich; w szczególności odniesień do Autora, prawnych potwierdzeń praw autorskich lub jakichkolwiek innych wiadomości lub instrukcji, jak również wszelkich uwag dotyczących pochodzenia lub źródła oprogramowania lub innych jego treści.<br>2.8. Z zastrzeżeniem zgodności z niniejszą Umową, Użytkownik jest uprawniony do strumieniowania, nagrywania i publikowania treści wideo z rozgrywki w Oprogramowanie w celach komercyjnych i niekomercyjnych. By uniknąć wątpliwości, Użytkownik jest uprawniony do umieszczania reklam w takich transmisjach/nagraniach wideo oraz może w inny sposób zarabiać na takich treściach wideo za pomocą środków dozwolonych przez odpowiednie strony Internetowe do przesyłania strumieniowego lub udostępniania wideo.<br>2.9. W przypadku chęci wykonania jakichkolwiek działań określonych w punkcie 2.6 niniejszej Umowy, należy skontaktować się z nami pocztą elektroniczną pod adresem mod@owlcat.games w celu uzyskania zgody. Należy pamiętać, że OWLCAT bardzo docenia wkład, jaki Użytkownik może wnieść do Oprogramowania, jednakże zastrzegamy sobie prawo do rozpatrzenia każdego wniosku i według własnego uznania zaakceptowania lub odrzucenia go w razie potrzeby. Należy pamiętać, że zgoda może zostać udzielona wyłącznie w przypadku, gdy użytkownik zgadza się (a) nie sprzedawać ani nie zezwalać nikomu na sprzedaż lub inną komercyjną dystrybucję lub takowe wykorzystanie jakichkolwiek modyfikacji zgłoszonych przez użytkownika oraz (b) udzielić firmie OWLCAT wyłącznej, ogólnoświatowej, wolnej od tantiem, podlegającej sublicencjonowaniu i licencji zbywalnej (I) na użytkowanie, powielanie, rozpowszechnianie oraz pochodnych działań, wyświetlanie, wykonywanie i inne wykorzystywanie w dowolny sposób modyfikacji wprowadzonych przez użytkownika lub ich fragmentów w grze, jak również za pośrednictwem wszelkich mediów znanych obecnie lub opracowanych w przyszłości, oraz (II) reklamowanie, wprowadzanie na rynek i promowanie.<br>3. wykorzystanie danych<br>3.1. Użytkownik niniejszym wyraża zgodę na gromadzenie, przechowywanie przez okres korzystania przez Użytkownika z Oprogramowania i nie dłużej niż 1 rok po tym okresie oraz przetwarzanie przez Owlcat Games w inny sposób informacji dotyczących Oprogramowania używanego przez Użytkownika, takich jak identyfikator urządzenia oraz jego adres IP, wersji platformy i systemu operacyjnego, modelu urządzenia, czasu korzystania z Oprogramowania, wersji i numeru identyfikacyjnego Oprogramowania, informacji dotyczących sprzętu i oprogramowania zainstalowanego na Urządzeniu Użytkownika oraz wszelkich innych anonimowych informacji technicznych i statystycznych, których Owlcat Games potrzebuje w celu identyfikacji i eliminacji problemów z działaniem Oprogramowania, ulepszania go oraz w celach marketingowych. Ponadto Owlcat Games może przetwarzać i przechowywać anonimowe informacje zebrane za pomocą Oprogramowania opisanego powyżej przez czas nieokreślony. W związku z tym Użytkownik niniejszym wyraża również zgodę na to, że Owlcat ma prawo do przekazywania wspomnianych anonimowych informacji swoim podwykonawcom, wykonującym prace nad Grą, oraz sprzedawcom świadczącym usługi niezbędne do funkcjonowania Gry.<br>3.2. Wszelkie informacje zebrane i przetwarzane na podstawie niniejszej EULA będą zawsze traktowane zgodnie z naszą Polityką Prywatności dostępną pod adresem https://owlcat.games/privacy, włączoną do niniejszej Umowy do której się odnosi. Wszystkie zebrane informacje są całkowicie anonimowe i nie mogą zostać przyporządkowane do konkretnego Użytkownika.<br>4. ODMOWA GWARANCJI<br>W MAKSYMALNYM ZAKRESIE DOPUSZCZONYM PRZEZ WŁAŚCIWE PRAWO OWLCAT WYRAŹNIE ODMAWIA WSZELKICH GWARANCJI, BEZPOŚREDNIO LUB POŚREDNIO, WOBEC UŻYTKOWNIKA W ODNIESIENIU DO OPROGRAMOWANIA, WŁĄCZAJĄC W TO JAKIEKOLWIEK POŚREDNIE GWARANCJE DOTYCZĄCE JAKOŚCI, PRZYDATNOŚCI DO OKREŚLONYCH CELÓW I JEJ PRZESTRZEGANIA. OPROGRAMOWANIE JEST DOSTARCZANE <bs_n1>W STANIE FAKTYCZNYM<bs_n1> BEZ ŻADNYCH DALSZYCH GWARANCJI JAKIEGOKOLWIEK RODZAJU. UŻYTKOWNIK PONOSI WSZELKIE RYZYKO ZWIĄZANE Z WSZELKIMI SZKODAMI I STRATAMI WYNIKAJĄCYMI Z UŻYTKOWANIA LUB NIEMOŻNOŚCI UŻYTKOWANIA OPROGRAMOWANIA. OWLCAT NIE GWARANTUJE, ŻE OPROGRAMOWANIE SPEŁNIA WYMAGANIA UŻYTKOWNIKA ORAZ ŻE DZIAŁANIE OPROGRAMOWANIA BĘDZIE NIEZAWODNE I BEZBŁĘDNE.<br>5. OGRANICZENIE ODPOWIEDZIALNOŚCI<br>W MAKSYMALNYM ZAKRESIE DOPUSZCZONYM PRZEZ WŁAŚCIWE PRAWO ANI OWLCAT, ANI JEGO LICENCJODAWCY I/LUB PARTNERZY NIE PONOSZĄ ŻADNEJ ODPOWIEDZIALNOŚCI WOBEC UŻYTKOWNIKA ZA JAKIEKOLWIEK SZKODY (WŁĄCZAJĄC W TO STRATY RZECZYWISTE, STRATY WYNIKAJĄCE Z PRZYPADKU, STRATY POŚREDNIE, UTRACONY ZYSK LUB UTRACONE DANE, NIEZALEŻNIE OD TEGO, CZY TAKA SZKODA BYŁA PRZEWIDYWALNA CZY NIE) POWSTAŁE W ZWIĄZKU Z NINIEJSZĄ EULA ORAZ W ZWIĄZKU Z KORZYSTANIEM PRZEZ UŻYTKOWNIKA Z OPROGRAMOWANIA ORAZ INNYCH MATERIAŁÓW DOSTARCZONYCH UŻYTKOWNIKOWI PRZEZ OWLCAT.<br>OWLCAT NIE PONOSI ODPOWIEDZIALNOŚCI ZA NIEZDOLNOŚĆ DO INSTALACJI LUB URUCHOMIENIA OPROGRAMOWANIA NA KOMPUTERZE OSOBISTYM UŻYTKOWNIKA A TAKŻE ZA MOŻLIWE BŁĘDY I USTERKI W DZIAŁANIU OPROGRAMOWANIA. W CELU KORZYSTANIA Z OPROGRAMOWANIA UŻYTKOWNIK MUSI POŁĄCZYĆ SIĘ Z INTERNETEM. WSZELKIE KOSZTY POŁĄCZENIA Z INTERNETEM PONOSI UŻYTKOWNIK. OWLCAT NIE PONOSI ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY WYRZĄDZONE UŻYTKOWNIKOWI W WYNIKU POŁĄCZENIA Z INTERNETEM LUB ZAINSTALOWANIA ZŁOŚLIWEGO OPROGRAMOWANIA NA KOMPUTERZE UŻYTKOWNIKA.<br>W ZAKRESIE DOPUSZCZONYM PRZEZ WŁAŚCIWE PRAWO, OWLCAT ODRZUCA JAKĄKOLWIEK ODPOWIEDZIALNOŚĆ ZA DZIAŁALNOŚĆ, KTÓRĄ MOGĄ PODEJMOWAĆ NIELETNI BEZ ZGODY ICH RODZICÓW LUB OPIEKUNÓW PRAWNYCH. JEŚLI UŻYTKOWNIK JEST RODZICEM LUB OPIEKUNEM PRAWNYM I UDZIELA SWOJEMU DZIECKU ZGODY NA KORZYSTANIE Z OPROGRAMOWANIA, ZGADZA SIĘ NA WARUNKI DOTYCZĄCE KORZYSTANIA Z USŁUG PRZEZ SWOJE DZIECKO<br>6. PRAWO WŁAŚCIWE. JURYSDYKCJA<br>Niniejsza EULA podlega prawu Anglii i Walii. Wszelkie spory powstałe w związku z niniejszą EULA powinny być rozstrzygane przez strony bez odwoływania się do sądu, a w przypadku, gdy strony nie dojdą do porozumienia bez odwoływania się do sądu, spory będą rozstrzygane przez sąd o odpowiedniej jurysdykcji w lokalizacji Owlcat.<br>Każdy Użytkownik musi przestrzegać prawa Anglii i Walii oraz prawa swojego kraju zamieszkania. Każdy Użytkownik ponosi wyłączną odpowiedzialność za naruszenie tych przepisów.<br>7. Różne kwestie<br>7.1. Wypowiedzenie. Niniejsza Umowa jest skuteczna do momentu jej rozwiązania. Prawa użytkownika wynikające z niniejszej Umowy wygasają natychmiastowo i automatycznie bez żadnego powiadomienia ze strony Owlcat, jeżeli użytkownik nie spełni któregokolwiek z warunków niniejszej Umowy. Niezwłocznie po rozwiązaniu Umowy, Użytkownik musi zaprzestać korzystania z Oprogramowania i usunąć/zlikwidować wszystkie kopie Oprogramowania znajdujące się w jego posiadaniu lub pod jego kontrolą. Wypowiedzenie nie ogranicza żadnych innych praw i środków prawnych przysługujących Owlcat na mocy prawa lub na zasadzie słuszności. Sekcje 4 — 7 niniejszej Umowy zachowują ważność po rozwiązaniu lub wygaśnięciu niniejszej Umowy z jakiegokolwiek powodu.<br>7.2. Owlcat może według własnego uznania w dowolnym czasie przenieść i/lub przekazać swoje prawa i obowiązki wynikające z niniejszej EULA lub jakiejkolwiek ich części jakiejkolwiek stronie trzeciej bez powiadomienia użytkownika. Prawa użytkownika są osobiste i nie podlegają cesji.<br>7.3. Niniejsza Umowa stanowi całość porozumienia pomiędzy Użytkownikiem a Owlcat w zakresie korzystania z Oprogramowania przez Użytkownika i zastępuje wszelkie wcześniejsze ustne i pisemne porozumienia lub ustne i pisemne porozumienia, które są równoczesne z zawarciem niniejszej Umowy w zakresie przedmiotu niniejszej Umowy, które są zjednoczone w niniejszej Umowie.<br>7.4. Jeżeli którekolwiek z postanowień niniejszej Umowy zostanie uznane przez sąd właściwej jurysdykcji za sprzeczne z prawem, postanowienie to będzie egzekwowane w maksymalnym dopuszczalnym zakresie, a pozostałe postanowienia niniejszej Umowy dalej będą obowiązywać w całości i będą również egzekwowane.<br>7.5. Owlcat zastrzega sobie prawo do zmiany warunków Umowy poprzez aktualizację EULA na stronie Internetowej znajdującej się pod adresem https://owlcat.games/ lub poprzez powiadomienie Użytkowników za pośrednictwem poczty elektronicznej (jeśli będzie taka możliwość). Zmieniona EULA obowiązuje od dnia jej opublikowania. Użytkownikom zaleca się okresowe sprawdzanie strony internetowej w celu uzyskania informacji o zmianach. Dalsze korzystanie z Oprogramowania będzie uznane za akceptację wszelkich warunków, które uległy zmianie.<br>W sprawie wszelkich kwestii związanych z niniejszą Umową należy kontaktować się drogą elektroniczną pod adresem e-mail: legal@owlcat.games. Tylko angielska wersja niniejszego dokumentu ma moc prawną. Wszelkie tłumaczenia tego dokumentu na inne języki są zamieszczone wyłącznie dla wygody użytkownika.
+<145>Niniejsza EULA jest umową pomiędzy Tobą, osobą fizyczną posiadającą pełną zdolność do czynności prawnych a OWLCAT GAMES LTD (dalej <bs_n1>Owlcat<bs_n1>) dotyczącą oprogramowania <bs_n1>Pathfinder: Wrath of the Righteous<bs_n1> oraz całej powiązanej dokumentacji, wszelkich aktualizacji i uaktualnień, które zastępują lub uzupełniają oprogramowanie pod jakimkolwiek względem i które nie są dystrybuowane z oddzielną licencją (<bs_n1>Oprogramowanie<bs_n1> i/lub <bs_n1>Gra<bs_n1> są taktowane zbiorczo)) (zwane dalej <bs_n1>Oprogramowaniem<bs_n1>). W przypadku korzystania z Oprogramowania za pośrednictwem dostawcy konsoli, platformy lub aplikacji (zwanego <bs_n1>Trzecią Stroną<bs_n1), wszelkie działania świadczone przez taką stronę trzecią poza kontrolą Owlcat Games, jak również korzystanie z Oprogramowania przez Stronę Trzecią podlegają zasadom i umowom tej strony trzeciej.<br>Akceptacja warunków niniejszej Umowy licencyjnej użytkownika końcowego (zwanej dalej <bs_n1>EULA<bs_n1> lub <bs_n1>Umową<bs_n1>) jest obowiązkowa, aby Użytkownik mógł korzystać z Oprogramowania. Prosimy o uważne przeczytanie warunków EULA przed zainstalowaniem Oprogramowania na komputerze osobistym (<bs_n1>Urządzeniem<bs_n1>). Jeśli nie zgadzasz się z warunkami niniejszej Umowy lub nie możesz korzystać z Oprogramowania zgodnie z warunkami niniejszej Umowy, przerwij instalację Oprogramowania i/lub natychmiast usuń Oprogramowanie ze swojego Urządzenia.<br>Jeśli nie posiadasz pełnej zdolności prawnej do zawarcia niniejszej Umowy, jesteś zobowiązany do uzyskania zgody rodzica lub opiekuna prawnego na korzystanie z Oprogramowania i zawarcie niniejszej Umowy<br>Pobieranie, instalacja Oprogramowania (zgodnie z opisem poniżej) i/lub jakiekolwiek korzystanie z Oprogramowania oznacza twoją pełną zgodę na warunki niniejszej Umowy i wszelkich innych powiązanych dokumentów. Korzystanie z Oprogramowania niezgodnie z niniejszą EULA grozi konsekwencjami prawnymi.<br>Musisz również zaakceptować i przestrzegać wszystkich zasad platform stron trzecich dystrybuujących Oprogramowanie. Jakiekolwiek naruszenie zasad platform Stron Trzecich będzie również traktowane jako podstawowe naruszenie niniejszej EULA.<br>Odrębne warunki mogą regulować korzystanie z usług online w związku z Oprogramowaniem. Możesz zapoznać się z treścią takiego regulaminu na stronie owlcatgames.com lub na innej oficjalnej stronie internetowej Oprogramowania i/lub Strony Trzeciej.<br>Należy pamiętać, że Oprogramowanie zawiera Zawartość Otwartą dostępną na licencji Open Game License (https://owlcat.games/OGLPFWotR), niektóre biblioteki i oprogramowanie należy do osób trzecich. Wszystkie odnośne informacje są również dostępne w oknie Autorów gry lub lokalnie w folderze instalacyjnym.<br>1. POSTANOWIENIA OGÓLNE<br>1.1. Owlcat posiada wszelkie prawa niezbędne do zawarcia niniejszej Umowy. Owlcat niniejszym informuje, że korzysta ze wszystkich bibliotek lub oprogramowania osób trzecich zawartych w Oprogramowaniu na odpowiednich warunkach i na podstawie stosownych licencji (jeśli takie istnieją), do których dostęp można uzyskać na stronach internetowych ich właścicieli. Jakiekolwiek korzystanie z Oprogramowania podlega Umowie z Owlcat. Użytkownik nie może zmieniać ani usuwać informacji o prawach autorskich i/lub jakichkolwiek znaków towarowych zawartych w Oprogramowaniu.<br>1.2. Użytkownicy mogą znaleźć na oficjalnej stronie internetowej Oprogramowania minimalne i zalecane wymagania systemowe Urządzenia do prawidłowego korzystania z Oprogramowania. Ze względu na możliwe zmiany i ulepszenia programowe, minimalne i zalecane wymagania systemowe dla Urządzenia w celu działania Oprogramowania mogą ulec zmianie z czasem, a Oprogramowanie może stać się niedostępne dla niektórych typów Urządzeń.<br>2. OGRANICZONA LICENCJA<br>2.1. Od momentu akceptacji niniejszej EULA Użytkownik otrzymuje osobistą, ograniczoną, niewyłączną licencję na instalację i korzystanie z Oprogramowania do użytku niekomercyjnego wyłącznie zgodnie z postanowieniami niniejszej Umowy. Owlcat nie udziela Użytkownikowi żadnych praw z tytułu korzystania z Oprogramowania, z wyjątkiem praw wyraźnie określonych w niniejszej EULA.<br>2.2. Użytkownikowi nie wolno:<br>• rozpowszechniać, wypożyczać, wynajmować odpłatnie Oprogramowania lub jego kopii osobom trzecim;<br>• zmieniać, scalać, adaptować, dekompilować, dezasemblować, modyfikować, tłumaczyć na inne języki lub w jakikolwiek sposób zmieniać Oprogramowania lub któregokolwiek z jego elementów;<br>• tworzyć prac pochodnych opartych na Oprogramowaniu;<br>• używać Oprogramowania w inny sposób, który nie jest wyraźnie określony w niniejszej EULA.<br>2.3. Użytkownik może korzystać z Oprogramowania w czasie obowiązywania niniejszej Umowy licencyjnej w wyżej wymieniony sposób w dowolnym miejscu na świecie.<br>2.4. Oprogramowanie jest przeznaczone wyłącznie do niekomercyjnego użytku Użytkownika.<br>2.5. Wszelkie prawa, które nie zostały wyraźnie przyznane w niniejszej Umowie Licencyjnej są zastrzeżone.<br>2.6. Użytkownikom zabrania się dekompilacji, dekodowania i odtwarzania danych, obchodzenia systemów bezpieczeństwa danych, łamania lub prób złamania elementów składowych Oprogramowania. Zabronione są następujące czynności: (między innymi) wszelkie modyfikacje, zmiany, dekompilacja, dekodowanie, sprzedaż lub dystrybucja zmodyfikowanych materiałów Oprogramowania w całości lub we fragmentach (lub środków i materiałów niezbędnych do wykonania takich czynności), wykorzystywanie błędów programistycznych, dokonywanie zmian w kodzie programu.<br>2.7. Zabrania się fałszowania, usuwania lub wyłączania jakichkolwiek informacji o prawach autorskich; w szczególności odniesień do Autora, prawnych potwierdzeń praw autorskich lub jakichkolwiek innych wiadomości lub instrukcji, jak również wszelkich uwag dotyczących pochodzenia lub źródła oprogramowania lub innych jego treści.<br>2.8. Z zastrzeżeniem zgodności z niniejszą Umową, Użytkownik jest uprawniony do strumieniowania, nagrywania i publikowania treści wideo z rozgrywki w Oprogramowanie w celach komercyjnych i niekomercyjnych. By uniknąć wątpliwości, Użytkownik jest uprawniony do umieszczania reklam w takich transmisjach/nagraniach wideo oraz może w inny sposób zarabiać na takich treściach wideo za pomocą środków dozwolonych przez odpowiednie strony Internetowe do przesyłania strumieniowego lub udostępniania wideo.<br>2.9. W przypadku chęci wykonania jakichkolwiek działań określonych w punkcie 2.6 niniejszej Umowy, należy skontaktować się z nami pocztą elektroniczną pod adresem mod@owlcat.games w celu uzyskania zgody. Należy pamiętać, że OWLCAT bardzo docenia wkład, jaki Użytkownik może wnieść do Oprogramowania, jednakże zastrzegamy sobie prawo do rozpatrzenia każdego wniosku i według własnego uznania zaakceptowania lub odrzucenia go w razie potrzeby. Należy pamiętać, że zgoda może zostać udzielona wyłącznie w przypadku, gdy użytkownik zgadza się (a) nie sprzedawać ani nie zezwalać nikomu na sprzedaż lub inną komercyjną dystrybucję lub takowe wykorzystanie jakichkolwiek modyfikacji zgłoszonych przez użytkownika oraz (b) udzielić firmie OWLCAT wyłącznej, ogólnoświatowej, wolnej od tantiem, podlegającej sublicencjonowaniu i licencji zbywalnej (I) na użytkowanie, powielanie, rozpowszechnianie oraz pochodnych działań, wyświetlanie, wykonywanie i inne wykorzystywanie w dowolny sposób modyfikacji wprowadzonych przez użytkownika lub ich fragmentów w grze, jak również za pośrednictwem wszelkich mediów znanych obecnie lub opracowanych w przyszłości, oraz (II) reklamowanie, wprowadzanie na rynek i promowanie.<br>3.1. Wykorzystanie danych<br>Użytkownik niniejszym wyraża zgodę na gromadzenie, przechowywanie przez czas nieokreślony i przetwarzanie w inny sposób przez Owlcat Games anonimowych informacji o Oprogramowaniu używanym przez Użytkownika, informacji o sprzęcie i oprogramowaniu zainstalowanym na Urządzeniu Użytkownika oraz wszelkich innych anonimowych informacji technicznych i statystycznych, których Owlcat Games potrzebuje w celu identyfikacji i eliminacji problemów z działaniem Oprogramowania, ulepszania Oprogramowania oraz w celach marketingowych. W związku z tym Użytkownik niniejszym zgadza się, że Owlcat Games ma prawo do przesyłania plików oprogramowania do Urządzenia Użytkownika, które będą rejestrować informacje o procesorze, pamięci RAM, systemie operacyjnym, karcie graficznej, karcie dźwiękowej, oprogramowaniu i aplikacjach innych programistów, urządzeniach peryferyjnych, geolokalizacji i wszelkich inne anonimowych informacjach technicznych i statystycznych pochodzących z komputera Użytkownika. Użytkownik zgadza się również, że Owlcat ma prawo do przekazywania wspomnianych anonimowych informacji swoim podwykonawcom, pracującym nad rozwojem Gry i dostawcom świadczącym usługi niezbędne do jej działania.<br>3.2. Wszelkie informacje zebrane i przetwarzane na podstawie niniejszej EULA będą zawsze traktowane zgodnie z naszą Polityką Prywatności dostępną pod adresem https://owlcat.games/privacy, włączoną do niniejszej Umowy do której się odnosi. Wszystkie zebrane informacje są całkowicie anonimowe i nie mogą zostać przyporządkowane do konkretnego Użytkownika.<br>4. ODMOWA GWARANCJI<br>W MAKSYMALNYM ZAKRESIE DOPUSZCZONYM PRZEZ WŁAŚCIWE PRAWO OWLCAT WYRAŹNIE ODMAWIA WSZELKICH GWARANCJI, BEZPOŚREDNIO LUB POŚREDNIO, WOBEC UŻYTKOWNIKA W ODNIESIENIU DO OPROGRAMOWANIA, WŁĄCZAJĄC W TO JAKIEKOLWIEK POŚREDNIE GWARANCJE DOTYCZĄCE JAKOŚCI, PRZYDATNOŚCI DO OKREŚLONYCH CELÓW I JEJ PRZESTRZEGANIA. OPROGRAMOWANIE JEST DOSTARCZANE <bs_n1>W STANIE FAKTYCZNYM<bs_n1> BEZ ŻADNYCH DALSZYCH GWARANCJI JAKIEGOKOLWIEK RODZAJU. UŻYTKOWNIK PONOSI WSZELKIE RYZYKO ZWIĄZANE Z WSZELKIMI SZKODAMI I STRATAMI WYNIKAJĄCYMI Z UŻYTKOWANIA LUB NIEMOŻNOŚCI UŻYTKOWANIA OPROGRAMOWANIA. OWLCAT NIE GWARANTUJE, ŻE OPROGRAMOWANIE SPEŁNIA WYMAGANIA UŻYTKOWNIKA ORAZ ŻE DZIAŁANIE OPROGRAMOWANIA BĘDZIE NIEZAWODNE I BEZBŁĘDNE.<br>5. OGRANICZENIE ODPOWIEDZIALNOŚCI<br>W MAKSYMALNYM ZAKRESIE DOPUSZCZONYM PRZEZ WŁAŚCIWE PRAWO ANI OWLCAT, ANI JEGO LICENCJODAWCY I/LUB PARTNERZY NIE PONOSZĄ ŻADNEJ ODPOWIEDZIALNOŚCI WOBEC UŻYTKOWNIKA ZA JAKIEKOLWIEK SZKODY (WŁĄCZAJĄC W TO STRATY RZECZYWISTE, STRATY WYNIKAJĄCE Z PRZYPADKU, STRATY POŚREDNIE, UTRACONY ZYSK LUB UTRACONE DANE, NIEZALEŻNIE OD TEGO, CZY TAKA SZKODA BYŁA PRZEWIDYWALNA CZY NIE) POWSTAŁE W ZWIĄZKU Z NINIEJSZĄ EULA ORAZ W ZWIĄZKU Z KORZYSTANIEM PRZEZ UŻYTKOWNIKA Z OPROGRAMOWANIA ORAZ INNYCH MATERIAŁÓW DOSTARCZONYCH UŻYTKOWNIKOWI PRZEZ OWLCAT.<br>OWLCAT NIE PONOSI ODPOWIEDZIALNOŚCI ZA NIEZDOLNOŚĆ DO INSTALACJI LUB URUCHOMIENIA OPROGRAMOWANIA NA KOMPUTERZE OSOBISTYM UŻYTKOWNIKA A TAKŻE ZA MOŻLIWE BŁĘDY I USTERKI W DZIAŁANIU OPROGRAMOWANIA. W CELU KORZYSTANIA Z OPROGRAMOWANIA UŻYTKOWNIK MUSI POŁĄCZYĆ SIĘ Z INTERNETEM. WSZELKIE KOSZTY POŁĄCZENIA Z INTERNETEM PONOSI UŻYTKOWNIK. OWLCAT NIE PONOSI ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY WYRZĄDZONE UŻYTKOWNIKOWI W WYNIKU POŁĄCZENIA Z INTERNETEM LUB ZAINSTALOWANIA ZŁOŚLIWEGO OPROGRAMOWANIA NA KOMPUTERZE UŻYTKOWNIKA.<br>W ZAKRESIE DOPUSZCZONYM PRZEZ WŁAŚCIWE PRAWO, OWLCAT ODRZUCA JAKĄKOLWIEK ODPOWIEDZIALNOŚĆ ZA DZIAŁALNOŚĆ, KTÓRĄ MOGĄ PODEJMOWAĆ NIELETNI BEZ ZGODY ICH RODZICÓW LUB OPIEKUNÓW PRAWNYCH. JEŚLI UŻYTKOWNIK JEST RODZICEM LUB OPIEKUNEM PRAWNYM I UDZIELA SWOJEMU DZIECKU ZGODY NA KORZYSTANIE Z OPROGRAMOWANIA, ZGADZA SIĘ NA WARUNKI DOTYCZĄCE KORZYSTANIA Z USŁUG PRZEZ SWOJE DZIECKO<br>6. PRAWO WŁAŚCIWE. JURYSDYKCJA<br>Niniejsza EULA podlega prawu Anglii i Walii. Wszelkie spory powstałe w związku z niniejszą EULA powinny być rozstrzygane przez strony bez odwoływania się do sądu, a w przypadku, gdy strony nie dojdą do porozumienia bez odwoływania się do sądu, spory będą rozstrzygane przez sąd o odpowiedniej jurysdykcji w lokalizacji Owlcat.<br>Każdy Użytkownik musi przestrzegać prawa Anglii i Walii oraz prawa swojego kraju zamieszkania. Każdy Użytkownik ponosi wyłączną odpowiedzialność za naruszenie tych przepisów.<br>7. Różne kwestie<br>7.1. Wypowiedzenie. Niniejsza Umowa jest skuteczna do momentu jej rozwiązania. Prawa użytkownika wynikające z niniejszej Umowy wygasają natychmiastowo i automatycznie bez żadnego powiadomienia ze strony Owlcat, jeżeli użytkownik nie spełni któregokolwiek z warunków niniejszej Umowy. Niezwłocznie po rozwiązaniu Umowy, Użytkownik musi zaprzestać korzystania z Oprogramowania i usunąć/zlikwidować wszystkie kopie Oprogramowania znajdujące się w jego posiadaniu lub pod jego kontrolą. Wypowiedzenie nie ogranicza żadnych innych praw i środków prawnych przysługujących Owlcat na mocy prawa lub na zasadzie słuszności. Sekcje 4 — 7 niniejszej Umowy zachowują ważność po rozwiązaniu lub wygaśnięciu niniejszej Umowy z jakiegokolwiek powodu.<br>7.2. Owlcat może według własnego uznania w dowolnym czasie przenieść i/lub przekazać swoje prawa i obowiązki wynikające z niniejszej EULA lub jakiejkolwiek ich części jakiejkolwiek stronie trzeciej bez powiadomienia użytkownika. Prawa użytkownika są osobiste i nie podlegają cesji.<br>7.3. Niniejsza Umowa stanowi całość porozumienia pomiędzy Użytkownikiem a Owlcat w zakresie korzystania z Oprogramowania przez Użytkownika i zastępuje wszelkie wcześniejsze ustne i pisemne porozumienia lub ustne i pisemne porozumienia, które są równoczesne z zawarciem niniejszej Umowy w zakresie przedmiotu niniejszej Umowy, które są zjednoczone w niniejszej Umowie.<br>7.4. Jeżeli którekolwiek z postanowień niniejszej Umowy zostanie uznane przez sąd właściwej jurysdykcji za sprzeczne z prawem, postanowienie to będzie egzekwowane w maksymalnym dopuszczalnym zakresie, a pozostałe postanowienia niniejszej Umowy dalej będą obowiązywać w całości i będą również egzekwowane.<br>7.5. Owlcat zastrzega sobie prawo do zmiany warunków Umowy poprzez aktualizację EULA na stronie Internetowej znajdującej się pod adresem https://owlcat.games/ lub poprzez powiadomienie Użytkowników za pośrednictwem poczty elektronicznej (jeśli będzie taka możliwość). Zmieniona EULA obowiązuje od dnia jej opublikowania. Użytkownikom zaleca się okresowe sprawdzanie strony internetowej w celu uzyskania informacji o zmianach. Dalsze korzystanie z Oprogramowania będzie uznane za akceptację wszelkich warunków, które uległy zmianie.<br>W sprawie wszelkich kwestii związanych z niniejszą Umową należy kontaktować się drogą elektroniczną pod adresem e-mail: legal@owlcat.games. Tylko angielska wersja niniejszego dokumentu ma moc prawną. Wszelkie tłumaczenia tego dokumentu na inne języki są zamieszczone wyłącznie dla wygody użytkownika.
+<146>[Projekt] Any creature entering the spilled chaotic transformation potion must succeed on a Fortitude saving throw each round while in the pool, or be affected by one of the following effects:<br>Barskin<br>Beast Shape I<br>BeastShape II<br>BalefulPolymorph<br>AnimalAspect, Greater (any)<br>Elemental Body I (any)<br>Enlarge Person<br>Reduce person<br>The effect of the potion is unstable and disappears when leaving the zone after 1 round. The creature cannot be the target of this effect again for 24 hours. The Life Bubble spell prevents this effect.
+<147>[Projekt] Potion of Chaotic Transformation
+<148>[Projekt]This creature laughs non-stop under the influence of the fumes of a strange potion brewed by a mad goblin alchemist.
+<149>[Projekt] Contagious Laughter
+<150>[Projekt] Any creature that enters the spilled potion of contagious laughter must succeed on a Will save each round while in the pool or act as if it were under the effect of the Hideous Laughter spell. If the creature continues to laugh, every round, any creature within 15 feet of it that doesn't have breath protection also rolls a Will save to avoid being affected. The effect of the potion is unstable and disappears when leaving the zone after 1 round. The creature cannot be the target of this effect again for 24 hours. The Life Bubble spell prevents this effect.
+<151>[Projekt] Potion of Contagious Laughter
+<152>[Projekt] The creature is covered by a crust of thick ice, which gives it DR 8 physical/ — bludgeoning and +2 natural armor bonus. When DR absorbs 40 damage, the crust will be broken and all its benefits lost.
+<153>[Projekt] The icy wind, which appeared from the depths of the Abyss, slowly but surely draws warmth, life and hope of salvation from its victims, nourishing the servants of its master. If a creature in the storm has the mark of Sithad, an ice crust begins to build up on its body, creating an obstacle to the weapons of their enemies. Any creature caught in the Blizzard that does not have Sithad's Mark, take a –2 penalty to Dexterity, a –1 penalty on attack rolls and its speed reduced by 5 feet. It also must succeed on a concentration check (DC 15 + spell level) to cast a spell and take 1d6 cold damage every round.
+<154>[Projekt] Blizzard of the Abyss
+<155>[Projekt] The icy wind, which appeared from the depths of the Abyss, slowly but surely draws warmth, life and hope of salvation from its victims, nourishing the servants of its master. If a creature in the storm has the mark of Sithad, an ice crust begins to build up on its body, creating an obstacle to the weapons of their enemies. Any creature caught in the Blizzard that does not have Sithad's Mark, take a –4 penalty to Dexterity, a –2 penalty on attack rolls and its speed reduced by 10 feet. It also must succeed on a concentration check (DC 15 + spell level) to cast a spell and take 2d6 cold damage every round.
+<156>[projekt] Chłód Otchłani
+<157>[Projekt] This creature serves the fallen demon lord Sithhud — and as long as his loyalty knows no doubt, the icy winds of the Abyss will protect him.
+<158>[projekt] Znak Sithuda
+<159>Szampan ryzyka uczynił cię dzieckiem w czepku urodzonym! Wszystkie swoje rzuty k20 wykonujesz dwukrotnie i stosujesz korzystniejszy wynik. Ale uważaj — jeżeli wyrzucisz 20, twoje szczęście może stać się garbate.
+<160>[projekt] Szczęście miłuje ryzykantów
+<161>[Projekt] You took a chance.. and at the moment of your greatest triumph, fortune showed you her back. You get a -4 penalty on all your attack rolls, saving throws, skill checks and concentration checks.
+<162>[Projekt] The game is not worth the candle
+<163> [Projekt] Any creature exposed to the spilled champagne of risk must succeed in maintaining the will in each round while in the pool, or else it will be forced to throw caution to the wind. Whenever a situation calls for a d20 roll, any creature affected by this ability must roll twice and choose the best roll. The <bs_n1>Life Bubble<bs_n1> spell prevents this effect. The creature cannot become the object of this effect again for 24 hours. The effect of the potion is unstable and disappears when leaving the zone after 1 round. If any of the throws of a creature under the champagne risk pairs fell to 20, the affected creature immediately loses its luck, receiving a — 4 penalty to all saving throws, attack rolls,skill checks and concentration check for 1 day. This is the effect of the curse.
+<164>[Projekt] Champagne of risk
+<165>[Projekt] Wild Magic Charge
+<166>[Projekt] Wave of Wild Magic
+<167>[Projekt] You exhale a cloud of flies in a 60-foot cone. Creatures in the affected area take {g|Encyclopedia:Dice}1d6{/g} points of piercing damage per level from the bites (maximum of 18d6) and are nauseated for 1d4 rounds. A creature that succeeds at Reflex save takes half the normal damage and negates the nausea effect. Any creature that takes any damage at all from the flies is automatically sickened for 1 minute.
+<168>[Projekt] This creature have a fire breath, like a dragon or similar creature. Creatures in the affected area take 1d4 points of energy damage per level. A successful Reflex save results in half damage.
+<169>[Projekt] The body of this creature was not born, but created using the forbidden art of flesh-sculpting and the knowledge of the transmigration of souls.<br>All of this creature's starting attributes are 18. The creature takes no attribute penalties from its race (but still does get bonuses).
+<170>[Projekt] Perfect Body, Perfect Mind
+<171>[projekt] Ta istota posiada skrzydła, która zapewnia jej premię +3 z uniku do KP przeciwko atakom w zwarciu oraz niewrażliwość na efekty wynikające z terenu, takie jakie wywołuje np. trudny teren.
+<172>Ta istota zawarła pakt z koszmarem, zyskując zdolność przyzywania go na pomoc raz dziennie. Pojawia się w wyznaczonym przez ciebie miejscu i działa zgodnie z wynikami testu inicjatywy. Atakuje przeciwników najlepiej jak potrafi.
+<173>Przywołanie Koszmaru
+<174>[Projekt] This creature have a fire breath, like a dragon or similar creature. Creatures in the affected area take 1d4 points of energy damage per level. A successful Reflex save results in half damage.
+<175>[Projekt] With a menacing exhale, it unleashes a devastating cone-shaped breath weapon, enveloping its targets in an icy tempest. Within a range of 120 feet, this chilling breath inflicts a staggering 20d6 cold damage upon those unfortunate enough to be caught in its frigid embrace.<br>The Breath of Sithhud carries with it the insidious Sithhud's Frostbite effect. Victims caught within the icy blast must make a Reflex save to halve the damage. Those who fail the saving throw and possess Protection from Evil find their defense swiftly dispelled, leaving them vulnerable to the full force of the Sithhud's frosty breath.<br>Each rank of Sithhud's Frostbite effect exacts a cumulative toll upon the target's Dexterity, inflicting a -2 penalty per rank. This relentless debilitation diminishes the victim's agility and hampers their ability to react effectively in combat. Moreover, the Frostbite effect increases the victim's vulnerability to bludgeoning attacks, making them more susceptible to such damage.<br>As the Frostbite effect reaches its third and final rank, the victim succumbs to an icy fate. Frozen to the core, they are rendered immobile and lifeless, a haunting testament to the lethal power of the Sithhud's breath.
+<176>[projekt] The Bite of Sithhud is a devastating attack possessed by the colossal Sithhud monster. With its enormous head and razor-sharp fangs, the Sithhud lunges at its targets, inflicting massive damage upon impact. It deals 20d6 of bludgeoning damage in 30 feet radius and applies same penalties as Breath of Sithhud.
+<177>[projekt] Bite of Sithhud
+<178>Żądło;{g|Encyclopedia:Saving_Throw}Rzut obronny{/g}: Wytrwałość<br>Częstotliwość: 1/{g|Encyclopedia:Combat_Round}rundę{/g} przez 6 rund<br>Efekt: {g|Encyclopedia:Dice}1k4{/g} {g|Encyclopedia:Damage}obrażeń{/g} {g|Encyclopedia:Strength}Siły{/g}<br>{g|Encyclopedia:Healing}Uleczenie{/g}: 3 kolejne udane rzuty obronne<br>Klasa Trudności (KT) rzutu obronnego jest zależna od Kondycji.
+<179>Wzmocniony Większy Maruder Kalavakusa
+<180> 
+<181>[projekt] Słaby Goblin Łucznik
+<182>[projekt] Goblin Łucznik
+<183>[projekt] Goblin Łotrzyk
+<184>[projekt] Goblin Alchemik
+<185>[projekt] Goblin Magik
+<186>[projekt] Goblin Intrygant
+<187>[projekt] Zmutowany Goblin
+<188>[projekt] Zmodyfikowany Goblin
+<189>[projekt] Goblin Elitarny Łucznik
+<190>[projekt] Goblin Skrytobójca
+<191>[Projekt] Choogbish Fingernugget
+<192>[projekt] Nieumarły Uczeń Sithuda
+<193>[projekt] Nieumarły Sługa Sithuda
+<194>[Projekt] The Abuss
+<195>[Projekt] Tower's Body
+<196>[Projekt] Ortog Grimhart
+<197>[Projekt] Zort Grimface
+<198>[projekt] Zwiastun Jego Ciemności 
+<199>[projekt] Blies Kąśliwe Słowo
+<200>[projekt] Nucciz Ognista Burza
+<201>[projekt] Zmutowany Goblin
+<202>[projekt] Zmodyfikowany Goblin
+<203>[projekt] Ognisty Goblin
+<204>[projekt] Goblin Podpalacz
+<205>[projekt] Wściekła Nimfa
+<206>[projekt] Mistrzyni Jazdy 
+<207>Rozjuszony Dweomerowy Kot
+<208>Velhen
+<209> 
+<210> 
+<211> 
+<212> 
+<213> 
+<214>[Projekt] Chob Thunderbiter
+<215>[Projekt] Chob Thunderbiter
+<216>[projekt] Kyton, Ostiariusz
+<217>[projekt] named druis graveyard
+<218>[projekt] Mąż Starej Mo
+<219>[projekt] druid revenant
+<220>[projekt] Carrok
+<221>[projekt] Nymph mini boss castera
+<222>[projekt] Kapitan <bs_n1>Rycerzy<bs_n1> Storasty
+<223>[projekt] Edric
+<224>[projekt] <bs_n1>Wojownik w Smoczej Zbroi<bs_n1> Storasty
+<225>[projekt] Wojownik w Rycerskiej Zbroi Storasty
+<226>[projekt] Znachorka Storasty
+<227>[projekt] Wódz Plemienia Storasty
+<228>[projekt] <bs_n1>Stara<bs_n1> Mo
+<229>[projekt] Handlarz Storasty
+<230>Opiekun
+<231>Sarkoriański Bratobójca niszczy jeden ze swoich totemów, dzięki czemu natychmiast leczy 1000 PW.
+<232>Duchowy Kanibalizm
+<233>[projekt] Can be exchanged at vendor for a 2000 gold
+<234>[Projekt] Abadar's Bank Certificate
+<235>[projekt] narrative text about abbadar
+<236>[projekt] Bemirs elixir when drank increases its user critical confirmation by +2 and grants him additional +2 alchemical bonus to damage rolls
+<237>[projekt] Bemirs familiy brew
+<238>[projekt] Once heard this poem grants everyone a +1 insight bonus on attack and damage rolls
+<239>[projekt] Langrat Poem
+<240> 
+<241> 
+<242> 
+<243> 
+<244> 
+<245> 
+<246> 
+<247> 
+<248>[projekt] Postacie odczuwają straszliwy ból.<br> Dopóki nie udadzą się na odpoczynek, ponoszą karę -4 do testów ataku, testów umiejętności oraz rzutów obronnych.
+<249>[projekt] Straszliwy Ból
+<250> 
+<251>[projekt] Ta broń oddechowa jest naładowana mocą Sithuda. Wystrzeliwuje wiązkę o długości 50 stóp, która zadaje 10k10 obrażeń od ognia i 10k10 obrażeń od zimna. Udany rzut na Refleks zmniejsza je o połowę.
+<252>[projekt] Ten kolec działa jak niszczycielksi, szybki sztylet +3. Jego podstawowe obrażenia wynoszą 3k4. W rękach Łotrzyka, Pogromcy na minimalnie 7 poziomie lub Skrytobójcy przy wyrzuceniu naturalnej 20 aktywuje Wyssanie Energii (brak rzutu obronnego).
+<253>Kolec Carroka
+<254>[projekt] Pierścień ochrony +4. Nosząca go postać otrzymuje także zdolność rzucania Wezwania Błyskawic, o efekcie równym druidowi na 15 poziomie. Dodatkowo zapewnia swojemu właścicielowi 25% fortyfikacji.  
+<255>[projekt] Tężyzna Carroka
+<256>[projekt] this concentrated poision is very dangerous and potent. Each round it deald 2d3 damage to con and 3 FORT saves is needed to end it. In addition you take -4 penalty to attakcs you make and spellcasting fails in 50%
+<257>[projekt] Concentrated corrupted jungle poision
+<258>[projekt] Storasta's Jungle Poision
+<259>[projekt] This poision damages 1d3 CON, each round for 6 rounds. 2 FORT Saves needed to end this effect
+<260>[projekt] This amulet grants its user +4 alchemic bonus to saving throws vs poision. In addition it increases bombs count you can throw per day by 3, while also granting additional +2 alchemic bonus to INT.
+<261>[projekt] Amulet of Alchemic Knowledge
+<262>[projekt] This alchemic potion when used grants +1 Inherent bonus to STR,DEX,CON,INT,WIS,CHA
+<263>[projekt] Potion of Humanity
+<264>[projekt] This +2 Keen Heavy Mace is sarcorian made and used by protectors of nature in past. It deal additional 2d8 sacred damage vs undead. In addition it increases its user STR by 2 (enchantment bonus)
+<265>[projekt] Sarkoris Dirge
+<266>[projekt] This Nalfeshnee was killed and ressurected by the cold breath of Sithhud. The reanimation granted it new powers.
+<267>[projekt] Reanimated by Sithhud
+<268>[projekt] When This +2 Frost light crossbow confirms a critical hit against an enemy — the target must make CON 19 saving throw or be slowed by 1d6+1 rounds. On sucussful saving throw the target is merely slowed by 1 round.
+<269>[Projekt] Frosty Wail
+<270>[projekt] This radiant greatsword is light in hand but mighty in impact. It functions as a +2 flaming undead bane greatsword its critical hits is automatically confirmed when used vs undead.
+<271>[projekt] Ostrze Świtezianki
+<272><bs_n1>Ostrze Świtezianki<bs_n1> — takim mianem ochrzcili tę broń ci, którzy odczuli potęgę jej promieniującej mocy.<br>Oręż ten pochodzi z terenów wielkich pustynnych królestw, gdzie żarliwie oddaje się cześć Sarenrae. Mówi się, że jest jego twórcą był pobożny kowal imieniem Iskafi, który mieszkał w Qadirze, mieście wręcz przesiąkniętym kultem Świtezianki. Iskafi był znany ze swoich umiejętności, ale jego życiową ambicją było nie tylko tworzenie, ale też szerzenie ideałów Sarenrae poprzez stal i ogień. Świtezianka objawiała mu się w snach, udzielając wskazówek jak wykuć broń, która byłaby nie tylko metalem, ale też symbolem jej promieniującej mocy i nieustannego dążenia do dobra.<br>Pracując niestrudzenie w żarze pustynnego słońca, Iskafi spędził lata w swojej kuźni, modląc się i składając ofiary Sarenrae podczas pracy. Używał unikalnego stopu stali kutej na słońcu, o którym mówi się, że został wytopiony w promieniach południowego słońca i schłodzony w błogosławionej wodzie ze świętej oazy Sarenrae. Obrabiał metal w blasku świtu, wierząc, że pierwsze światło dnia było błogosławieństwem od samej Świtezianki.<br>W ramach ostatniego szlifu najwyższy kapłan Sarenrae zaczarował ostrze, zaklinając w nim cząstkę boskiej energii. Ukończony miecz promieniował ciepłem i kojącym złotym światłem. Jego ostrze zostało nazwane Ostrzem Świtezianki i było w takim samym stopniu symbolem chwały Sarenrae, co bronią.<br>Ostrze przez wieki służyło wielu pobożnym wojownikom, paladynom i bohaterom w służbie dobra i światła. Używano go do przeganiania ciemności, pokonywania nieumarłych i odpędzania zła. Powiadają, że rozpoznaje czystość intencji dzierżącej je osoby i świeci najjaśniej w rękach tych, którzy walczą w imię Sarenrae. Legendy głoszą, że odwróciło losy niezliczonych bitew, a nawet powstrzymało natarcie armii ciemności. <br>Mówi się, że nawet teraz Ostrze czeka na wezwanie godnego bohatera — takiego, który jest gotowy zanieść światło Świtezianki do najciemniejszych miejsc i rzucić wyzwanie siłom, które mogą rzucić swój cień na cały świat. Po dziś dzień Ostrze pozostaje latarnią nadziei, a także świadectwem zarówno nieskończonego współczucia Sarenrae, jak i dążenia do odkupienia i sprawiedliwości.
+<273>Za każdym razem, gdy ta ostra i okrutna ciężka kusza +3 potwierdzi {g|Encyclopedia:Critical}trafienie krytyczne{/g}, zada również swe standardowe {g|Encyclopedia:Damage}obrażenia{/g} (1k10+3) przeciwnikom sąsiadującym z celem.
+<274>[Projekt] Whenever this +1 flaming greatsword scores a critical hit, it explodes in a fireball centered on the wearer's opponent. All creatures within the 20-foot radius of the fireball's spread, including the sword's wielder and his allies, take 6d6 fire damage if they are within range (DC 21 Reflexes halves the damage).
+<275>[projekt] Wybuchowy Entuzjazm
+<276> 
+<277> 
+<278> 
+<279> 
+<280> 
+<281> 
+<282> 
+<283> 
+<284> 
+<285> 
+<286> 
+<287> 
+<288> 
+<289> 
+<290> 
+<291> 
+<292> 
+<293>Dodaje 30 000 punktów doświadczenia do Przywództwo
+<294>Dowódc{mf|a|zyni} natknął się na zapiski Xanthira Vanga. Opisane w nich eksperymenty są potworne, nieludzkie i... intrygujące. Xanthir poddawał siebie i swoje ofiary metamorfozie, próbując w ten sposób przeobrazić się w żywy rój połączony jedną świadomością. Podążając za wskazówkami z tych zapisków, dowódc{mf|a|zyni} może powtórzyć cały eksperyment, ale przyjdzie mu za to zapłacić bardzo wysoką cenę. Będzie musiał{mf||a} skazać wielu śmiertelników na okrutną wiwisekcję, nie wspominając o tym, że je{mf|mu|j} również przyjdzie poddać się niewyobrażalnym cierpieniom. Biorąc pod uwagę skalę grozy tych zabiegów, wielu krzyżowców z pewnością wyrzeknie się swego przywódcy. Co więcej, nie ma pewnej nagrody za takie przedsięwzięcie. Poza lepszym zrozumieniem natury owadów i umiarkowanym, choć niepewnym wzrostem mocy, wiedza uzyskana w wyniku eksperymentów nie będzie miała żadnej praktycznej wartości... Przynajmniej jeszcze nie teraz.
+<295>{n}Demon wygląda na znudzonego. Przenosi swoją uwagę na ciebie i warkotliwe pyta.{/n} <bs_n1>Czego chcesz?<bs_n1>
+<296>{n}Głos Horzalah zaczyna coraz bardziej brzmieć triumfalnie.{/n} <bs_n1>Ojciec w końcu zobaczy, jak bardzo się co do mnie mylił ! Gdy tylko ofiaruję mu twoją głowę, nagrodzi mnie swą łaską! Znów będę najwspanialszą z córek Bafometa, a ta pół-śmiertelna parweniuszka Vorlesh będzie przede mną pełzać jak robak! Rozgromię armie Alushinyrry, a później wybiję pachołków Deskariego i przejmę jego armię... A potem przyjdzie kolej na was, krzyżowcy! Wszyscy ugniecie kolana przed Władcą Bestii, już ja o to zadbam!<bs_n1>
+<297>{n}Seelah szeroko rozkłada ramiona.{/n} <bs_n1>W trakcie pierwszej godziny naszej znajomości powiedziałam coś, co prawdziwie wstrząsnęło Elanem. Sądzę, że to właśnie wtedy zrozumiał, że jestem przyjaciółką, której poszukiwał całe życie. To były bardzo ważne słowa, które rzuciły światło na postrzeganie czym polega bycie wojowniczką Iomedae. Tak więc, zaczynamy.<bs_n1> {n}Seelah robi przerwę, a w jej oczach pojawia się szelmowski błysk.{/n}
+<298>Odmówił{mf|e|a}ś pomocy uwięzionym niziołkom.
+<299>{n}Ulbrig nalewa aromatyczny miód do dwóch kubków: jednego dla ciebie, drugiego dla siebie. Następnie napełnia trzeci kubek i pochylając na chwilę głowę w modlitwie, wylewa jego zawartość na ziemię.{/n} <bs_n1>Wypijmy. Za ciebie, za mnie i za wszystkich tych, których nie ma już z nami.<bs_n1>
+<300><bs_n1>Nie ma sensu tu zostawać. Wróć z nami.<bs_n1>
+<301>[Zostań i pomóż Sendriemu] <bs_n1>Nie zostawimy cię. Cokolwiek cię tu czeka, stawimy temu czoła razem.<bs_n1> 
+<302>[Zostaw Sendriego i wróć] <bs_n1>Jeśli tego właśnie chcesz. Żegnaj!<bs_n1>
+<303><bs_n1>Po czyjej ty w ogóle jesteś stronie? Co tu się dzieje?<bs_n1>
+<304><bs_n1>Oczywiście, że jestem po naszej stronie! A po jakiej miałbym być? Co do tego, co się dzieje... Usłyszałem przecież to samo co ty! Ten łajdak służy komuś o imieniu Sithhud — takie imię bez wątpienia musi należeć do jakiejś paskudnej kreatury! Nosi w sobie cząstkę mocy tego Sithhuda — i wygląda na to, że ja też. Nie mam pojęcia, co się dzieje, ale pewne rzeczy są wystarczająco jasne... Dobra, dość gadania — ten łotr może w każdej chwili się pojawić i zamknąć portal. Zbierajcie się! Sio! Nie martwcie się o mnie, będę gdzieś tu w pobliżu.<bs_n1>
+<305><bs_n1>Mądre posunięcie. Do widzenia, bezpiecznego powrotu do domu! Dobra, wystarczy, nie ma czasu na długie pożegnania. Biegnijcie!<bs_n1>
+<306><bs_n1>Nie, nie, nie, nie, nie!<bs_n1> {n}Sendri potrząsa głową z taką gwałtownością, że wydaje się, że ta zaraz oderwie się od jego chudej szyi.{/n} <bs_n1>Pamiętasz, co się stało z inkwizytorami? W końcu to zrozumiałem — to była moja wina. Cóż, może nie do końca moja wina, ale ten parszywy łajdak ścigał jednak mnie, a ucierpieli przez to inni! To samo stało się w tawernie. Ten w masce nie da mi spokoju. Znajdzie mnie gdziekolwiek nie pójdę — i przy okazji znowu zginie ktoś niewinny.<bs_n1>
+<307><bs_n1>Próbujesz zgrywać bohatera? Zginiesz tu na próżno! Wymyśl coś lepszego. Na twoim miejscu wróciłbym, skrzyknął kilku kumpli, a potem zastawił pułapkę na tego czubka...<bs_n1>
+<308>{n}Rekarth drapie się po policzku, po czym pluje na ziemię.{/n} <bs_n1>Właściwie, to wiesz co? Mam to gdzieś. Rób, co uważasz. Gdybyś miał trochę więcej oleju w głowie to zostałbyś z nami, ale jeśli zamierzasz się popisywać, to proszę cię bardzo! Odmroź sobie tyłek i zgiń tutaj, jeśli to da ci frajdę. Chodźmy {name}, wracajmy do domu. Nic tu po nas.<bs_n1>
+<309><bs_n1>To właśnie ci mówię — idźcie. Ale ja już dłużej nie zamierzam uciekać!<bs_n1> {n}Sendri zdecydowanym ruchem uderza pięścią w otwartą dłoń.{/n} <bs_n1>Skończę to tu i teraz. Podjąłem decyzję i klnę się na mój złoty kolczyk, że nic nie przekona mnie do zmiany zdania!<bs_n1>
+<310><bs_n1>Straciliście rozum? Stoimy pośrodku niczego, dookoła zamieć, a my jesteśmy bez czapek, rękawiczek, czy nawet futer...<bs_n1>
+<311>{n}Kultysta na wzgórzu wznosi ramiona i wydaje z siebie długi, chrapliwy dźwięk. Portal się zamyka.{/n} <bs_n1>...a teraz jeszcze bez drogi do domu. Hmm. Zapamiętajcie moje słowa, będziecie tego żałować. Ale mimo to dziękuję. Jesteście prawdziwymi przyjaciółmi, wasze słowa rozgrzały moje serce. A skoro już tu utknęliśmy — naprzód! Załatwmy tego zamaskowanego szaleńca!
+<312><bs_n1>Powinnaś odpowiedzieć na jego pytanie.<bs_n1>
+<313><bs_n1>Zatem nie jesteś śmiertelniczką?<bs_n1>
+<314><bs_n1>Nie bądź niegrzeczny, Rekarth.<bs_n1>
+<315>[Obserwuj nieznajomą]
+<316><bs_n1>Jak długo byłaś uwięziona pod lodem?<bs_n1>
+<317><bs_n1>Zdaje się, że nie przepadałaś za swoimi poprzednimi władcami.<bs_n1>
+<318><bs_n1>Mówisz, że poszukujesz nowego zespołu?<bs_n1>
+<319><bs_n1>Uch, co za smród!<bs_n1> {n}Stopiony lód pozostawił po sobie górę rozkładających się cuchnących odpadków.{/n} <bs_n1>Klnę się na tuzin jedwabnych chusteczek, że coś tutaj musiało zgnić!<bs_n1>
+<320><bs_n1>To bardzo rozsądne założenie.<bs_n1> {n}Jedno z leżących na ziemi ciał otwiera oczy i staje na nogi. Głos nieznajomej jest spokojny i melodyjny — nie wydaje się być nieumarłą.{/n} <bs_n1>Umieranie to ulubiona rozrywka śmiertelników — choć słyszałam że demony, niebianie, a nawet bogowie ostatnio też w niej zasmakowali. Niemniej jeżeli widzisz przed sobą stos ciał, to z wysokim stopniem prawdopodobieństwa możesz założyć, że byli oni śmiertelnikami. Jak wy śmiertelnicy powiadacie — wskazówka znajduje się w nazwie.<bs_n1>
+<321><bs_n1>Kim ty do Dziewięciu Piekieł jesteś?<bs_n1> {n}Rekarth momentalnie przybiera postawę bojową, mierząc swym sztyletem w nieznajomą — która spokojnie się temu przygląda, nie wykazując żadnych oznak zaniepokojenia.{/n} <bs_n1>Żadnych gierek!<bs_n1>
+<322><bs_n1>Jestem specjalnym przypadkiem.<bs_n1>
+<323><bs_n1>Ja jestem niegrzeczny? Gdybym od razu dźgnął ją nożem, to byłoby niegrzeczne. A ja? Ja tylko zadaję pytanie. To akurat jest bardzo grzeczne!<bs_n1>
+<324>{n}Stojąca przed tobą kobieta zdecydowanie bardziej przypomina lalkę niż żywą osobę. Wyszukane tatuaże pokrywają jej bladą, nienaturalnie gładką skórę. Przygląda ci się z taką samą ciekawością, z jaką ty przyglądasz się jej. Kiedy napotyka twój wzrok, uśmiecha się.{/n}
+<325><bs_n1>Jestem androidem badawczym w służbie Ligi Technicznej... Jedna chwila, muszę zweryfikować moje dane.<bs_n1> {n}Szturcha czubkiem buta stos trucheł u swoich stóp.{/n} <bs_n1>Korekta: Jestem nieprzydzielonym do żadnych zadań androidem badawczym i szukam nowego zespołu. Mów do mnie Penta.<bs_n1>
+<326><bs_n1>Penta? Tak jak 'pentagram'?<bs_n1>
+<327><bs_n1>Nie.<bs_n1> {n}Penta pogardliwie przewraca oczami.{/n} <bs_n1>Tak jak 'pentatonika'. Moją specjalizacją jest muzyka. Liga Techniczna uznała moją pracę za nieproduktywną i przeprogramowała mnie, implementując funkcje badań terenowych w ekstremalnych warunkach, bezwzględnego posłuszeństwa oraz grzeczności. Jeden z tych trzech programów został zainstalowany poprawnie.<bs_n1> 
+<328><bs_n1>Obiektywnie, około osiemdziesiąt lat. Subiektywnie, mniej więcej czterdzieści godzin. Przez większość czasu przebywałam w trybie uśpienia, aby oszczędzać zasilanie bateryjne — i aby zachować zdrowie psychiczne.<bs_n1>
+<329><bs_n1>O rany... Osiemdziesiąt lat zamknięcia w lodzie, i to przy zachowaniu pełnej świadomości — to idealna recepta na szaleństwo!<bs_n1>
+<330><bs_n1>Tak właśnie brzmiała moja hipoteza. Uznałam, że lepiej jej nie weryfikować.<bs_n1>
+<331><bs_n1>Wielokrotnie sprawdzona maksyma brzmi: 'niechęć do Ligi Technicznej jest wprost proporcjonalna do wiedzy o jej poczynaniach'. Wiem bardzo dużo o Lidze Technicznej.
+<332><bs_n1>Moim obecnym zadaniem jest eksploracja tej części Otchłani. W pojedynkę prawdopodobieństwo sukcesu wynosi jedną tysięczną procenta. W grupie szansa ta rośnie dziesięciokrotnie.<bs_n1>
+<333><bs_n1>Więc zamierzasz służyć nam zamiast Lidze Technicznej?<bs_n1>
+<334><bs_n1>Absolutnie nie. Nie zamierzam służyć nikomu. Oferuję wzajemnie korzystną kooperację. Przyjaźń jest dopuszczalna. Ostrzeżenie: Romantyczna relacja jest wykluczona.<bs_n1>
+<335><bs_n1>A więc postanowione: będziemy wspólnie kontynuować dalszą część tej ekspedycji. A teraz muszę poprosić o tymczasowe zawieszenie naszej konwersacji.<bs_n1> {n}Penta zawiesza wzrok na swoim niszczejącym ubiorze.{/n} <bs_n1>Moje ciało wymaga kilku kosmetycznych zabiegów konserwacyjnych. Wznowimy komunikację, gdy już nie będę już wyglądała i pachniała tak jak mój poprzedni zespół. Mówiąc prościej: dajcie dziewczynie się przebrać.<bs_n1>
+<336><bs_n1>Jakbyśmy nie mieli już wystarczająco dużo na głowie!<bs_n1> {n}Prychając, Rekarth zerka na Sendriego, który wydaje się być rozczarowany ostatnim stwierdzeniem Penty.{/n}
+<337><bs_n1>Nie coś, ale ktoś.<bs_n1> {n}Rekarth ze wstrętem podnosi sztyletem gnijącą szmatę, odsłaniając wybieloną ludzką kość.{/n} <bs_n1> Wygląda na to, że nie jesteśmy pierwszymi śmiertelnikami, którzy trafili na ten wygwizd.<bs_n1>
+<338><bs_n1>Jak mamy uchronić się przed zimnem i głodem?<bs_n1>
+<339><bs_n1>Co wiesz o okruchach lodu?<bs_n1>
+<340><bs_n1>Co możesz powiedzieć nam o Sithudzie?<bs_n1>
+<341><bs_n1>Opowiedz mi o sobie.<bs_n1>
+<342><bs_n1>Kim jesteś?<bs_n1>
+<343>Uległ{mf|e|a}ś pokusie zabicia Stahlmara, aby zdobyć jego okruch. 
+<344>[Zaatakuj] <bs_n1>Twój okruch... Będzie należeć do mnie<bs_n1>
+<345><bs_n1>Jak tu trafiłeś?<bs_n1>
+<346><bs_n1>Wyglądasz okropnie. Co ci się stało?<bs_n1>
+<347><bs_n1>Dziekuję za twoje wyjaśnienia.<bs_n1>
+<348><bs_n1>Gdzie się w tej chwili znajdujemy?<bs_n1>
+<349><bs_n1>Kim jest Sithhud?<bs_n1>
+<350><bs_n1>Kim są jego słudzy?<bs_n1>
+<351><bs_n1>Czy Sithhud może być w zmowie z Bafometem i Deskarim?
+<352><bs_n1>Dziękuję za twoje wyjaśnienia.<bs_n1>
+<353><bs_n1>Opowiedz nam o swoim planie powstrzymania Sithhuda<bs_n1>
+<354><bs_n1>Musimy iść.<bs_n1>
+<355><bs_n1>Wybacz. Okruch podsuwa mojemu umysłowi straszliwe myśli. Oczywiście nie zamierzam atakować naszego sojusznika.<bs_n1> 
+<356>Zabił{mf|e|a}ś Stahlmara dla jego okruchu.
+<357>[Zaatakuj] <bs_n1>Z drogi! Ten okruch jest mój!<bs_n1>
+<358><bs_n1>Omówmy twój plan powstrzymania Sithuda.<bs_n1>
+<359><bs_n1>Opowiedz nam jeszcze raz o swoim planie.<bs_n1>
+<360><bs_n1>Może istnieje jakiś łatwiejszy sposób, aby nawiązać kontakt z boginią?<bs_n1>
+<361><bs_n1>Istnieją portale łączące ten lodowiec z Golarionem. Nie możesz użyć któregoś z nich?<bs_n1>
+<362><bs_n1>Jak odnajdziemy inne okruchy duszy Sithuda?<bs_n1>
+<363><bs_n1>Jesteś pewien, że twój plan zadziała?<bs_n1>
+<364><bs_n1>Zrozumiałem.<bs_n1>
+<365><bs_n1>Tutaj jest bezpiecznie. A przynajmniej na tyle bezpiecznie, na ile to możliwe w tym przeklętym miejscu.<bs_n1> {n}Stahlmar opiera się o ścianę, dając odpocząć zmarzniętym ramionom.{/n} <bs_n1>Jestem gotów zdać raport z mojej długiej warty i tego, czego dowiedziałem się o naszym nieprzyjacielu. Sądzę, że mam plan walki.<bs_n1>
+<366><bs_n1>Nie sądzę, aby groziła nam śmierć z głodu czy wyziębienia. Zagrożeniem jest natomiast Sithud i jego słudzy.<bs_n1>
+<367><bs_n1>Choć portal, który was tu sprowadził został zamknięty, to połączenie między światami wciąż istnieje. Możecie użyć okruchu, aby go ponownie otworzyć i ustabilizować. Rozumiem, że po drugiej stronie jest jakaś tawerna? Macie sporo szczęścia.<bs_n1>
+<368><bs_n1>A więc...<bs_n1> {n}Płonące niebieskim ogniem oko otwiera się szeroko, a Sendri zaczyna machać rękami w serii gestów. {/n} <bs_n1>Jeśli ten zamaskowany szaleniec mógł to zrobić, to ja też mogę! Zobaczmy... Już! To działa!<bs_n1>
+<369><bs_n1>To rozwiązuje kwestię wyżywienia i noclegu. Niestety, to tylko drobiazgi.<bs_n1>
+<370><bs_n1>Więc, czy powinniśmy się tam udać od razu? Klnę się na — eee — wykwintnie rzeźbiony kielich, że potrzeba ci przytulnego fotela przy kominku i kapki grzanego wina.<bs_n1>
+<371><bs_n1>Dziękuję, ale nie mogę opuścić tego miejsca. Wznieście za mnie toast, gdy już wrócicie na Golarion.<bs_n1>
+<372><bs_n1>Wiem o nich wiele, ale jednocześnie zbyt mało.<bs_n1> {n}Anioł spogląda w dół na swoje poranione dłonie.{/n} <bs_n1>To okruchy duszy Sithhuda, fragmenty jego esencji. Przechowują jego moc i zepsucie.<bs_n1>
+<373><bs_n1>Nie wiem w jaki sposób jego dusza została roztrzaskana, ale wiem jaki wpływ wywiera na śmiertelników brzemię dźwigania jej fragmentów. Zyskują moc, ale jednocześnie powoli przepoczwarzają się w plugastwa służące jedynie woli Sithuda.<bs_n1>
+<374><bs_n1>Pytaj więc. Nie mam niczego do ukrycia.<bs_n1>
+<375><bs_n1>Nie wiem zbyt wiele, ale podzielę się wszystkim, co zdołałem ustalić. W walce z tak tajemniczymi wrogami każdy skrawek wiedzy ma wielką wartość.<bs_n1>
+<376><bs_n1>Władcą demonów, starożytnym i dawno zapomnianym panem lodu i kości. Dawno temu był niezwykle potężny, ale ostatecznie przegrał niekończącą się wojnę demonów o dominację. Jego domena została przejęta przez innych władców, a on sam, ranny i upokorzony, ukrył się w najdalszym zakątku Otchłani. Przez tysiąclecia lizał swe rany i marzył o zemście.<bs_n1>
+<377><bs_n1>Kryształy lodu, takie jak ten, który odebraliście temu zamaskowanemu szaleńcowi, to okruchy jego duszy. Nie wiem, jak jego dusza została podzielona, ani jak jej okruchy trafiły do świata śmiertelników. Nie mam jednak wątpliwości, że pragnie odzyskać to, co utracił. Nie możemy do tego dopuścić.<bs_n1>
+<378><bs_n1>Prędzej czy później nas pokonają, o ile my nie pokonamy ich pierwsi. Nie będzie to łatwe zadanie, ale mam plan.<bs_n1>
+<379><bs_n1>Jego śmiertelni wyznawcy, lodowe olbrzymy, wznieśli tę świątynię w jego imieniu.<bs_n1> {n}Anioł wskazuje na wielkie głazy wokół ciebie.{/n} <bs_n1>Od dawna już nie żyją. Wątpię, by na Golarionie pozostali jacyś jego kultyści, oczywiście poza tym zamaskowanym szaleńcem, którego zabiliście.<bs_n1>
+<380><bs_n1>Pozostała przy nim zaledwie garstka demonicznych sług — to te zdeformowane obrzydliwości, które błąkają się po okolicy. Abrikandile stoją najniżej w hierarchii z demonów, to wcielenia szpetoty i zniszczenia. Fakt, że to właśnie oni pozostali z Sithhudem, podczas gdy wszyscy go porzucili, wiele mówi o jego naturze.
+<381><bs_n1>Najgroźniejszym sługą Sithhuda jest jego zwiastun. To olbrzymi, pokryty lodem demon nalfeshnee. Od czasu do czasu udaje mi się go dostrzec, gdy obserwuje mnie z daleka. Sądzę, że jest zbyt tchórzliwy, by otwarcie stawić mi czoła i czeka na dogodny moment, by zaatakować.<bs_n1>
+<382><bs_n1>Nalfeshnee? To te ogromne dziki? Ha! Ubicie tej zmrożonej wieprzowiny nie powinno sprawić nam zbytniego kłopotu.<bs_n1>
+<383><bs_n1>Jakiż przyjemny optymizm. Całkowicie bezpodstawny, ale mimo to przyjemny.<bs_n1>
+<384>{n}Sendri nerwowo sięga do swojego jarzącego się oka.{/n} <bs_n1>Och! Ojej!<bs_n1>
+<385><bs_n1>Wiedziałem. Wiedziałem, że pakujemy się w niezłe kłopoty. Och, chrzanić to wszystko...<bs_n1>
+<386><bs_n1>Żałuję, że nie zdołałem dowiedzieć się więcej.<bs_n1>
+<387><bs_n1>Nie. Gdyby ci dwaj wiedzieli o Sithhudzie, już dawno zajęliby resztki jego domeny i wykorzystali je jako przyczółek do ataku na Golarion. Nawet ten zamaskowany szaleniec starał się unikać sług Bafometa i Deskariego. Sithhud prowadzi własną grę, w której skrytość jest jego najcenniejszym sprzymierzeńcem.<bs_n1>
+<388><bs_n1>To była kiedyś część Golarionu. Bezbożna świątynia olbrzymów, gdzie oddawano cześć Sithhudowi. W jakiś sposób została sprowadzona do Otchłani, gdzie Sithhud ją zaanektował.<bs_n1>
+<389><bs_n1>Ta świątynia należy zarówno do Golarionu, jak i Otchłani. Okruchy duszy Sithhuda przyciągają oba te światy do siebie, a im jest ich więcej, tym silniejsze jest to przyciąganie. Śmiertelnicy nie mogą tego poczuć, ale ja wyczuwam, jak nienaturalne jest to miejsce, jak cienka staje się tkanina rzeczywistości. Jeśli zbierzemy wystarczająco dużo okruchów, rozerwie się, jestem tego pewien.<bs_n1>
+<390><bs_n1>Ten lodowiec posiada ogromne znaczenie strategiczne. Znajduje się pomiędzy Golarionem a siedzibą Sithhuda w Otchłani. Stąd można obserwować nosicieli okruchów duszy w królestwie śmiertelników. Co więcej, okruchy przyciągają się zarówno do siebie nawzajem, jak i też do tego miejsca. Bez względu na to, gdzie znajduje się dany okruch, stąd można otworzyć prowadzący do niego portal.<bs_n1>
+<391><bs_n1>A więc tak znalazł nas ten zamaskowany szubrawiec!<bs_n1>
+<392><bs_n1>A to oznacza, że my również możemy dotrzeć do pozostałych nosicieli okruchów...<bs_n1> {n}Rekarth pociera brodę w zamyśleniu.{/n} <bs_n1>Tylko czy powinniśmy?<bs_n1>
+<393><bs_n1>Co ty wygadujesz! Weź się w garść! Ten okruch miesza ci w głowie!<bs_n1>
+<394><bs_n1>Witaj!<bs_n1> {n}Ranny anioł pozdrawia cię gestem.{/n}
+<395><bs_n1>Wy śmiertelnicy nazywacie nas aniołami. Na imię mam Stahlmar, jestem kapitanem Szwadronu Blasku w służbie najjaśniejszej Sarenrae.<bs_n1>
+<396><bs_n1>Przez moją własną głupotę. Natknąłem się na to miejsce podczas patrolowania granic królestwa śmiertelników. Powinienem był to zgłosić i wezwać posiłki. Jednak przed sobą widziałem jedynie słabowite demony i dałem się zwieść myśli, że poradzę sobie sam. Głupia, niewybaczalna arogancja!<bs_n1>
+<397><bs_n1>Po odpędzeniu demonów odkryłem tę kryjówkę. Leżał w niej zamarznięty szkielet olbrzyma odzianego w szamańskie szaty. Podniósł się na nogi i zaczął rzucać we mnie nieświęte zaklęcia - ale moja włócznia była szybsza i pokonałem go z łatwością. Potem z jego szczątków wyłonił się okruch lodu - taki jak twój. Chciałem wziąć go jako trofeum, ale on zamiast tego po prostu wbił się w mą dłoń.<bs_n1>
+<398><bs_n1>Zemdlałem z bólu. Kiedy się ocknąłem, mój rumak zniknął, a ja... Cóż, widać, co się ze mną stało. Okruch mnie okaleczył. Odebrał mi siły i uczynił więźniem tej przeklętej świątyni. Nie mogłem odejść, nie mogłem wysłać wiadomości do moich towarzyszy. Mogłem tylko obserwować i czekać na posiłki.<bs_n1>
+<399><bs_n1>Okruch duszy Sithhuda zakorzenił się we mnie. Śmiertelnikom zapewnia moc, ale nie aniołom. Jego skaza jest jak trucizna, trawi mnie od środka. Wielokrotnie rozważałem zakończenie mojego cierpienia... Jednak poczucie obowiązku zawsze okazywało się silniejsze. Nie mam jednak prawa rozwodzić się nad własnym nieszczęściem, podczas gdy okruchy duszy Sithhuda wciąż deprawują królestwo śmiertelników.<bs_n1>
+<400><bs_n1>Nie mam przed tobą żadnych tajemnic.<bs_n1>
+<401><bs_n1>Przydałby nam się jeszcze jeden okruch...<bs_n1> {n}Oko Sendriego zdaje się jarzyć jeszcze zimniejszym niebieskim kolorem niż zwykle, a jego głos brzmi nietypowo szorstko.{/n}
+<402><bs_n1>Więc on ma w sobie jeden z tych okruchów...<bs_n1> {n}Rekarth mówi cicho, a na jego twarzy pojawia się złowieszczy grymas.{/n} <bs_n1>Moglibyśmy uwolnić go od tego ciężaru.<bs_n1>
+<403><bs_n1>Pogięło cię?<bs_n1> {n}Rekarth klepie gnoma otwartą dłonią w tył głowy.{/n} <bs_n1>Móżdżek zamarzł? Może powinienem zanurzyć twoją głowę we wrzącym kotle? To by cię otrzeźwiło.<bs_n1>
+<404><bs_n1>Co ty wygadujesz! To nasz przyjaciel!<bs_n1>
+<405>{n}A więc jeden z okruchów znajduje się wewnątrz anioła... Taka myśl przychodzi do ciebie gdzieś z głębi i uparcie tkwi w twoim umyśle. Anioł jest słaby. Łatwo będzie go zabić i odebrać mu okruch...{/n}
+<406><bs_n1>Uhm... Nieważne. Tak sobie głośno myślałem.<bs_n1> {n}Rekarth wygląda na zdezorientowanego. Własne słowa musiały zaskoczyć go nie mniej, niż całą resztę.{/n} 
+<407><bs_n1>Och, uch... Przepraszam, nie mam pojęcia skąd mi to przyszło do głowy, ha ha...<bs_n1> {n}Złowieszczy błysk w oku Sendriego przygasa.{/n}
+<408><bs_n1>Hola, hola, powstrzymaj się! To nie ty to mówisz, tylko okruch!<bs_n1>
+<409><bs_n1>Ulegliście złemu wpływowi Sithhuda. O Sarenrae, wybacz tym śmiertelnikom ich słabość!<bs_n1>
+<410><bs_n1>Nie twoja wina, że zło próbuje wypaczyć twoją duszę. Udało ci się przezwyciężyć tę pokusę — to powód do dumy!<bs_n1>
+<411><bs_n1>No cudnie, właśnie tego nam trzeba — kolejnej Rany Świata na Golarionie. Ludzie będą się ustawiać w kolejce, aby nam podziękować, to na pewno...<bs_n1>
+<412><bs_n1>Świątynia znajdowała się gdzieś w górach starego Sarkoris, więc szczelina zaiste musi prowadzić na terytorium Rany Świata. To straszliwe miejsce spustoszone przez demoniczne hordy — ale ponad nim rozciąga się żywe niebo Golarionu. A ja będę potrzebował tylko krótkiej chwili, by wysłać wiadomość do Sarenrae.<bs_n1>
+<413><bs_n1>Zawsze myślałem, że bogom nie wolno mieszać się w wojny śmiertelników! Jak Sarenrae zamierza powstrzymać demony, anioły i całą resztę przed rzuceniem się sobie do gardeł, skoro sama da im do tego pretekst?<bs_n1>
+<414><bs_n1>Bogini jest mądra i potężna. Gdy usłyszy moją prośbę, będzie wiedziała, jak zainterweniować, aby jednocześnie nie wywołać nowego konfliktu.<bs_n1>
+<415><bs_n1>Oczywiście. Co takiego chcesz omówić?<bs_n1>
+<416><bs_n1>Zapytam wprost: naszym planem jest modlitwa i nadzieja na cud? Przerażające.<bs_n1>
+<417><bs_n1>Wystarczy mi rzut oka na niebo Golarionu, by wysłać wiadomość do Sarenrae i moich towarzyszy.
+<418><bs_n1>Jakiego rodzaju cud? Masz na myśli pójście do świątyni? Bogini otrzymuje niezliczone modlitwy z każdą upływającą chwilą - twój głos zginąłby wśród nich. Wystarczająco potężny kapłan mógłby pomóc, ale jak mielibyśmy wyjaśnić, gdzie znaleźć ten przeklęty lodowiec? Potrzebujemy latarni, która oświetli drogę, a tą latarnią będę ja.<bs_n1>
+<419><bs_n1>Nie mogę. Próbowałem, ale wszystkie moje starania okazały się bezowocne. Te portale przeznaczone są dla śmiertelników, nie dla mnie.<bs_n1>
+<420><bs_n1>Tak samo, jak zrobił to ten zamaskowany kultysta. Świątynia posiada portale prowadzące do pozostałych nosicieli okruchów. W ich rękach znajdują się cztery z nich. Kiedy dodamy do tego ten mój i dwa wasze, będziemy mieć ich siedem.<bs_n1> 
+<421><bs_n1>Zawierzcie bogini. Nie mamy innego wyjścia.
+<422><bs_n1>A jak ich przekonamy, aby poszli z nami?<bs_n1>
+<423><bs_n1>Tak jak to zrobiliśmy z tym zamaskowanym jegomościem.<bs_n1> {n}Rekarth przesuwa palcem wskazującym po swoim gardle. Nasz aniołek wysyła nas nie tylko po to, abyśmy zdobyli te okruchy, prawda? Mamy je przynieść z powrotem we własnych ciałach.<bs_n1>
+<424><bs_n1>Tak.<bs_n1> {n}Anioł kiwa głową.{/n} <bs_n1>Muszę poprosić was o tę ofiarę. Jestem pewien, że bogini znajdzie sposób, aby was potem od nich uwolnić.<bs_n1>
+<425><bs_n1>Akurat. Raczej spali te okruchy swym świętym ogniem — a przy okazji i nas.<bs_n1>
+<426><bs_n1>Dziękuję, że zgadzacie się mi pomóc.<bs_n1>
+<427><bs_n1>Jakbyśmy mieli jakiś wybór. Psia kość... Anioł nie mówi nam wszystkiego. Zawierzcie bogini... Taa! Mówię wam, jak już je wszystkie zbierzemy, powie, że wszyscy musimy zostać złożeni w ofierze Sarenrae — albo coś jeszcze gorszego!<bs_n1>
+<428><bs_n1>Doszukujesz się podstępu, gdziekolwiek nie spojrzysz. Nie bądź takim cynikiem. Chwilę temu oczekiwaliśmy śmierci z głodu i wyziębienia. A teraz spójrz — znaleźliśmy drogę powrotną na Golarion, nowego sojusznika i nawet mamy jakiś plan. Damy sobie radę!<bs_n1>
+<429><bs_n1>Zatrzymaj się.<bs_n1> {n}Penta uważnie wpatruje się w twoje oczy.{/n} <bs_n1>Weź głęboki wdech. A teraz wydech. Okruch wywiera nadmierny wpływ na twój ułomny mięsny mózg.<bs_n1>
+<430><bs_n1>Niechaj Sarenrae oświetli waszą drogę.<bs_n1>
+<431><bs_n1>Jesteś naprawdę niesamowity! Wyglądasz jakbyś jedną nogą stał nad grobem, a już planujesz następną bitwę. Ja na przykład, utknąwszy przez jakiegoś głąba w kapeluszu w Otchłani, zastanawiam się tylko jak przetrwać kolejny dzień bez jedzenia i ciepłych ubrań.<bs_n1>
+<432> 
+<433> 
+<434>[Weź okruch] <bs_n1>Ja go wezmę. Jest mój.<bs_n1>
+<435><bs_n1>Sendri, ty go weź.<bs_n1>
+<436><bs_n1>Rekarth, ty powinieneś go wziąć<bs_n1>
+<437><bs_n1>Penta, może ty go weźmiesz?<bs_n1>
+<438><bs_n1>Chcesz użyć mocy okruchów duszy Sithuda przeciwko niemu samemu?<bs_n1>
+<439><bs_n1>Moglibyśmy ukryć się na Golarionie.<bs_n1>
+<440><bs_n1>Wygląda na to, że to jedyna możliwość.<bs_n1>
+<441>{n}Z ciała martwego anioła wyłania się okruch. Zimny, złowrogi blask demonicznego lodu zdaje się rozdzierać twoją duszę.{/n}
+<442><bs_n1>Co myśmy uczynili...<bs_n1>
+<443><bs_n1>Cóż, narobiliśmy niezłego bigosu, prawda? I co teraz, mądrale?
+<444><bs_n1>Liczba mnoga jest niepoprawna — to słowo jest właściwe tylko wobec jednej osoby.<bs_n1> {n}Penta udaje, że wzdycha.{/n} <bs_n1>Co się stało, to się nie odstanie. Musimy zdecydować, kto weźmie okruch.<bs_n1>
+<445>{n}Okruch wbija się w twoją dłoń i znika, przyprawiając cię o dreszcze na całym ciele.{/n}
+<446><bs_n1>No dobra, niech będzie. Mam tylko nadzieję, że nie doprowadzi mnie to do szaleństwa.<bs_n1>  {n}Sendri zaciska drżące palce wokół okruchu. Przez jedną chwilę rozjaśnia się niebieski płomień w jego oku. {/n}
+<447><bs_n1>Typowe. Wszyscy są skorzy do bitki, ale już nieobecni gdy przychodzi do konsekwencji. No bo przecież Rekarth po wszystkich posprząta...<bs_n1> {n}Rekarth zaciska zęby i chwyta okruch.{/n}
+<448><bs_n1>Jak już wyjaśniałam, ten obiekt jest niekompatybilny z moim systemem. Obserwuj.<bs_n1> {n}Android dotyka okruchu, a ten zgodnie z przewidywaniami nie reaguje.{/n}
+<449><bs_n1>Skoro nasz dotychczasowy plan opierał się na pomocy anioła, którego pewna osoba właśnie zabiła, musimy opracować nowy. Jakieś pomysły? Nie? Bardzo dobrze — proponuję, abyśmy kontynuowali zbieranie okruchów.<bs_n1>
+<450><bs_n1>Jaki to ma sens? Załóżmy nawet, że zbierzemy wszystkie siedem. Załóżmy, że anioł się nie mylił i otworzy to szczelinę między światami. Co wtedy?<bs_n1>
+<451><bs_n1>Szczelina będzie dwukierunkowa. Nie będziemy mogli liczyć na pomoc z Golarionu — dlatego właśnie udamy się na drugą stronę.<bs_n1>
+<452><bs_n1>Drugą stronę? Ale... przecież to Otchłań. Tam właśnie jest Sithhud!<bs_n1>
+<453><bs_n1>Dokładnie. Jest stary i słaby. Pokonamy go używając przeciw niemu jego własnej mocy.<bs_n1>
+<454><bs_n1>Albo przyniesiemy mu całą tę utraconą moc na srebrnej tacy — 'nie martw się kochany, zaraz postawimy cię na nogi'...<bs_n1>
+<455><bs_n1>Nie. Okruchy już wpływają na wasze umysły i dusze w najgorszy możliwy sposób. Oto rezultat.<bs_n1> {n}Penta wskazuje na martwego anioła.{/n} <bs_n1>Jak długo jesteście w stanie się opierać, zanim zmienicie się w sługi Sithhuda?<bs_n1>
+<456><bs_n1>O rany... Nie chcę skończyć jak ten zamaskowany koleś....<bs_n1>
+<457><bs_n1>Penta ma rację. Musimy uderzyć pierwsi, zanim ten przeklęty lód zniszczy nas od środka.<bs_n1>
+<458><bs_n1>Penta... Okruchy nie mają na ciebie żadnego wpływu. Nie musisz brnąć w to wszystko z nami. Możesz po prostu odejść.<bs_n1>
+<459><bs_n1>Odpowiedź jednoznacznie negatywna. Jestem już w to zamieszana i zostanę z wami do końca.<bs_n1>
+<460><bs_n1>Bo jesteśmy twoimi przyjaciółmi?<bs_n1>
+<461><bs_n1>Pragnienie poznania ostatecznego rozstrzygnięcia tych wydarzeń zmusza mnie do pozostania. Wydaje się, że moja ciekawość uzyskała priorytet względem zarówno instynktu samozachowawczego, jak i zdrowego rozsądku.<bs_n1> {n}Penta uśmiecha się.{/n} <bs_n1>Konkluduję, że nie jestem tak mądra, jak zakładałam — to kolejny powód, dla którego powinniśmy trzymać się razem.<bs_n1>
+<462><bs_n1>Kim jesteś?<bs_n1>
+<463><bs_n1>Nie wyglądasz za dobrze. Co ci się przydarzyło?<bs_n1>
+<464><bs_n1>Co wiesz o tym zamaskowanym czarodzieju?<bs_n1>
+<465><bs_n1>Stać! Kto idzie? Ujawnij się!<bs_n1> {n}Ranny anioł kuśtyka w waszym kierunku. Jego skórę pokrywają wszechobecne plamy lodu, które niczym zmiany chorobowe u trędowatych, wżerają się w ciało. Odmrożone skrzydła dobitnie wskazują, że prawdopodobnie już nigdy nie poleci. Mimo to całe jego odzienie utrzymane jest w nienagannym stanie, a zbroję ma wypolerowaną na lustrzany połysk. Przygląda ci się uważnie wzrokiem weterana. Strudzonego, ale niezłomnego.{/n}
+<466><bs_n1>Cicho, ty gaduło!<bs_n1> {n}Rekarth gniewnie spogląda na Sendriego. Robi to jednak bez przekonania, bardziej z przyzwyczajenia niż prawdziwej złości.{/n}
+<467><bs_n1>Krzyżowcy...<bs_n1> {n}Anioł wymawia to słowo bardzo delikatnie, jakby obchodził się z jakimś kruchym klejnotem. <bs_n1>Chwała niech będzie Świteziance! Tak długo czekałem na przybycie posiłków — i w końcu jesteście.<bs_n1>
+<468><bs_n1>Stahlmar, kapitan Szwadronu Blasku w służbie najjaśniejszej Sarenrae.<bs_n1> {n}Tłumiąc grymas bólu, anioł unosi okaleczoną rękę, aby zasalutować.{/n}
+<469><bs_n1>Och świetnie, kawalerzysta! Ale gdzie jest twój koń?<bs_n1>
+<470><bs_n1>Otchłań pochłonęła mego rumaka, lecz nic nie nie jest w stanie odebrać mi mojego poczucia obowiązku, ani też rangi.<bs_n1>
+<471><bs_n1>Dopadła mnie przebiegłość Otchłani oraz moja własna lekkomyślność.<bs_n1> {n}Anioł patrzy z obrzydzeniem na lodowe wykwity pokrywające jego palce.<bs_n1>{/n}
+<472><bs_n1>Może spróbujemy cię wyleczyć? Mam tu gdzieś balsam na odmrożenia. Klnę się na mój zestaw pierwszej pomocy, że działa cuda!<bs_n1>
+<473><bs_n1>Żaden balsam nie może mi pomóc. Ale dziękuję ci za twoją troskę.<bs_n1>
+<474><bs_n1>To nieprzyjaciel. Sługa władcy demonów Sithuda. Pokonując go, dokonaliście wielce szlachetnego czynu.<bs_n1>
+<475><bs_n1>Zanim przejdziemy dalej, wycofajmy się do mojego sanktuarium. Opowiem wam moją historię w całości, gdyż teraz jest to również wasza historia. To długa opowieść — zbyt długa, aby dzielić się nią w tak niebezpiecznym miejscu.<bs_n1>
+<476><bs_n1>Znowu to imię. Sithhud...<bs_n1> {n}Rekarth wertuje swoją pamięć, drapiąc się jednocześnie po zaroście.{/n} <bs_n1>Nie, nigdy o kimś takim nie słyszałem. Czyżby Deskari i Bafomet zyskali nowego przyjaciela?<bs_n1>
+<477><bs_n1>W żadnym wypadku. Sithhud dopuszczał się wszelkiego rodzaju niegodziwości i nikczemności na długo przed rozpoczęciem inwazji. Według moich informacji przywódcy inwazji nic o nim nie wiedzą.<bs_n1>
+<478><bs_n1>Sprytnie. Ale nie myśl, że damy ci się potem wyłgać. Jak tylko znajdziemy się w bezpiecznym miejscu, wyjawisz nam wszystko.<bs_n1>
+<479><bs_n1>Oczywiście.<bs_n1>
+<480><bs_n1>Jesteśmy krzyżowcami z Kenabres!<bs_n1> {n}Sendri macha przyjaźnie do nieznajomego.{/n} <bs_n1>Cóż, to znaczy nie zostaliśmy oficjalnie zwerbowani — ale złożono nam taką propozycję! I gdyby nie ten łajdak w okropnej masce...<bs_n1>
+<481><bs_n1>Co to jest?<bs_n1>
+<482><bs_n1>Na co nam to coś? Po prostu to zniszczmy.<bs_n1>
+<483><bs_n1>Kto ma to wziąć?<bs_n1>
+<484>[Weź kawałek lodu]
+<485><bs_n1>Może powinniśmy to prostu zniszczyć?<bs_n1>
+<486><bs_n1>Więc ktokolwiek sięgnie po ten kawałek lodu, zyska jego moc...<bs_n1>
+<487><bs_n1>Jacyś ochotnicy?<bs_n1>
+<488><bs_n1>Sendri, sądzę że to ty powinieneś go wziąć.<bs_n1>
+<489><bs_n1>Rekarth, tylko tobie mogę w tej kwestii zaufać.<bs_n1>
+<490><bs_n1>Ja go wezmę.<bs_n1>
+<491><bs_n1>Eeee... Czy... Czy my naprawdę wygraliśmy? {n}Sendri uważnie ogląda swoje ręce i nogi, upewniając się, że wszystko jest na swoim miejscu.{/n} <bs_n1>Ha, ha, ha. Oczywiście, że wygraliśmy! Kiedy przyjaciele działają razem, żaden potwór nie jest im straszny!<bs_n1>
+<492>{n}Ze zwłok unosi się ku górze rozjarzony upiornym niebieskim światłem kawałek lodu. Drży w powietrzu, jakby wyczuwając obecność śmiertelników, po czym powoli celuje swą najostrzejszą końcówką najpierw w Sendriego, potem w Rekartha, a na końcu w ciebie.{/n}
+<493><bs_n1>To...<bs_n1> {n}Sendri przykłada dłoń do swego oka, które płonie tym samym upiornym niebieskim światłem.{/n} <bs_n1>To coś jest identyczne z tym, co siedzi mi w oku. Chciał mi to odebrać — a teraz my zabierzemy jeden dodatkowy egzemplarz.<bs_n1>
+<494><bs_n1>Nie jestem jeszcze pewien. Ale...<bs_n1> {n}Sendri zaciska usta.{/n}
+<495><bs_n1>Ta rzecz jest plugawa! Nie macie pojęcia jak bardzo plugawa!<bs_n1>
+<496><bs_n1>Ale ty masz, prawda? Coś przed nami ukrywasz kolego. No dalej, wyrzuć to z siebie.<bs_n1>
+<497><bs_n1>Zgadza się. Kultyści i ich magia nigdy nie przynoszą nic dobrego.<bs_n1>
+<498><bs_n1>Pełna zgoda. Kultyści i ich magia nigdy nie przynoszą nic dobrego.<bs_n1> {n}Rekarth z całych sił uderza rękojeścią noża w odłamek lodu, ale nie udaje mu się pozostawić na nim najmniejszego śladu. Okruch obraca się, kierując swą najostrzejszą końcówkę w stronę Rekartha, jakby szykował się do wbicia się w jego twarz.{/n} <bs_n1>Hola, hola... Spokojnie sopelku, nie rób nic głupiego!<bs_n1>
+<499><bs_n1>Najwyraźniej nie potrafimy go zniszczyć. Wielka szkoda!<bs_n1>
+<500>Najwyraźniej nie potrafimy go zniszczyć. Szkoda...<bs_n1>
+<501><bs_n1>Może powinienem. Tylko po prostu... Ja się boję.<bs_n1>
+<502><bs_n1>Czekaj, nie... Och, no to zaczynamy!<bs_n1>
+<503><bs_n1>Pamiętasz, jak ten paskudny koleś grzebał mi w głowie, a ja w rewanżu mogłem też pogrzebać trochę w jego? Cóż... To było straszne. Naprawdę przerażające. Ten kawałek lodu zamroził każdą część jego umysłu. Jest tak zły jak, jak... Jak lody zrobione ze zła zamiast z mleka!<bs_n1>
+<504><bs_n1>Boję się... Co jeżeli stanę się taki...<bs_n1> {n}Sendri wzdryga się.{/n} <bs_n1>Taki jak on. Brrr!<bs_n1>
+<505><bs_n1>Teraz ty też nosisz to w sobie. Co jeżeli ty... I ja...<bs_n1> {n}Sendri dygocze.{/n} <bs_n1>Co jeżeli staniemy się tacy jak on? Brrr!<bs_n1>
+<506><bs_n1>Uhm, wraz z mnóstwem przekleństw. Z drugiej strony, jeśli zostawimy go tutaj, to skończy w rękach kolejnego z tych... zamaskowanych dziwolągów. Niezły wybór... Jak między dżumą, a cholerą.<bs_n1> {n}Rekarth nagle chichocze.{/n} <bs_n1>W sumie to dzień, jak co dzień.<bs_n1>
+<507>{n}Rekarth i Sendri wymieniają ponure spojrzenia. Wygląda na to, że nikt nie chce wziąć na siebie tego ciężaru.{/n}
+<508><bs_n1>No dobrze. Pierwszy kawałek lodu mnie nie zabił. Z drugim też jakoś sobie poradzę.<bs_n1> {n}Sendri ostrożnie wyciąga rękę w kierunku lodowego okruchu, a ten wbija się w jego dłoń, zagłębiając się w niej całkowicie.{/n}
+<509><bs_n1>No oczywiście, kto inny...<bs_n1> {n}Rekhart zaciska pięść wokół bryłki lodu. Na jego twarzy pojawia się grymas bólu, ale mimo to zmusza się do uśmiechu. {/n} <bs_n1>Bułka z masłem... Myślałem, że będzie gorzej.<bs_n1>
+<510>{n}Kiedy okruch lodu zagłębia się w twoją dłoń, odczuwasz przeszywające cię na wskroś fale mrozu. Każda z nich wydaje się dochodzić aż do twojej duszy.{/n}
+<511><bs_n1>Nic tu już więcej nie zdziałamy. Nie stójmy jak kołki i poszukajmy jakiegoś wyjścia z tej dziury.<bs_n1>
+<512><bs_n1>Przyjaciele? Ta, racja! Z takimi przyjaciółmi żaden potwór...<bs_n1> {n}Mamrocząc coś obelżywego pod nosem, Rekarth pochyla się nad ciałem. Końcówką sztyletu ściąga maskę kultysty, po czym pluje z obrzydzeniem.{/n} <bs_n1>To jakieś wynaturzenie! On nie ma nawet twarzy — maska przymarzła mu do czaszki... Czekajcie, co to jest?<bs_n1>
+<513><bs_n1>Ałć! Ał, ał, ał! To boli! Dużo bardziej niż poprzednio!<bs_n1>
+<514><bs_n1>Tak. Zaczynajmy.<bs_n1>
+<515> 
+<516><bs_n1>Naprzód!<bs_n1>
+<517> 
+<518><bs_n1>Przypomnij mi co się wydarzy w trakcie rytuału?<bs_n1>
+<519><bs_n1>Zróbmy to.<bs_n1>
+<520><bs_n1>Dziękuję Stahlmarze, twoja ofiara nie pójdzie na marne.<bs_n1>
+<521><bs_n1>Udało się wam wypełnić misję!<bs_n1> {n}Opierając się na swojej włóczni, anioł spogląda badawczo w wirującą ciemność.{/n} <bs_n1>Tkanina rzeczywistości między Golarionem a Otchłanią zaczyna się rozrywać. Czy jesteście gotowi rozpocząć rytuał?<bs_n1>
+<522><bs_n1>Dziękuję, że przybyliście z pomocą w chwili, gdy naprawdę jej potrzebowałem. Już niemal straciłem nadzieję.<bs_n1>
+<523><bs_n1>Dobrze, ale proszę, spieszcie się.<bs_n1>
+<524><bs_n1>Niech tak będzie.<bs_n1> {n}Stahlmar pochyla głowę.{/n} <bs_n1>Ale zanim zaczniemy, muszę wam coś jeszcze powiedzieć...<bs_n1>
+<525><bs_n1>Wiem, co chcesz powiedzieć. To było jasne od samego początku.<bs_n1> {n}Rekarth spluwa na ziemię.{/n} <bs_n1>Wszyscy zginiemy, prawda? Nosiciel musi umrzeć, aby można było wydobyć okruch. Nie ma innej drogi. Naprawdę sądziłeś, że tego nie rozrgryziemy?<bs_n1> 
+<526><bs_n1>Pozwól mi skończyć. Nie macie się czego obawiać. Leczący dotyk Sarenrae stopi okruchy zatruwające wasze dusze, co uwolni was od plugawego wpływu Sithhuda. Jednakże jesteśmy daleko od Golarionu. Ktoś musi posłużyć za przekaźnik, który sięgnie po jej jej światło i skupi je na was. Żadna żyjąca istota nie przetrwa czegoś takiego. Ktokolwiek zacznie skupiać tę energię, zostanie przez nią ostatecznie pochłonięty.<bs_n1> {n}Po krótkiej przerwie wznosi swą dłoń.{/n} <bs_n1>Ja wezmę na siebie ten obowiązek. A skoro tak, to chyba odpowiedni moment, aby się pożegnać. Zaszczytem było służyć Krucjacie u boku was wszystkich!<bs_n1>
+<527><bs_n1>No ja... Przepraszam. Za bardzo przywykłem do szukania wszędzie jakiegoś szwindlu.<bs_n1> {n}Rekhart odwzajemnia salut anioła.{/n} <bs_n1>Dla mnie również był to zaszczyt.<bs_n1>
+<528>Czekaj — to niesprawiedliwe! Naprawdę udajesz się na śmierć? Nie ma jakiegoś innego sposobu?<bs_n1>
+<529><bs_n1>Zaprawdę nie ma. To moja powinność i mam zamiar ją wypełnić. Waszą powinnością jest powrót na Golarion, aby tam kontynuować walkę z demonami.<bs_n1> 
+<530><bs_n1>Możemy zaczynać?<bs_n1>
+<531><bs_n1>Słuszna decyzja. Czeka nas trudna bitwa.<bs_n1>
+<532>{n}Sięgasz w stronę portalu, a ten reaguje: lodowe klify zaczynają drżeć, rozpętuje się wściekła zamieć, a przed tobą wyrasta zlodowaciała sylwetka ogromnego nalfeshnee.{/n}
+<533> 
+<534> 
+<535> 
+<536> 
+<537> 
+<538><bs_n1>Święte gesty i śpiewy są znane jedynie niebiańskiemu zastępowi bogini, ale ich natura jest prosta. Wezwę Sarenrae za pomocą modlitwy, którą tylko anioł w wielkiej potrzebie śmiałby wyrecytować. Gdy tylko moje słowa sięgną Golarionu, dotrą też i do bogini. Reszta należy już do niej. Wasze zadanie jest proste: bądźcie w pobliżu, gdy ja będę się modlił... i odpędzajcie wszelkie ewentualne zagrożenia.<bs_n1>
+<539><bs_n1>Rozumiem... Możesz powiedzieć coś więcej o tych <bs_n1>ewentualnych zagrożeniach<bs_n1>?<bs_n1>
+<540><bs_n1>Rekarthcie, jesteśmy w Otchłani. Potrzeba by wielu dni, aby wymienić wszystkie czyhające tu nas niebezpieczeństwa — a i to bez wchodzenia w szczegóły. Najpewniej nieliczni pozostali przy życiu słudzy Sithhuda mogą próbować nas powstrzymać. Choćby ten lodowy nalfeshnee, który do tej pory poprzestawał jedynie na obserwacji.<bs_n1>
+<541><bs_n1>Wysłuchaj mnie, O Wieczna Światłości...<bs_n1> {n}Ze złożonymi dłońmi Stahlmar zaczyna szeptać modlitwę. W tej samej chwili lodowe klify zaczynają drżeć, rozpętuje się wściekła zamieć, a przed tobą wyrasta zlodowaciała sylwetka ogromnego nalfeshnee.{/n}
+<542><bs_n1>Tak jak się spodziewałam.<bs_n1>
+<543><bs_n1>Powstrzymajcie tego czarta. Dajcie z siebie wszystko, albo będzie po nas!
+<544><bs_n1>Sithhud jest...<bs_n1> {n}Twarz Rekartha na chwilę zastyga. Widoczny na niej grymas bólu z wolna przeradza się w złowrogi uśmiech.{/n} <bs_n1>...Panem Wszystkiego. Jego moc jest niewyobrażalna... I będzie MOJA!<bs_n1>
+<545><bs_n1>No chodź, ty zmrożony wieprzku! Odeślemy cię do lodowego pudła, z którego wypełzłeś!<bs_n1>
+<546><bs_n1>Tak wielka moc...<bs_n1> {n}Złowieszczy blask mroźnego ognia rozświetla ocalałe oko Sendriego.{/n} <bs_n1>Mam tylko trzy okruchy, a już zostałem najpotężniejszym śmiertelnikiem na świecie! Zastanawia mnie co będzie, jeśli zbiorę je wszystkie... Na wszystkie korony świata, stanę się równy samym bogom!<bs_n1>
+<547>{n}Wpatrujesz się w martwe, puste oczodoły demona. Gdzieś w głębi ciebie zaczyna wirować lodowaty chłód. Sithhud. Jego moc. Jego władza. Tylko ty jesteś god{mf|zien|na} je posiąść. Tylko ty jesteś w stanie władać wszystkimi okruchami. Wszystko będzie należeć do ciebie. Cały świat padnie przed tobą na kolana. Bogowie będą walczyć o prawo ucałowania twoich stóp. Twoja potęga... Potęga Sithhuda, Sithhuda, Sithhuda, Sithhuda...{/n}
+<548><bs_n1>Nie. Nie, nie, nie... Rekarth, przyjacielu, nie rób tego! On chyba oszalał! Ani trochę mi się to nie podoba....<bs_n1>
+<549><bs_n1>Twoja? Przemyśl to jeszcze.<bs_n1> {n}Złowieszczy blask mroźnego ognia rozświetla ocalałe oko Sendriego.{/n} <bs_n1>Okruchy należą się mnie. Oddaj je, albo przysięgam na tron i koronę, że je z ciebie wypruję!<bs_n1>  
+<550><bs_n1>No to spróbuj, jesteś mocny tylko w gębie!<bs_n1>
+<551><bs_n1>Psiakrew! Ten przygłup postradał resztki rozumu. Chyba będziemy musieli z powrotem wbić mu go do głowy.<bs_n1>
+<552><bs_n1>To co teraz zrobimy?...<bs_n1> {n}Sendri przełyka nerwowo ślinę.{/n} <bs_n1>Założę się o moje szelki, że ta dziura prowadzi wprost do siedziby Sithhuda — i że to właśnie nią musimy podążyć! Gotowi? Pobijemy skurwysyna jego własną bronią!<bs_n1>
+<553><bs_n1>Albo przyniesiemy mu ją na srebrnym talerzu. To durny plan... Ale innego nie mamy. To co, ruszamy?<bs_n1>
+<554><bs_n1>Gotowi?<bs_n1>
+<555>{n}Potwór milcząco kroczy w waszą stronę.{/n}
+<556><bs_n1>Więc tak się sprawy mają...<bs_n1> {n}Rekarth obojętnie wzrusza ramionami.{/n} <bs_n1>No dobrze. Bierzmy się do roboty.<bs_n1>
+<557><bs_n1>Uwaga: Jestem naukowcem, nie krzyżowcem. Nie wiążą mnie żadne śluby, ani inne zobowiązania. Nie mam zamiaru ruszać na wojnę z demonami.<bs_n1>
+<558><bs_n1>To twój wybór. W takim razie proszę cię tylko, abyś prowadziła honorowe życie.<bs_n1>
+<559><bs_n1>Przyjęłam.<bs_n1>
+<560><bs_n1>Ostrzeżenie: sytuacja jest krytyczna. Struktura tego półplanu ulega gwałtownemu rozpadowi. Całkowite załamanie jest nieuchronne. Pierwsza faza naszego planu zakończyła się sukcesem. Teraz grozi nam śmiertelne niebezpieczeństwo. Proszę o instrukcje w zakresie dalszych działań.<bs_n1>
+<561><bs_n1>Sendri, ty zawsze masz jakiś plan. Masz, prawda...?<bs_n1>
+<562><bs_n1>Co teraz zrobimy, Rekarthcie?<bs_n1>
+<563><bs_n1>Co się dzieje?<bs_n1>
+<564><bs_n1>Stahlmarze! Wytrzymaj!<bs_n1>
+<565><bs_n1>Jacyś ochotnicy?<bs_n1>
+<566>[Poświęć siebie] <bs_n1>Stahlmarze, idę do ciebie!<bs_n1>
+<567> 
+<568> 
+<569> 
+<570><bs_n1>Zrób to Penta.<bs_n1>
+<571><bs_n1>Wszystko w twoich rękach, Sendri.<bs_n1>
+<572><bs_n1>Rekharth, ty idź.<bs_n1>
+<573><bs_n1>Musimy zdecydować, które z nas to zrobi.<bs_n1>
+<574><bs_n1>Teraz bardzo przydałby się nam któryś z twoich genialnych pomysłów, Penta.<bs_n1>
+<575><bs_n1>Pomocy...<bs_n1> {n}Ciało Stahlmara spowijają płomienie. Z wielkim wysiłkiem udaje mu się jedynie wyszeptać.{/n} <bs_n1>Nie wytrwam... Ktoś musi... Dokończyć rytuał...<bs_n1>
+<576><bs_n1>To oczywiste, że nasz pierzasty przyjaciel przecenił swoje możliwości. Okruchy wciąż nie zostały zniszczone, a on jest już niemal martwy. Podsumowując: mamy przechlapane.<bs_n1>
+<577><bs_n1>Wy? Nic. Ja zajmę miejsce anioła i dokończę rytuał. Wy macie wrócić na Golarion i udawać, że to wszystko było tylko złym snem.<bs_n1>
+<578><bs_n1>Rozpoczynam wyszukiwanie genialnych pomysłów... Brak rezultatów. Mogę jedynie zaproponować najbardziej oczywiste rozwiązanie: sama dokończę ten rytuał.<bs_n1>
+<579><bs_n1>Jeszcze nie. Rytuał wciąż może zostać dokończony...<bs_n1>
+<580><bs_n1>No cóż, jedno z nas musi zając jego miejsce na tym stosie. <bs_n1>{n}Rekarth sili się na uśmiech.{/n} <bs_n1>Wiedziałem, że to się tak skończy!<bs_n1>
+<581>{n}Jego jedyną odpowiedzią jest krzyk pełen udręki. Anioł znajduje się już na skraju śmierci.{/n}
+<582><bs_n1>Nie musisz tego robić. Do diaska, nawet nie nosisz w sobie ani jednego z tych okruchów! Po co poświęcać się dla nas?<bs_n1>
+<583> 
+<584> 
+<585> 
+<586> 
+<587><bs_n1>Zauważyłam u ciebie skłonność do ratowania innych. Propozycja: dla odmiany pozwól komuś uratować ciebie.<bs_n1>
+<588>{n}Twoi towarzysze wymieniają zacięte spojrzenia. Jak na dłoni widać, że żaden z nich nie ustąpi. Najwyraźniej to ty musisz podjąć decyzję.{/n}
+<589> 
+<590> 
+<591><bs_n1>Ktoś musi dokończyć rytuał... <bs_n1> {n}Słowa umierającego anioła są ledwo słyszalne.{/n} <bs_n1>Powtarzaj za mną... Słowo po słowie... Wysłuchaj mnie, O Wieczna Światłości....<bs_n1>
+<592><bs_n1>Na wszystkie lśniące ostrza w rękach dobrych i szlachetnych rycerzy. Twoja postawa stanowi przykład dla każdego krzyżowca, czym jest prawdziwa odwaga! Nigdy nie zapomnimy tego, co robisz dla nas... i dla całego Golarionu.<bs_n1>
+<593><bs_n1>Nigdy ci tego nie zapomnimy i zadbamy, aby inni też nie zapomnieli. O twoim czynie usłyszą wszyscy  — od zwykłego giermka po samą królową.<bs_n1> {n}Rekhart oddaje ci salut.{/n} <bs_n1>Żegnaj przyjaci{mf|elu|ółko}. Tworzyliśmy wspaniały zespół.<bs_n1>
+<594><bs_n1>Liga Techniczna poświęciłaby mnie bez zastanowienia. Ty pierwsz{mf|y|a} potraktował{mf|e|a}ś mnie jak osobę, a nie przedmiot. A teraz oddajesz życie, by mnie uratować. Dziękuję...<bs_n1> {n}Zdajesz sobie sprawę, że nigdy nie widział{mf|e|a}ś Penty uśmiechającej się tak szczerze...{/n} <bs_n1>...m{mf|ój|oja} przyjaci{mf|elu|ółko}.<bs_n1>
+<595><bs_n1>Cóż...<bs_n1> {n}Sendri stara się coś powiedzieć, ale nie potrafi znaleźć słów. W końcu po prostu się uśmiecha i lekko unosi kapelusz.{/n} <bs_n1>Do zobaczenia później!<bs_n1>
+<596><bs_n1>Zrób dla mnie jedną rzecz: powiedz o tym Anevii. Powiedz, że zginąłem jak na krzyżowca przystało.<bs_n1>
+<597><bs_n1>Dość gadania. Ja pójdę. Zanim skończycie się kłócić, anioł będzie już dawno martwy.<bs_n1>
+<598><bs_n1>Nie, nie, nie. Nie ty, Penta! Nie jesteś krzyżowcem, jesteś badaczką! Masz przed sobą jeszcze tyle do odkrycia, tyle piosenek do napisania... Dopiero co w końcu udało ci się posmakować wolności, a już masz umrzeć? To po prostu niesprawiedliwe!<bs_n1>
+<599><bs_n1>Wyjaśnienie: Podejmuję się tego zadania nie dla krzyżowców, których — wybaczcie mi to górnolotne określenie — mam całkowicie w dupie. Podejmuję się tego zadania dla dobra mojego zespołu. To najlepsza drużyna, z jaką kiedykolwiek pracowałam.<bs_n1> {n}Na twarzy Penty pojawia się uśmiech.{/n} <bs_n1>Poza tym Stahlmar prosił mnie, abym żyła honorowo. Nie lubię mieć wobec kogoś długów — teraz będziemy kwita.<bs_n1>  
+<600><bs_n1>Spójrzcie na tego półgłówka. Jaki chętny, by za nas umrzeć! Wybij to sobie z głowy i choć raz zamknij jadaczkę! Zrobisz, co ci każę. Wrócisz na Golarion w jednym kawałku, rozumiesz?<bs_n1>
+<601><bs_n1>Jestem wzruszony. Jesteście prawdziwymi przyjaciółmi. Ale zrozumcie, że muszę to zrobić. Tylko tak będzie sprawiedliwie.<bs_n1>
+<602><bs_n1>Ostrzeżenie: bard opuszcza drużynę. Musicie samodzielnie skomponować balladę o moim heroicznym poświęceniu.<bs_n1> {n}Penta wdzięcznie się kłania, a następnie rusza w kierunku Stahlmara niczym aktorka schodząca ze sceny.{/n}
+<603>{n}W jednej chwili twoi towarzysze stają jak wryci i wpatrują się w ciebie ze zdumieniem.{/n}
+<604><bs_n1>Nie mam żadnego planu.<bs_n1> {n}Na twarzy gnoma pojawia się kwaśny uśmiech.{/n} <bs_n1>Tak naprawdę nie mam też realnego wyboru. Sam dokończę rytuał. Klnę się na wszystko, co święte, że to jedyne wyjście. To wszystko przeze mnie. To ja wciągnąłem was wszystkich w to bagno — ja i to moje przeklęte oko. I teraz to ja was z niego wyciągnę.<bs_n1>
+<605><bs_n1>Nie, Rekharthcie! Nie pozwolę ci zginąć za nas! Musi być jakieś inny sposób. Zawsze jest. Znajdziemy rozwiązanie w którym nikt nie będzie musiał poświęcać własnego życia.<bs_n1>
+<606><bs_n1>Błąd. Nie zawsze istnieje inny sposób. I jest wysoce prawdopodobne, że właśnie natknęliśmy się na jedną z takich sytuacji. Masz jednak rację, że to nie musi być Rekarth. Proponuję...<bs_n1>
+<607> 
+<608> 
+<609> 
+<610> 
+<611> 
+<612><bs_n1>Cofnij się, potworze!<bs_n1>
+<613> 
+<614> 
+<615> 
+<616> 
+<617> 
+<618> 
+<619> 
+<620> 
+<621> 
+<622> 
+<623> 
+<624> 
+<625> 
+<626> 
+<627> 
+<628> 
+<629> 
+<630> 
+<631> 
+<632> 
+<633> 
+<634> 
+<635> 
+<636> 
+<637> 
+<638> 
+<639> 
+<640> 
+<641> 
+<642> 
+<643> 
+<644> 
+<645> 
+<646> 
+<647> 
+<648> 
+<649> 
+<650> 
+<651> 
+<652> 
+<653> 
+<654> 
+<655> 
+<656> 
+<657> 
+<658> 
+<659> 
+<660> 
+<661> 
+<662> 
+<663> 
+<664> 
+<665> 
+<666> 
+<667> 
+<668> 
+<669> 
+<670> 
+<671> 
+<672> 
+<673> 
+<674> 
+<675> 
+<676> 
+<677> 
+<678> 
+<679> 
+<680> 
+<681> 
+<682> 
+<683> 
+<684> 
+<685> 
+<686> 
+<687> 
+<688> 
+<689> 
+<690> 
+<691> 
+<692> 
+<693> 
+<694> 
+<695> 
+<696> 
+<697> 
+<698> 
+<699> 
+<700> 
+<701> 
+<702> 
+<703> 
+<704> 
+<705> 
+<706> 
+<707> 
+<708> 
+<709> 
+<710> 
+<711> 
+<712> 
+<713> 
+<714> 
+<715> 
+<716> 
+<717> 
+<718> 
+<719> 
+<720> 
+<721> 
+<722> 
+<723> 
+<724> 
+<725> 
+<726> 
+<727> 
+<728> 
+<729> 
+<730> 
+<731> 
+<732> 
+<733> 
+<734> 
+<735> 
+<736> 
+<737> 
+<738> 
+<739> 
+<740> 
+<741> 
+<742> 
+<743> 
+<744> 
+<745> 
+<746> 
+<747> 
+<748> 
+<749> 
+<750> 
+<751> 
+<752> 
+<753> 
+<754> 
+<755> 
+<756> 
+<757> 
+<758> 
+<759> 
+<760> 
+<761> 
+<762> 
+<763> 
+<764> 
+<765> 
+<766> 
+<767> 
+<768> 
+<769> 
+<770> 
+<771> 
+<772> 
+<773> 
+<774> 
+<775> 
+<776> 
+<777> 
+<778> 
+<779> 
+<780> 
+<781> 
+<782> 
+<783> 
+<784> 
+<785> 
+<786> 
+<787> 
+<788> 
+<789> 
+<790> 
+<791> 
+<792> 
+<793> 
+<794> 
+<795> 
+<796> 
+<797> 
+<798> 
+<799> 
+<800> 
+<801> 
+<802> 
+<803> 
+<804> 
+<805> 
+<806> 
+<807> 
+<808> 
+<809> 
+<810> 
+<811> 
+<812> 
+<813> 
+<814> 
+<815> 
+<816> 
+<817> 
+<818> 
+<819> 
+<820> 
+<821> 
+<822> 
+<823> 
+<824> 
+<825> 
+<826> 
+<827> 
+<828> 
+<829> 
+<830> 
+<831> 
+<832> 
+<833> 
+<834> 
+<835> 
+<836> 
+<837> 
+<838> 
+<839> 
+<840> 
+<841> 
+<842> 
+<843> 
+<844> 
+<845> 
+<846> 
+<847> 
+<848> 
+<849> 
+<850> 
+<851> 
+<852> 
+<853> 
+<854> 
+<855> 
+<856> 
+<857>[Драфт] Окликнуть брата
+<858>[Драфт] Что с тобой случилось
+<859>[Драфт] Пойдем, вам нужно уйти отсюда
+<860>[Драфт] Брат...брат, ты жив?! <bs_n1>Голум бросается к своему брату<bs_n1>
+<861>[Драфт] Эй, ты слышишь меня? <bs_n1>Брат Голума смотрит в пустоту, видно что он уже начал терять рассудок<bs_n1>
+<862>[Драфт] Что? неет, я никуда не пойду. Братец, ты даже не понимаешь какие вещи я познал, оставайся, я попрошу хозяина чтобы он просвятил тебя тоже
+<863>[Драфт] Посмотри что с тобой стало! ты обезумел от боли, прошу, давай уйдем отсюда
+<864>[Драфт] Просто доверься мне, брат и останься здесь со мной
+<865>[Драфт] А...что? О, братец, как ты сюда попал? я как раз вспоминал о тебе
+<866> 
+<867> 
+<868>[Драфт] Я...я...хозяин показал мне мое истинное предназначение
+<869>[Драфт] Очнись! нам нужно убираться отсюда поскорее
+<870> 
+<871> 
+<872>[Драфт] Мы ищем печать
+<873>[Драфт] Кто-ты?
+<874>[Драфт] Зачем ты убил этих бедолаг
+<875>[Драфт] нам нужно пройти к хранилищу хозяина
+<876>[Драфт] Может быть договоримся?
+<877>[Драфт] Напасть
+<878>[Драфт] По рукам
+<879>[Драфт] Напасть
+<880>[Драфт] А вы еще кто? новая порция пленников?
+<881>[Драфт] реактивити компаньона
+<882> 
+<883> 
+<884> 
+<885>[Драфт] Как интересно, печати у меня нет, зато есть бесконечные страдания
+<886>[Драфт] Я местный палач, который всего лишь утилизирует отходы
+<887>[Драфт] этих? они отработанный материал..таких у меня достаточно много, так что не тратьте мое время
+<888>[Драфт] Ты, ведь это ты обеспечил меня работой <bs_n1>Гигант указывает пальцем на Голума<bs_n1>
+<889>[Драфт] наверно, если бы не ваш друг, эта темн ица была бы совсем пустой
+<890>[Драфт] С чего вы взяли что я вас пропущу?
+<891>[Драфт] Эй, мусор! Того, кто убьет их я отпущу на волю!
+<892>[Драфт] Честно говоря я уже так устал, наверно, если бы вы подменили меня и расчистили весь оставшийся <bs_n1>мусор<bs_n1> я бы мог сделать вид что не видел вас
+<893>[Драфт] Вот и отлично. Вот тут рычаг, механизм достаточно прост, думаю разберетесь
+<894> 
+<895> 
+<896> 
+<897> 
+<898> 
+<899> 
+<900> 
+<901> 
+<902> 
+<903> 
+<904> 
+<905> 
+<906> 
+<907> 
+<908> 
+<909> 
+<910> 
+<911> 
+<912> 
+<913> 
+<914> 
+<915> 
+<916> 
+<917> 
+<918> 
+<919> 
+<920> 
+<921> 
+<922> 
+<923><bs_n1>Jestem {name}, Naczeln{mf|y|a} Dowódc{mf|a|zyni} krucjaty. Przybył{mf|e|a}m, aby cię zabić!<bs_n1>
+<924><bs_n1>Jestem twoją zgubą.<bs_n1>
+<925><bs_n1>Doskonale wiesz kim jestem i co tu robię.<bs_n1>
+<926>[Zaatakuj] <bs_n1>Nie zamierzam z tobą rozmawiać. Giń!<bs_n1>
+<927><bs_n1>Jaki jest twój plan?<bs_n1>
+<928><bs_n1>Wszyscy twoi słudzy już dawno odeszli w niebyt.<bs_n1>
+<929><bs_n1>Już stoczyłeś swój bój z Kostchtchie i zostałeś pokonany.<bs_n1>
+<930><bs_n1>Jesteś obłąkany, demonie.<bs_n1>
+<931><bs_n1>Spóźniłeś się. Bafomet i Deskari już przebili zasłonę między światami i najechali Golarion.<bs_n1>
+<932>[Zaatakuj] <bs_n1>Mdli mnie od słuchania twoich bzdur. Giń!<bs_n1>
+<933><bs_n1>Kim jesteś? Co tutaj robisz?<bs_n1>
+<934><bs_n1>O tak... Zabić... Zdruzgotać... Unicestwić... Przyjemne słowa. Jestem Sithud Niszczyciel. Zgładziłem wielu śmiertelników. W końcu po to żyją — by umrzeć. Coś dodać?<bs_n1> {n}Demon wydaje z siebie skrzekliwy śmiech.{/n} <bs_n1>Kiedy mój plan w końcu wyda owoce, zginie ich jeszcze więcej. Zginą wszyscy, każdy jeden...<bs_n1>
+<935><bs_n1>Wiem?<bs_n1> {n}Głos potwora staje się niepewny.{/n} <bs_n1>Ach tak, oczywiście, że wiem. Jesteś sługą. Moim sługą. Jam jest Sithhud, twój Władca. Mam wiele, wiele sług. Demonów. Śmiertelników. Przychodzą, by mnie czcić, a ja czynię ich lepszymi. Czynię ich zimnymi i ostrymi. Moi lojalni, wierni słudzy...<bs_n1>
+<936><bs_n1>Giń?... Ja nie mogę zginąć. To inni umierają — wrogowie, sługi, demony, śmiertelnicy. Ty również umrzesz. Ale ja będę trwał. Jam jest Sithhud. Jestem wieczny.<bs_n1>
+<937><bs_n1>Dawno odeszli w niebyt... Tak... Wszyscy moi wrogowie odeszli. Jam jest Sithhud Zdobywca. Zamroziłem ich, wyszarpałem kości z ciał i wrzuciłem do bezdennych głębin. Wszyscy padli przede mną. Wprawdzie Kostchtchie wciąż istnieje i... i...<bs_n1> {n}Demon zgrzyta wściekle zębami.{/n} <bs_n1>Wciąż śmie stawiać mi opór... Wciąż walczy. Ale nie zwycięży. Nigdy, nigdy!<bs_n1>
+<938><bs_n1>Mój plan... Jam jest Sithhud Przebiegły i mam plan. Nikt o nim nie wie — ale podzielę się nim z tobą, mój lojalny sługo. Zachowaj go w tajemnicy. Nikomu ani słowa. Kiedy się dopełni, wywyższę cię spośród wszystkich moich sług...<bs_n1>
+<939><bs_n1>Wiedz zatem, że podzieliłem moją duszę na kawałki, a każdy z nich został ofiarowany jednemu z moich śmiertelnych sług. Zyskali niezmierzoną moc... Ale to nieważne. Nieważne. Sekret planu nie polega na tym.<bs_n1> {n}Potwór uśmiecha się.{/n} <bs_n1>Słudzy nie mają znaczenia, liczy się dusza. Rozumiesz? Moja dusza jest zarówno tutaj, ze mną, jak i tam, na Golarionie. Jej fragmenty przyciągają się do siebie nawzajem — a tym samym przyciągają świat śmiertelników do Otchłani. Zasłona między planami staje się coraz cieńsza. Pewnego dnia ulegnie rozdarciu, a moi słudzy zaleją Golarion!<bs_n1>
+<940><bs_n1>Pokonany... Kostchtchie został pokonany, gdyż jam jest Sithhud Zwycięzca. Zgruchotałem jego kręgosłup i pozostawiłem w górach, aby tam szczezł. Odebrałem mu jego królestwo. Moje królestwo... Moje królestwo!<bs_n1> {n}Potwór wydaje z siebie smutny skowyt.{/n} <bs_n1>Gdzież moje królestwo? Gdzież moi słudzy? Gdzie... Gdzie jest wszystko?<bs_n1>
+<941><bs_n1>Obłąkany... Tak, jedynie ktoś obłąkany mógłby poważyć się, aby rzucić mi wyzwanie. Jam jest Sithud Strateg. Kiedy mój plan się ziści, wszyscy ci szaleńcy obrócą się w proch, a pierwszym z nich będzie Kostchtchie... On nawet nie jest prawdziwym demonem. Kiedyś był śmiertelnikiem — a mimo to próbuje rzucić wyzwanie mnie, Sithhudowi, największemu z władców demonów? On jest obłąkany. Obłąkany.<bs_n1>
+<942><bs_n1>Bafomet? Deskari? Sami głupcy. Nigdy nie zdołają mnie przewyższyć. Nie są wystarczająco sprytni, by opracować plan taki jak mój. I nie są dość potężni, aby go zrealizować. Tylko ja jestem na tyle potężny! Ja, Sithhud!<bs_n1>
+<943><bs_n1>Potrafię przetrwać nawet śmierć... A ty?<bs_n1>
+<944><bs_n1>Czy to wszystko... było... na próżno?<bs_n1>
+<945><bs_n1>Kim... Kim jesteś?<bs_n1>
+<946><bs_n1>Bliżej... Podejdź bliżej...<bs_n1>
+<947> 
+<948> 
+<949> 
+<950> 
+<951> 
+<952> 
+<953> 
+<954> 
+<955> 
+<956> 
+<957> 
+<958> 
+<959> 
+<960> 
+<961> 
+<962> 
+<963> 
+<964> 
+<965> 
+<966> 
+<967> 
+<968> 
+<969> 
+<970> 
+<971> 
+<972> 
+<973> 
+<974> 
+<975> 
+<976> 
+<977> 
+<978> 
+<979> 
+<980> 
+<981> 
+<982> 
+<983> 
+<984> 
+<985> 
+<986> 
+<987> 
+<988> 
+<989> 
+<990> 
+<991> 
+<992> 
+<993> 
+<994> 
+<995> 
+<996> 
+<997> 
+<998> 
+<999> 
+<1000> 
+<1001> 
+<1002> 
+<1003> 
+<1004> 
+<1005> 
+<1006> 
+<1007> 
+<1008> 
+<1009> 
+<1010> 
+<1011> 
+<1012> 
+<1013> 
+<1014> 
+<1015> 
+<1016> 
+<1017> 
+<1018> 
+<1019> 
+<1020> 
+<1021> 
+<1022> 
+<1023> 
+<1024> 
+<1025> 
+<1026> 
+<1027> 
+<1028> 
+<1029> 
+<1030> 
+<1031> 
+<1032> 
+<1033> 
+<1034> 
+<1035> 
+<1036> 
+<1037> 
+<1038> 
+<1039> 
+<1040> 
+<1041> 
+<1042> 
+<1043> 
+<1044> 
+<1045> 
+<1046> 
+<1047> 
+<1048> 
+<1049> 
+<1050> 
+<1051> 
+<1052> 
+<1053> 
+<1054> 
+<1055> 
+<1056> 
+<1057> 
+<1058> 
+<1059> 
+<1060> 
+<1061> 
+<1062> 
+<1063> 
+<1064> 
+<1065> 
+<1066> 
+<1067> 
+<1068> 
+<1069> 
+<1070> 
+<1071> 
+<1072> 
+<1073> 
+<1074> 
+<1075> 
+<1076> 
+<1077> 
+<1078> 
+<1079> 
+<1080> 
+<1081> 
+<1082> 
+<1083> 
+<1084> 
+<1085> 
+<1086> 
+<1087> 
+<1088> 
+<1089> 
+<1090> 
+<1091> 
+<1092> 
+<1093> 
+<1094> 
+<1095> 
+<1096> 
+<1097> 
+<1098> 
+<1099> 
+<1100> 
+<1101> 
+<1102> 
+<1103> 
+<1104> 
+<1105> 
+<1106> 
+<1107> 
+<1108> 
+<1109> 
+<1110> 
+<1111> 
+<1112> 
+<1113> 
+<1114> 
+<1115> 
+<1116> 
+<1117> 
+<1118> 
+<1119> 
+<1120> 
+<1121> 
+<1122> 
+<1123> 
+<1124> 
+<1125> 
+<1126> 
+<1127> 
+<1128> 
+<1129> 
+<1130> 
+<1131> 
+<1132> 
+<1133> 
+<1134> 
+<1135> 
+<1136> 
+<1137> 
+<1138> 
+<1139> 
+<1140> 
+<1141> 
+<1142> 
+<1143> 
+<1144> 
+<1145> 
+<1146> 
+<1147> 
+<1148> 
+<1149> 
+<1150> 
+<1151> 
+<1152> 
+<1153> 
+<1154> 
+<1155> 
+<1156> 
+<1157> 
+<1158> 
+<1159> 
+<1160> 
+<1161> 
+<1162> 
+<1163> 
+<1164> 
+<1165> 
+<1166> 
+<1167> 
+<1168> 
+<1169> 
+<1170> 
+<1171> 
+<1172> 
+<1173> 
+<1174> 
+<1175> 
+<1176> 
+<1177> 
+<1178> 
+<1179> 
+<1180> 
+<1181> 
+<1182> 
+<1183> 
+<1184> 
+<1185> 
+<1186> 
+<1187> 
+<1188> 
+<1189> 
+<1190> 
+<1191> 
+<1192> 
+<1193> 
+<1194> 
+<1195> 
+<1196> 
+<1197> 
+<1198> 
+<1199> 
+<1200> 
+<1201> 
+<1202> 
+<1203> 
+<1204> 
+<1205> 
+<1206> 
+<1207> 
+<1208> 
+<1209> 
+<1210> 
+<1211> 
+<1212> 
+<1213> 
+<1214> 
+<1215> 
+<1216> 
+<1217> 
+<1218> 
+<1219> 
+<1220> 
+<1221> 
+<1222> 
+<1223> 
+<1224> 
+<1225> 
+<1226> 
+<1227> 
+<1228> 
+<1229> 
+<1230> 
+<1231> 
+<1232> 
+<1233> 
+<1234> 
+<1235> 
+<1236> 
+<1237> 
+<1238> 
+<1239> 
+<1240> 
+<1241> 
+<1242> 
+<1243> 
+<1244> 
+<1245> 
+<1246> 
+<1247> 
+<1248> 
+<1249> 
+<1250> 
+<1251> 
+<1252> 
+<1253> 
+<1254> 
+<1255> 
+<1256> 
+<1257> 
+<1258> 
+<1259> 
+<1260> 
+<1261> 
+<1262> 
+<1263> 
+<1264> 
+<1265> 
+<1266> 
+<1267> 
+<1268> 
+<1269> 
+<1270> 
+<1271> 
+<1272> 
+<1273> 
+<1274> 
+<1275> 
+<1276> 
+<1277> 
+<1278> 
+<1279> 
+<1280> 
+<1281> 
+<1282> 
+<1283> 
+<1284> 
+<1285> 
+<1286> 
+<1287> 
+<1288> 
+<1289> 
+<1290> 
+<1291> 
+<1292> 
+<1293> 
+<1294> 
+<1295> 
+<1296> 
+<1297> 
+<1298> 
+<1299> 
+<1300> 
+<1301> 
+<1302> 
+<1303> 
+<1304> 
+<1305> 
+<1306> 
+<1307> 
+<1308> 
+<1309> 
+<1310> 
+<1311> 
+<1312> 
+<1313> 
+<1314> 
+<1315> 
+<1316> 
+<1317> 
+<1318> 
+<1319> 
+<1320> 
+<1321> 
+<1322> 
+<1323> 
+<1324> 
+<1325> 
+<1326> 
+<1327> 
+<1328> 
+<1329> 
+<1330> 
+<1331> 
+<1332> 
+<1333> 
+<1334> 
+<1335> 
+<1336> 
+<1337> 
+<1338> 
+<1339> 
+<1340> 
+<1341> 
+<1342> 
+<1343> 
+<1344> 
+<1345> 
+<1346> 
+<1347> 
+<1348> 
+<1349> 
+<1350> 
+<1351> 
+<1352> 
+<1353> 
+<1354> 
+<1355> 
+<1356> 
+<1357> 
+<1358> 
+<1359> 
+<1360> 
+<1361> 
+<1362> 
+<1363> 
+<1364> 
+<1365> 
+<1366> 
+<1367> 
+<1368> 
+<1369> 
+<1370> 
+<1371> 
+<1372> 
+<1373> 
+<1374> 
+<1375> 
+<1376> 
+<1377> 
+<1378> 
+<1379> 
+<1380> 
+<1381> 
+<1382> 
+<1383> 
+<1384> 
+<1385> 
+<1386> 
+<1387> 
+<1388> 
+<1389> 
+<1390> 
+<1391> 
+<1392> 
+<1393> 
+<1394> 
+<1395> 
+<1396> 
+<1397> 
+<1398> 
+<1399> 
+<1400> 
+<1401> 
+<1402> 
+<1403> 
+<1404> 
+<1405> 
+<1406> 
+<1407> 
+<1408> 
+<1409> 
+<1410> 
+<1411> 
+<1412> 
+<1413> 
+<1414> 
+<1415> 
+<1416> 
+<1417> 
+<1418> 
+<1419> 
+<1420> 
+<1421> 
+<1422> 
+<1423> 
+<1424> 
+<1425> 
+<1426> 
+<1427> 
+<1428> 
+<1429> 
+<1430> 
+<1431> 
+<1432> 
+<1433> 
+<1434> 
+<1435> 
+<1436> 
+<1437> 
+<1438> 
+<1439> 
+<1440> 
+<1441> 
+<1442> 
+<1443> 
+<1444> 
+<1445> 
+<1446> 
+<1447> 
+<1448> 
+<1449> 
+<1450> 
+<1451> 
+<1452> 
+<1453> 
+<1454> 
+<1455> 
+<1456> 
+<1457> 
+<1458> 
+<1459> 
+<1460> 
+<1461> 
+<1462> 
+<1463> 
+<1464> 
+<1465> 
+<1466> 
+<1467> 
+<1468> 
+<1469> 
+<1470> 
+<1471> 
+<1472> 
+<1473> 
+<1474> 
+<1475> 
+<1476> 
+<1477> 
+<1478> 
+<1479> 
+<1480> 
+<1481> 
+<1482> 
+<1483> 
+<1484> 
+<1485> 
+<1486> 
+<1487> 
+<1488> 
+<1489> 
+<1490> 
+<1491> 
+<1492> 
+<1493> 
+<1494> 
+<1495> 
+<1496> 
+<1497> 
+<1498> 
+<1499> 
+<1500> 
+<1501> 
+<1502> 
+<1503> 
+<1504> 
+<1505> 
+<1506> 
+<1507> 
+<1508> 
+<1509> 
+<1510> 
+<1511> 
+<1512> 
+<1513> 
+<1514> 
+<1515> 
+<1516> 
+<1517> 
+<1518> 
+<1519> 
+<1520> 
+<1521> 
+<1522> 
+<1523> 
+<1524> 
+<1525> 
+<1526> 
+<1527> 
+<1528> 
+<1529> 
+<1530> 
+<1531> 
+<1532> 
+<1533> 
+<1534> 
+<1535> 
+<1536> 
+<1537> 
+<1538> 
+<1539> 
+<1540> 
+<1541> 
+<1542> 
+<1543> 
+<1544> 
+<1545> 
+<1546> 
+<1547> 
+<1548> 
+<1549> 
+<1550> 
+<1551> 
+<1552> 
+<1553> 
+<1554> 
+<1555> 
+<1556> 
+<1557> 
+<1558> 
+<1559> 
+<1560> 
+<1561> 
+<1562> 
+<1563> 
+<1564> 
+<1565> 
+<1566> 
+<1567> 
+<1568> 
+<1569> 
+<1570> 
+<1571> 
+<1572> 
+<1573> 
+<1574> 
+<1575> 
+<1576> 
+<1577> 
+<1578> 
+<1579> 
+<1580> 
+<1581> 
+<1582> 
+<1583> 
+<1584> 
+<1585> 
+<1586> 
+<1587> 
+<1588> 
+<1589> 
+<1590> 
+<1591> 
+<1592> 
+<1593> 
+<1594> 
+<1595> 
+<1596> 
+<1597> 
+<1598> 
+<1599> 
+<1600> 
+<1601> 
+<1602> 
+<1603> 
+<1604> 
+<1605> 
+<1606> 
+<1607> 
+<1608> 
+<1609> 
+<1610> 
+<1611> 
+<1612> 
+<1613> 
+<1614> 
+<1615> 
+<1616> 
+<1617> 
+<1618> 
+<1619> 
+<1620> 
+<1621> 
+<1622> 
+<1623> 
+<1624> 
+<1625> 
+<1626> 
+<1627> 
+<1628> 
+<1629> 
+<1630> 
+<1631> 
+<1632> 
+<1633> 
+<1634> 
+<1635> 
+<1636> 
+<1637> 
+<1638> 
+<1639> 
+<1640> 
+<1641> 
+<1642> 
+<1643> 
+<1644> 
+<1645> 
+<1646> 
+<1647> 
+<1648> 
+<1649> 
+<1650> 
+<1651> 
+<1652> 
+<1653> 
+<1654> 
+<1655> 
+<1656> 
+<1657> 
+<1658> 
+<1659> 
+<1660> 
+<1661> 
+<1662> 
+<1663> 
+<1664> 
+<1665> 
+<1666> 
+<1667> 
+<1668> 
+<1669> 
+<1670> 
+<1671> 
+<1672> 
+<1673> 
+<1674> 
+<1675> 
+<1676> 
+<1677> 
+<1678> 
+<1679> 
+<1680> 
+<1681> 
+<1682> 
+<1683> 
+<1684> 
+<1685> 
+<1686> 
+<1687> 
+<1688> 
+<1689> 
+<1690> 
+<1691> 
+<1692> 
+<1693> 
+<1694> 
+<1695> 
+<1696> 
+<1697> 
+<1698> 
+<1699> 
+<1700> 
+<1701> 
+<1702> 
+<1703> 
+<1704> 
+<1705> 
+<1706> 
+<1707> 
+<1708> 
+<1709> 
+<1710> 
+<1711> 
+<1712> 
+<1713> 
+<1714> 
+<1715> 
+<1716> 
+<1717> 
+<1718> 
+<1719> 
+<1720> 
+<1721> 
+<1722> 
+<1723> 
+<1724> 
+<1725> 
+<1726> 
+<1727> 
+<1728> 
+<1729> 
+<1730> 
+<1731> 
+<1732> 
+<1733> 
+<1734> 
+<1735> 
+<1736> 
+<1737> 
+<1738> 
+<1739> 
+<1740> 
+<1741> 
+<1742> 
+<1743> 
+<1744> 
+<1745> 
+<1746> 
+<1747> 
+<1748> 
+<1749> 
+<1750> 
+<1751> 
+<1752> 
+<1753> 
+<1754> 
+<1755> 
+<1756> 
+<1757> 
+<1758> 
+<1759> 
+<1760> 
+<1761> 
+<1762> 
+<1763> 
+<1764> 
+<1765> 
+<1766> 
+<1767> 
+<1768> 
+<1769> 
+<1770> 
+<1771> 
+<1772> 
+<1773> 
+<1774> 
+<1775> 
+<1776> 
+<1777>[Przyjrzyj się uważniej Sendriemu]
+<1778><bs_n1>Co stało się z cząstką mocy Sithuda, którą władał ten zamaskowany czarodziej?<bs_n1>
+<1779><bs_n1>Jak udało ci się przetrwać?<bs_n1>
+<1780><bs_n1>Co to za 'ważna sprawa' o której chciałeś porozmawiać?<bs_n1>
+<1781><bs_n1>Jak powstrzymamy Sithhuda przed zmartwychwstaniem?<bs_n1>
+<1782><bs_n1>Co wiesz o tych okruchach?<bs_n1>
+<1783><bs_n1>Jak mamy odnaleźć te okruchy?<bs_n1>
+<1784><bs_n1>Co powiesz, Rekarth? Piszesz się na to?<bs_n1>
+<1785><bs_n1>Wybacz, że cię opuściliśmy.<bs_n1>
+<1786><bs_n1>Witam!<bs_n1> {n}Do tawerny dziarskim krokiem i z uśmiechem na ustach wchodzi Sendri. Wygląda na nieco zaniedbanego i wyziębionego, ale jego głos jest beztroski jak zawsze.{/n} <bs_n1>Jak wam się wiodło beze mnie? Tęskniliście?<bs_n1>
+<1787><bs_n1>Cały i zdrowy, przysięgam na falbanki, których musiałem użyć jako podpałki! Moi drodzy przyjaciele, nie wyobrażacie sobie, jak się cieszę na wasz widok!<bs_n1> {n}Sendri uśmiecha się prawie tak szeroko, jak kiedyś.{/n} <bs_n1>Mam z wami sprawę do omówienia. Ważną sprawę. Kluczową wręcz!<bs_n1>
+<1788>{n}Gnom prezentuje się zdecydowanie gorzej niż wcześniej. Jego oczy są zapadnięte, twarz nosi ślady odmrożeń, a w głosie słychać niewyraźny chrapliwy ton. Mimo to, stoi przed tobą nie kto inny, jak Sendri. Żyje i jest niemal zdrowy.{/n}
+<1789><bs_n1>Należy teraz do mnie. Tym razem dobrze się jej przyjrzałem — to maleńki okruch lodu. Kiedy wbił mi się w rękę to przysięgam na gips i tynk, że prawie umarłem z bólu!<bs_n1> {n}Wskutek przywołanego wspomnienia uśmiech Sendriego na chwilę znika. Wygląda na to, że naprawdę musiał przeżyć katusze.{/n}
+<1790><bs_n1>No nie gadaj! Na pewno kłamiesz! Jak to możliwe?<bs_n1>
+<1791>{n}Czas, który Sendri spędził w Otchłani, odcisnął na nim swoje piętno. Żartuje i śmieje się jak dawniej, ale wymaga to od niego wiele wysiłku. Jego uśmiech, niegdyś beztroski i życzliwy, teraz przypomina grymas bólu — a bladoniebieski ogień w jego oku nieustannie złowieszczo migocze .{/n}
+<1792><bs_n1>Nie ma mowy! Nie mówisz poważnie! Jak to się mogło stać?<bs_n1>
+<1793><bs_n1>Ach tak, najważniejsza sprawa. Słuchajcie uważnie, to naprawdę bardzo, bardzo ważne.<bs_n1> {n}Sendri marszczy swoje różowo-niebieskie brwi.{/n} <bs_n1>Pamiętacie, jak ten paskudny koleś w masce wszedł mi do głowy i wspomniał imię swojego pana — Sithhuda? Kiedy walczyliśmy, nasze umysły znów się zetknęły i dowiedziałem się czegoś o tym Sithhudzie. Czegoś bardzo, bardzo niepokojącego.<bs_n1>
+<1794><bs_n1>Ten Sithhud był władcą demonów — takim jak Deskari czy Bafomet, ale znacznie od nich potężniejszym. Sprytniejszym. Mógł być największym władcą demonów jaki kiedykolwiek chodził po Otchłani!<bs_n1>
+<1795><bs_n1>Proszę, tylko mi nie mów, że to coś w twoim oku, to jeden z tych okruchów.<bs_n1>
+<1796><bs_n1>Och, nic mi nie będzie!<bs_n1> {n}Sendri macha lekceważąco ręką.{/n} <bs_n1>Zdążyłem już do niego przywyknąć. Jasne, czasem zdarzy mi się zadrżeć z zimna, ale nie masz pojęcia jak potężna stała się moja magia!<bs_n1>
+<1797><bs_n1>A jak sądzisz?<bs_n1> {n}Wykrzykuje Sendri, po czym milknie. Najwyraźniej sam jest zaskoczony tym nietypowym dla siebie wybuchem. Bierze głęboki oddech i potrząsa głową.{/n} <bs_n1>Wybacz. Jestem przemęczony pobytem w Otchłani... Więc tak, to jeden z nich. Nie co dzień dowiadujesz się, że kawałek duszy władcy demonów zamieszkuje w twoim oku, nie?<bs_n1>
+<1798><bs_n1>Właśnie do tego zmierzam! Dawno temu, w zamierzchłych czasach, umarł, a jego dusza rozpadła się na wiele kawałków lodu. Tyle że  władcy demonów nie mogą tak po prostu umrzeć. Teraz jego słudzy próbują sprowadzić go z powrotem. Już w tej chwili mierzymy się z wielkim problemem, którym jest Rana Świata. Możecie sobie wyobrazić, co by się stało, gdyby teraz również on wypełzł z Otchłani? Katastrofa! Jednak aby go wskrzesić, jego słudzy muszą najpierw zebrać wszystkie okruchy duszy. Już widzisz, do czego zmierzam, prawda? Nie dopuścimy do tego — przysięgam na moje pozłacane spinki do mankietów!<bs_n1>
+<1799><bs_n1>Nie możemy pozwolić, aby jego słudzy dotarli do wszystkich okruchów, musimy to zrobić przed nimi. Nie będzie okruchów, nie będzie wskrzeszenia, jasne? Najważniejsze, abyśmy działali szybko. Zbierzemy je wszystkie razem... zbierzemy... i zniszczymy!<bs_n1>
+<1800><bs_n1>A niby jak mamy je zniszczyć?<bs_n1>
+<1801><bs_n1>Jest pewien rytuał...<bs_n1> {n}Sendri szczerzy zęby w uśmiechu, a niebieski płomień w jego oku migocze złowieszczo.{/n} <bs_n1>To również wiem od tego drania. Bardzo się bał, że ktoś dowie się o tym rytuale i skrzywdzi Sithhuda, a to właśnie wiedza której szukamy! Kluczem jest niezachwiana odwaga i połączenie wszystkich okruchów. Gdy zgromadzi się je razem, porozbijają się nawzajem — brzdęk, brzdęk, brzdęk! A my wyjdziemy z tego bez szwanku!<bs_n1>
+<1802><bs_n1>W twoich ustach brzmi to tak prosto! Brzdęk, brzdęk — jakbyśmy wznosili toast na popijawie, a nie walczyli z władcą demonów.<bs_n1> {n}Rekarth kręci głową i wzdycha.{/n} <bs_n1>Ledwo co zdołaliśmy ujść cało z jednej opresji, a ty już każesz nam rzucać się w paszczę demona.<bs_n1>
+<1803><bs_n1>Nie za wiele, ale to co wiem jest niezwykle istotne. A więc... Po pierwsze, te okruchy są fragmentami duszy Sithuda, martwego władcy demonów.<bs_n1> {n}Sendri zaczyna wyliczać na palcach i zdaje się nie zauważać, że blask w jego oku staje się coraz jaśniejszy.{/n} <bs_n1>Po drugie, każdy z nich zapewnia swemu posiadaczowi część mocy Sithuda — magiczną władzę nad lodem lub coś w tym stylu. I po trzecie, okruchów nie można tak po prostu nosić w kieszeni. Każdy z nich szuka najbliższego śmiertelnika, w którym będzie mógł się zagnieździć. Ale to działa na naszą korzyść. Okruchy przynoszą moc swoim właścicielom, dzięki temu pokonamy tego drania jego własną bronią!<bs_n1>
+<1804><bs_n1>Czekaj, czekaj... Mamy nosić w sobie okruchy duszy władcy demonów? Albo od razu padniemy trupem, albo oszalejemy! Staniemy się tacy, jak ten wariat — zaczniemy biegać w maskach i straszyć uczciwych ludzi.<bs_n1>
+<1805><bs_n1>Nie martw się, to nie jest groźne! Spójrz na mnie — noszę ten okruch już od dłuższego czasu i nic złego się nie stało. Wciąż jestem zdrowy na umyśle.<bs_n1>
+<1806><bs_n1>Doprawdy? Jesteś tego pewien?<bs_n1>
+<1807><bs_n1>Hmm... Szczerze mówiąc, przy trzecim okruchu zacząłem odczuwać lekki chłodek. Ale one są małe, jeden czy dwa nie zaszkodzą. Weźmiesz jedną parę, ty drugą, a potem...<bs_n1> {n}Głos Sendriego zaczyna drżeć, a on sam patrzeć pustym wzrokiem przed siebie, na przemian krzywiąc i prostując palce, jakby zagarniał całe garście okruchów. Następnie mruga i wraca do swojego normalnego stanu.{/n} <bs_n1>Potem ułożymy je wszystkie w kupkę i zniszczymy za jednym zamachem!<bs_n1>
+<1808><bs_n1>Tak samo jak ten dziwak w masce odnalazł mnie. Musimy wrócić do śnieżnej góry w Otchłani. W jakiś sposób jest połączona z Sithhudem i jego duszą — nie rozumiem tego zjawiska, ale to bardzo stara i mroczna magia. Stamtąd będziemy mogli otworzyć portale prowadzące do innych nosicieli okruchów. Wchodzimy, bierzemy okruchy i świętujemy sukces — przysięgam na koronę i pola!<bs_n1>
+<1809><bs_n1>Ale jak je mamy wziąć? Na to też jest jakiś rytuał?<bs_n1>
+<1810><bs_n1>Nie... Nie ma takiego rytuału.<bs_n1> {n}Sendri pochyla się w waszym kierunku i zaczyna mówić szeptem{/n} <bs_n1>Aby odebrać komuś okruch, trzeba go najpierw zabić, tak jak ja zabiłem tego zamaskowanego czarodzieja... Albo przekonać, aby do nas dołączył. Jeśli się okaże, że są dobrymi ludźmi, sami chętnie pomogą nam w rytuale. Jeśli natomiast są źli, jak ten mag... Cóż, to oznacza, że zasługują na taki los!<bs_n1>
+<1811><bs_n1>Racja, to ma sens. Ile tych okruchów musimy odnaleźć?<bs_n1>
+<1812><bs_n1>Parszywa sprawa. Tak parszywa, jak to tylko możliwe. Ale polowanie na okruchy już się zaczęło, a my siedzimy zanurzeni w tej gnojówce po szyję. Nawet gdybyśmy nie byli krzyżowcami, a dajmy na to pozbawioną kręgosłupa bandą tchórzy dbających jedynie o ratowanie własnej skóry — i tak nie byłoby sensu uciekać. Prędzej czy później ktoś zapuka w czerep tego gaduły i spróbuje zabrać mu okruch. Jedyne co możemy zrobić, to spróbować dotrzeć do nich pierwsi.<bs_n1>
+<1813><bs_n1>O ile wiem to cztery. Dokładnie po dwa na każdego z was!<bs_n1>
+<1814><bs_n1>Przyjaciele... Dziękuję. Na mój wykrochmalony kołnierzyk, nawet nie wiecie jak bardzo jestem wam wdzięczny. Dziękuję, dziękuję! Wiedziałem, że mogę na was liczyć.<bs_n1>
+<1815><bs_n1>Znam ten typ <bs_n1>przyjaciół<bs_n1> — takich którzy ciągle wpędzają cię w kłopoty. Takich, którzy robią bałagan, a potem przybiegają do ciebie z szeroko rozdziawioną buzią: pomóż, jesteśmy twoimi przyjaciółmi! Rzygać mi się chce od takich przyjaciół... W porządku, w porządku, pomogę — w końcu jedziemy na tym samym wózku. Nie możemy dopuścić do wskrzeszenia tego potwora. Zresztą nikt inny nie zrobi tego za nas — nie możemy biegać za krzyżowcami maszerującymi na Drezen i błagać ich o pomoc. Tak więc po raz kolejny skaczemy prosto w szpony śmierci... Dobra, ty gaduło, prowadź nas z powrotem do Otchłani. Jeśli bogowie pozwolą, przetrwamy to ponownie — jakoś.<bs_n1>
+<1816><bs_n1>A więc kolejne kłopoty? Robi się coraz ciekawiej.<bs_n1>
+<1817><bs_n1>Cóż... tak właściwie to trzy. Nosił w sobie dwa z nich. Albo raczej jeden, ale za to bardzo duży. Dwa razy większy od mojego. Zakładam, że nie byłem jego pierwszą ofiarą — przede mną musiał już odnaleźć jakiegoś innego pechowca.<bs_n1>
+<1818>Gdy tylko pojawił się temat okruchów, niebieska iskierka w oku Sendriego rozbłysła, a on odwrócił wzrok. Wygląda na to, że pod maską nonszalancji, twój towarzysz skrywa poważne zmartwienie.{/n}
+<1819>{n}Nie potrafisz stwierdzić, czy Sendri naprawdę wierzy w to, co mówi, czy tylko próbuje was uspokoić.{/n}
+<1820><bs_n1>Trzy?<bs_n1> {n}Rekarth gwiżdże cicho.{/n} <bs_n1>Nie zamroziły ci jeszcze bebechów?<bs_n1>
+<1821><bs_n1>Starczy już, możesz przestać wychwalać tego stwora. Jest władcą demonów, rozumiemy. Więc co się z nim stało?<bs_n1>
+<1822><bs_n1>Sendri? To niemożliwe.<bs_n1> {n}Rekarth przeciera oczy. Jego głos jest szorstki jak zawsze, ale twarz promienieje radością.{/n} <bs_n1>To naprawdę Sendri! Żywy i cały! A to szelma!<bs_n1>
+<1823><bs_n1>Szkoda, że tego nie widzieliście! Wyobraźcie sobie: stoję naprzeciwko tego zamaskowanego faceta. A on stoi przede mną, cały otoczony tłumem pokrytych lodem abrikandilusów. <bs_n1>Poddaj się<bs_n1> krzyczę do niego, choć nogi mam jak z galarety — i na moją dzierganą czapkę z pomponem, skłamałbym mówiąc, że to tylko z powodu zmęczenia i zimna! Ten w odpowiedzi podnosi swoją lodowatą rękę i wskazuje na mnie palcem. Wiecie, tak jakby chciał powiedzieć: <bs_n1>bierzcie go, gryźcie, drapcie, rozerwijcie na strzępy...<bs_n1> Ale demony ani drgną. Po prostu siedzą i tylko przenoszą wzrok, raz na mnie, raz na niego.<bs_n1>
+<1824><bs_n1>Obu nas to zaskoczyło. Dopiero później dotarło do mnie, co zaszło. Wiecie dlaczego były mu posłuszne? Bo miał w sobie fragment mocy Sithhuda — najważniejszego demona lodu. Tylko że ja też!<bs_n1> {n}Sendri wskazuje na swoje połyskujące niebieskim światłem oko.{/n} <bs_n1>Gdyby wskazał im kogokolwiek innego, te abrikandilusy rozszarpałyby go na strzępy. Ale nie odważyły się zrobić nawet jednego kroku w moją stronę. Potem stoczyliśmy uczciwy magiczny pojedynek. Wygrałem, otworzyłem portal i ta-da! — oto jestem.<bs_n1>
+<1825> 
+<1826><bs_n1>Nie trzeba, nie trzeba! Sam kazałem wam uciekać i się ratować. Poza tym wszystko skończyło się dobrze. Nie tylko żyjemy, ale jesteśmy cali i zdrowi. Za co tu przepraszać?<bs_n1>
+<1827>{n}Sendri obdarza cię szerokim i beztroskim uśmiechem — najwyraźniej naprawdę nie żywi do ciebie urazy.{/n}
+<1828>{n}Kąciki ust Sendriego lekko drżą. Wygląda na to, że łatwość, z jaką zbył twoje przeprosiny, nie była do końca szczera.{/n}
+<1829><bs_n1>Tak. Wybacz nam. Wstyd mi za porzucenie towarzysza broni. Powinniśmy byli zostać i pomóc ci walczyć z tymi cholerami.<bs_n1>
+<1830><bs_n1>Zatem nosisz w sobie dwa te okruchy, prawda?<bs_n1>
+<1831><bs_n1>Przypomnisz mi kim jesteś?<bs_n1>
+<1832><bs_n1>Co tutaj robisz?<bs_n1>
+<1833><bs_n1>Muszę iść.<bs_n1>
+<1834><bs_n1>O! Kogo to moje oczy widzą!<bs_n1> {n}Barczysty mężczyzna wpatruje się w ciebie z ciepłym uśmiechem na ustach. Napotykając tego prostodusznego olbrzyma, mało kto domyśliłby się, że ma przed sobą Bemira Młynarza, niegdysiejszego zatwardziałego bandytę.{/n}
+<1835><bs_n1>Powodzenia!<bs_n1>
+<1836><bs_n1>Miłego dnia!<bs_n1> {n}Wielki mężczyzna uśmiecha się przyjaźnie.{/n}
+<1837><bs_n1>Oj, przestań się droczyć! To ja, twój stary kumpel Bemir. Nie pamiętasz, jak wspólnie przekradaliśmy się przez całe miasto podczas inwazji? To było przerażające, na samą myśl mam ciarki. Kilka razy uratował{mf|e|a}ś mi wtedy życie. Nigdy ci tego nie zapomnę. Nigdy.<bs_n1>
+<1838><bs_n1>Nie uwierzysz — jestem tu w interesach!<bs_n1> {n}Bemir zniża głos i pochyla się w twoją stronę.{/n} <bs_n1>Ja... uch. Słowo daję, że skończyłem z moim dawnym życiem. Na początku miałem zamiar po prostu dać nogę gdzieś hen daleko, ale potem okazało się, że archiwa spłonęły, wielu strażników padło trupem i w ogóle. Rozumiesz? Nikt już nie pamięta, kim był ten dawny Młynarz. Teraz jestem rolnikiem Bemirem, szanowanym członkiem społeczności. Zabawne, jak to się wszystko potoczyło. Kiedyś przepijałem w tej tawernie swoje łupy, a teraz podpisuję w niej umowę z Gemylem i będę sprzedawać mu swoje produkty.<bs_n1>
+<1839><bs_n1>Czekaj, czekaj! Uratował{mf|e|a}ś mi życie, a nigdy nie miałem okazji odpowiednio ci podziękować. Masz, weź to. Zrobiłem to własnoręcznie!<bs_n1> {n}Bemir z dumą pokazuje swoje zrogowaciałe dłonie — w prawej wciąż brakuje kilku palców.{/n} <bs_n1>Mam nadzieję, że czasem o mnie pomyślisz.
+<1840><bs_n1>Przypomnisz mi, kim jesteś?<bs_n1>
+<1841><bs_n1>Co tam u ciebie?<bs_n1>
+<1842><bs_n1>Muszę iść.<bs_n1>
+<1843><bs_n1>Pan{mf||i} {name}, czy to naprawdę ty?<bs_n1> {n}Zza stołu wgapia się w ciebie grabarz Brodie, a minę ma taką, jakby właśnie zobaczył ducha. Obok niego siedzi młody mężczyzna o równie bladej i wychudzonej twarzy, ale bez siwych włosów.{/n} <bs_n1>Tak się cieszę, że wszystko u Pan{mf|a|i} w porządku!<bs_n1>
+<1844><bs_n1>Życzę ci dużo zdrowia, Pani{mf|e|}!
+<1845><bs_n1>Niech bogowie cię strzegą. Masz, weź to. Tobie przyda się bardziej niż mnie. Może dzięki temu ocalisz inne życie, tak jak wcześniej ocalił{mf|e|a}ś moje.<bs_n1>
+<1846><bs_n1>Niech bogowie cię strzegą. Tak jak ty strzegł{mf|e|a}ś mnie.<bs_n1>
+<1847><bs_n1>A jakoś pomalutku do przodu, dzięki Twojej łasce... Tak się bałem, że wrócę do domu i nikogo tam nie zastanę. Ale bogowie nas oszczędzili. Przeżyliśmy... i nawet cieszymy się zdrowiem... Tylko najmłodszy, jego noga... aż do kolana...<bs_n1> {n}Grabarz szlocha i sięga trzęsącą się ręką po chusteczkę.{/n} <bs_n1>Tak więc wszystko niemal wróciło do normy. Mój interes się kręci, klientów przybywa. A koszmary ustały. No, prawie...<bs_n1>
+<1848><bs_n1>Za pozwoleniem, Pani{mf|e|}. Jestem grabarz Brodie. Pewnie zdążył{mf|e|a}ś o mnie zapomnieć, nie jestem nikim ważnym. Ale ja pamiętam o tobie i codziennie modlę się o twoje zdrowie! Gdyby nie ty, nie byłoby mnie tutaj... No co tak siedzisz? Dalej, wstawaj i ukłoń się nasze{mf|mu|j} dobrodziej{mf|owi|ce}!<bs_n1> {n}Brodie szturcha siedzącego obok młodzieńca, który wstaje i kłania się niezdarnie.{/n} <bs_n1>Ten tutaj, pozwoli Pan{mf||i}, to mój najstarszy syn. Talle.<bs_n1>
+<1849><bs_n1>Co tam słychać, Frada?<bs_n1>
+<1850><bs_n1>Oczywiście!<bs_n1>
+<1851><bs_n1>Nie zamierzam niczego podpisywać.<bs_n1>
+<1852><bs_n1>Przypomnisz mi kim jesteś?
+<1853><bs_n1>Jak sobie radzi rada miasta?<bs_n1>
+<1854><bs_n1>Jaką tablicę?<bs_n1>
+<1855><bs_n1>Na mnie już czas.<bs_n1>
+<1856><bs_n1>Zdaje się, że odzyskałaś wzrok.<bs_n1>
+<1857><bs_n1>Obywatel{mf|u|ko}!<bs_n1> {n}Rozpoznajesz tę pędzącą w twoim kierunku i wymachującą notatnikiem starszą krasnoludzką kobietę. Kiedy spotkał{mf|e|a}ś ją po raz pierwszy, oczy miała zasłonięte bandażami; teraz jej spojrzenie jest ostre i przenikliwe.{/n} <bs_n1>Obywatel{mf|u|ko}, zbieram podpisy pod petycją do rady miasta. Domagamy się, aby na tej tawernie umieszczono tablicę upamiętniającą walczących tu dzielnych obrońców. Oczywiście jesteś za. Proszę, podpisz tutaj.<bs_n1>
+<1858><bs_n1>Skąd znasz moje imię?<bs_n1>
+<1859><bs_n1>Wiedziałam, że mogę na ciebie liczyć!<bs_n1>
+<1860><bs_n1>Cóż, decyzja należy do ciebie...<bs_n1>
+<1861><bs_n1>Czekaj, twój głos... Jesteś {imię}. To ty mnie uratował{mf|e|a}ś. I to właśnie twój heroiczny czyn chcę upamiętnić!<bs_n1>
+<1862><bs_n1>Dobrego dnia.<bs_n1> {n}Frada już rozgląda się za innymi potencjalnymi sygnatariuszami.{/n}
+<1863><bs_n1>To miasto ma szczęście, że ma ludzi takich jak ty.<bs_n1>
+<1864><bs_n1>Frada Linsdoten, specjalny inspektor rady miejskiej.<bs_n1> {n}Krasnoludzka kobieta wypowiada te słowa z wielką dumą, zupełnie jak przy waszym pierwszym spotkaniu.{/n} <bs_n1>Obecnie pełnię też obowiązki na kilkunastu innych stanowiskach. Wiesz, w czasach wojny nie ma zbyt wielu wolnych rąk. Ale skoro nie daliśmy się złamać podczas inwazji, to wytrzymamy wszystko, co rzuci przeciw nam los.<bs_n1>
+<1865><bs_n1>Oględnie mówiąc, nie jest najlepiej. A jeśli mam być szczera, to wszystko jest w rozsypce. Brakuje nam ludzi, pieniędzy, materiałów, mieszkań oraz żywności. Kilku bandziorów wykorzystało chaos, by spalić miejskie archiwa. Niepowetowana strata... Jednak wciąż się trzymamy. I tak mamy lepiej niż ci na froncie.<bs_n1>
+<1866><bs_n1>Mieszkańcy powinni pamiętać jaką cenę musieliśmy zapłacić, aby wypędzić demony z Kenabres.<bs_n1> {n}Frada wypowiada te słowa w sposób bezkompromisowy, widać, że nie przyjmie odmowy. Tego samego tonu używała, gdy wcześniej mówiła o swoim raporcie.{/n} <bs_n1>Niektórzy członkowie rady miasta uważają, że tawerna to niezbyt odpowiednie miejsce na pomnik. Ale to tutaj walczyli i ginęli obrońcy miasta, więc to tutaj powinniśmy ich upamiętnić!<bs_n1>
+<1867><bs_n1>Tak, opłacono to z funduszy Mendev. Dałabym radę dalej wykonywać swoje obowiązki jako niewidoma, w końcu zaklęcia leczące bardziej przydałyby się na froncie... Ale taki rozkaz przyszedł z samego Nerosyan, a ja nie mam w zwyczaju kwestionować poleceń ze stolicy.<bs_n1>
+<1868><bs_n1>Czekaj! Twoja postawa w trakcie bitwy o miasto zasługuje na nagrodę. Nawet nie próbuj mi odmawiać. Ta tablica pamiątkowa to i tak najlichszy sposób na odwdzięczenie się za twoje czyny!<bs_n1>
+<1869><bs_n1>Możesz mi przypomnieć, kim jesteś?
+<1870><bs_n1>Często tak się upijasz?<bs_n1>
+<1871><bs_n1>Wznieśmy nasze kufle za poległych.<bs_n1>
+<1872><bs_n1>Muszę iść.<bs_n1>
+<1873><bs_n1>Zaśpiewaj pieśń, moja ptaszyno... Za tych, którzy walczyli i za tych, których utraciliśmy...<bs_n1> {n}Uzdrowicielka Inai siedzi przy stole zastawionym pustymi butelkami, śpiewając żałobną pieśń. Potrzebuje dłuższej chwili, aby skupić na tobie wzrok i przypomnieć sobie, kim jesteś.{/n} <bs_n1>Och! Mimo wszystko udało ci się przeżyć! To dobrze, tak trzymaj... Co tak stoisz, jak głupi{mf|i|a} — siadaj. Wypijemy za tych, którzy nie mieli tyle szczęścia.<bs_n1>
+<1874><bs_n1>Zdążył{mf|e|a}ś już mnie zapomnieć, co? Musisz pić jeszcze więcej niż ja. Nazywam się Inai. Jestem uzdrowicielką. Gdyby nie ty, nie byłoby mnie tu teraz.<bs_n1> {n}Unosi swój kufel.{/n} <bs_n1>Toast za ciebie. Żyj długo i szczęśliwie!<bs_n1>
+<1875><bs_n1>Co tydzień. Ostatnio i tak jest lepiej. Kiedyś każdego dnia piłam na umór. Co innego miałam robić?<bs_n1> {n}Kobieta głośno beka i bierze kolejny łyk.{/n} <bs_n1>W dawnych czasach myślałam, że jestem za stara, aby jeszcze cokolwiek jeszcze mogło mnie zaskoczyć. Widziałam oparzenia od ognia piekielnego, wąchałam wrzody, od których zbierało się na wymioty, łatałam każdą ranę, jaką może znieść ludzkie ciało. Potem przyszły demony... a ich szukające pomocy ofiary zaczęły dobijać się do moich drzwi. Wtedy dotarło do mnie, że jeszcze nic nie widziałam. Nic, a nic.<bs_n1>
+<1876><bs_n1>Nie wiem, czy mnie rozumiesz. Ja...<bs_n1> {n}Inai potrząsa głową, a łzy napływają jej do oczu.{/n} <bs_n1>To, co demony robią z ludzkimi ciałami, przerasta moje wyobrażenie. Ci nieszczęśnicy byli powykręcani i połamani na najbardziej wymyślne i nienaturalne sposoby, ale w jakiś sposób wciąż żyli. Niektórzy pytają mnie, dlaczego nie dołączyłam do krzyżowców, a ja im zawsze odpowiadam, że ktoś musiał zostać i pilnować miejscowych gamoni... Ty jednak zasługujesz na prawdę: bałam się. Nie, nie demonów, niech je wszystkie Otchłań pochłonie. Bałam się zobaczyć znowu to, co robią ludziom. Tutaj jestem tylko starą pijaczką. Tam byłabym starą pijaczką — a do tego postradałabym zmysły.<bs_n1>
+<1877><bs_n1>Za naszych drogich zmarłych.<bs_n1> {n}Ty i Inai podnosicie kufle i pijecie.{/n} <bs_n1>Och, było ich tak wielu... Wszyscy już nie żyją. Ale ty wciąż się trzymasz! Byłam pewna, że już po tobie! Nie waż się umierać, słyszysz? Weź to. Weź, mówię! Nie każ mi martwić się o ciebie bardziej, niż muszę. Jeśli bogowie pozwolą, w ogóle nie będziesz musiał{mf||a} tego użyć...<bs_n1>
+<1878><bs_n1>Hej, uważaj na siebie. Nie umieraj, a jeśli już umrzesz — nie nawiedzaj mnie we snach...<bs_n1>
+<1879><bs_n1>Zaśpiewaj pieśń — moja ptaszyno...<bs_n1> {n}Usta Inai odmawiają współpracy, ale nie przeszkadza to jej próbować dokończyć swój lament.{/n}
+<1880><bs_n1>Przypomnisz mi, kim jesteś?<bs_n1>
+<1881><bs_n1>Jak się mają sprawy w teatrze?<bs_n1>
+<1882><bs_n1>Wyglądasz o wiele lepiej niż podczas naszego ostatniego spotkania.<bs_n1>
+<1883><bs_n1>Muszę iść.<bs_n1>
+<1884>{n}Na scenie trwa występ znanego ci muzyka. Niepomny na cały otaczający go świat, z pasją szarpie smyczkiem po strunach skrzypiec — ku uciesze bawiącego się tłumu. W końcu taniec dobiega końca. Langrat przystaje by odpocząć i zauważa cię.{/n} <bs_n1>M{mf|ój|oja} przyjaci{mf|elu|ółko}! M{mf|ój|oja} wybawc{mf|o|zyni}! Czy to naprawdę ty? Żadne słowo nie jest w stanie wyrazić tego, jak bardzo mnie cieszy twój widok. <bs_n1>
+<1885><bs_n1>Och. przestań. Nie udawaj, że nie pamiętasz mnie i naszej zuchwałej ucieczki z teatru — domu muz zmienionego w więzienie przez siły zła. Jestem Langrat Messini, skrzypek i twój dłużnik po wsze czasy.<bs_n1>
+<1886><bs_n1>Teatr jest aktualnie zamknięty na czas remontu. Władze miasta oczywiście rozumieją, jak ważną rolę odgrywa sztuka w utrzymaniu morale społeczności. Jednak utrzymanie ich ciał ma pierwszeństwo. Kenabres zostało iście spustoszone, wielu mieszkańców potraciło swoje domy. Dopóki miasto nie upora się z ich odbudową, sztuka również musi pozostać bezdomna!<bs_n1>
+<1887><bs_n1>To oczywiste! Byłem wtedy więźniem sił zła, przez cały ten czas drżałem ze strachu przed niechybną i paskudną śmiercią. Ale teraz znów jestem wolnym obywatelem wolnego miasta — mimo że trochę klepię biedę. Jednak w tamtych dniach nie było we mnie nadziei. Myślałem, że nasz los jest przesądzony i wszyscy zostaniemy ofiarami demonów. A dziś świętujemy zwycięstwo! Nie słyszał{mf|e|a}ś? Krzyżowcy zdobyli Drezen!<bs_n1>
+<1888><bs_n1>A ja muszę wracać na scenę i kontynuować mój występ. Mam nadzieję, że się wkrótce zobaczymy!<bs_n1>
+<1889><bs_n1>Szkoda, że nie mam nic, co mógłbym ci ofiarować... Nic, oprócz tej melodii!<bs_n1> {n}Langrat przeciąga smyczkiem po strunach. Tym razem przechodzi samego siebie — jego muzyka napełnia cię determinacją i wolą zwycięstwa.{/n}
+<1890><bs_n1>Cieszmy się chwilą. Dziś świętujemy zwycięstwo!<bs_n1> {n}Langrat składa ukłon.{/n} <bs_n1>Och! Znowu się spotykamy, m{mf|ój|oja} przyjaci{mf|elu|ółko}.<bs_n1>
+<1891><bs_n1>Kim jesteś?<bs_n1>
+<1892><bs_n1>Pokaż mi swoje towary.<bs_n1>
+<1893><bs_n1>Muszę iść<bs_n1>
+<1894><bs_n1>Wydarzyło się ostatnio coś ciekawego w mieście?<bs_n1>
+<1895><bs_n1>Potrzebuję usług kapłana.<bs_n1>
+<1896><bs_n1>Jak długo spaliśmy?<bs_n1>
+<1897><bs_n1>Co się działo w mieście podczas naszej nieobecności?<bs_n1>
+<1898><bs_n1>Jak długo nas nie było?<bs_n1>
+<1899><bs_n1>Czy możemy spędzić tu noc?<bs_n1>
+<1900>{n}Łysy albinos wita cię ponurym skinieniem głowy.{/n}
+<1901><bs_n1>Trochę czasu minęło. Upewnijcie się, że nic paskudnego nie podąża za wami przez portal.<bs_n1>
+<1902><bs_n1>Nie. I bardzo to sobie chwalimy. Po tym jak ostatnio 'wydarzyło się coś ciekawego', wciąż odbudowujemy nasze domy.<bs_n1> {n}Karczmarz marszczy brwi i kręci głową, jakby odganiał złe wspomnienia.{/n} <bs_n1>Królowa opuściła miasto, podobnie jak krzyżowcy. Ludzie gadają, że zamierzają odbić Drezen.<bs_n1>
+<1903><bs_n1>Dla odmiany mam dobre wieści, Widzicie, jak wszyscy świętują? Mają dobry powód — odbiliśmy Drezen.<bs_n1>
+<1904><bs_n1>Gemyl Hawkes, karczmarz.<bs_n1> {n}Albinos drapie się po swej łysej głowie, po czym dodaje.{/n} <bs_n1>Nie jestem wampirem.<bs_n1>
+<1905>{n}Karczmarz bez słowa podaje ci menu.{/n}
+<1906>{n}Karczmarz kiwa głową, mamrocząc coś pod nosem.{/n}
+<1907><bs_n1>Mam nowinę, i to jaką!<bs_n1>{n}Zazwyczaj oschły karczmarz jest tym razem wyraźnie podekscytowany.{/n} <bs_n1>Dowódca jest w Drezen. Wszyscy myśleli, że już po nim, a tu nagle — bum — taka wiadomość! Demony zostały wymiecione z miasta jak liście. A to jeszcze nie wszystko.<bs_n1>
+<1908><bs_n1>Kiepska sprawa. Wszyscy pojechali na wojnę.<bs_n1> {n}Albinos przez chwilę milczy, a następnie wzdycha i dodaje.{/n} <bs_n1>Niech będzie. Ta tawerna jest świątynią Caydena Caileana, więc sam jestem po trochu kapłanem. Jeśli naprawdę tego potrzebujesz, mogę dla ciebie odczytać jakiś zwój. Ale żadnego u mnie nie kupisz. Sprzedaję tylko gorzałkę.<bs_n1>
+<1909><bs_n1>Przespaliście kawał czasu.<bs_n1> {n}Łysy karczmarz mierzy was ponuro swoimi krwistoczerwonymi oczami.{/n} <bs_n1>Powinniście podziękować Irabeth, że zapłaciła za was z góry. Inaczej obudzilibyście się na ulicy.<bs_n1>
+<1910><bs_n1>Dość długo. Królowa zdążyła przybyć, ogłosić krucjatę i wyjechać, zabierając ze sobą co bardziej krewkich mieszkańców.<bs_n1>
+<1911><bs_n1>Demony zostały wypędzone. Potem przybyła królowa. Ogłosiła krucjatę i wszyscy, którzy chcieli walczyć, odeszli wraz z nią. Reszta została, by zająć się odbudową, dom po domu.<bs_n1>
+<1912><bs_n1>Trzymaj, na koszt firmy. <bs_n1>{n}Gemyl podaje ci butelkę zmrożonego trunku.{/n}  <bs_n1>Zazwyczaj nie daję nic za darmo. Ale gdzie jeden cud, tam i drugi.<bs_n1>
+<1913><bs_n1>Już nawet nie jestem w stanie określić. Co najmniej kilka miesięcy, może rok.<bs_n1> {n}Karczmarz pochyla się i dodaje.{/n} <bs_n1>Wasz portal jest u mnie bezpieczny. Nikomu nie pozwalam się do niego zbliżyć  i mam na niego oko. Orla Straż mnie o to prosiła. Oczywiście nieoficjalnie. Dla mnie to też całkiem fajna sprawa — ten chłód w piwnicy świetnie działa na gorzałkę.
+<1914><bs_n1>Nie krępujcie się. Nic od was nie policzę. Orla Straż pokryła wszystkie wydatki z góry.<bs_n1>
+<1915><bs_n1>Sam tego nie widziałem. Ale mówią, że sama Iomedae zstąpiła z Niebios i nawet porozmawiała z dowódcą. Można to określić wydarzeniem?<bs_n1>
+<1916><bs_n1>O, wróciliście.<bs_n1>
+<1917><bs_n1>Coś dziwnego wisi w powietrzu. Chodzą plotki, że dowódcy nie widziano od jakiegoś czasu i że w Drezen siedzi teraz sama królowa. Niektórzy gadają, że kazała stracić dowódcę za zdradę, inni, że wysłała go na ważną misję... Mimo to nie możemy narzekać, bo nasze armie wciąż gromią demony.<bs_n1>
+<1918><bs_n1>Fatalne. Od dawna nie było żadnych wieści o dowódcy. A teraz zniknęła też królowa. Zebrała armię, wyruszyła do Iz i od tamtej pory słuch o niej zaginął. Do tego demony obległy Drezen. Pewnie tutaj też w końcu wrócą. Czy krucjata wciąż trwa? A może wszystko przepadło? Nikt tak naprawdę nie wie.<bs_n1>
+<1919><bs_n1>Potrzebuję eliksirów.<bs_n1>
+<1920><bs_n1>Potrzebuję zbroi.<bs_n1>
+<1921><bs_n1>Potrzebuję broni.<bs_n1>
+<1922><bs_n1>Opowiedz mi coś o sobie.<bs_n1>
+<1923><bs_n1>Skąd pochodzisz?<bs_n1>
+<1924><bs_n1>Dlaczego opuściłaś Rzeczne Królestwa?<bs_n1>
+<1925><bs_n1>Muszę iść.<bs_n1>
+<1926><bs_n1>Co przywiodło cię do Kenabres?<bs_n1>
+<1927><bs_n1>Co to za wyjątkowy eliksir, który warzysz?<bs_n1>
+<1928><bs_n1>Warzysz eliksir na wypadanie włosów?<bs_n1>
+<1929><bs_n1>Chcesz powiedzieć, że wcześniej byłaś mężczyzną?<bs_n1>
+<1930><bs_n1>Nie rozumiem.<bs_n1>
+<1931><bs_n1>Dziękuję za rozmowę.<bs_n1>
+<1932><bs_n1>Dzień dobry! Czego ci potrzeba?<bs_n1> {n}Odziana w roboczy fartuch krasnoludzka kobieta, wskazuje skwapliwie na ladę.{/n} <bs_n1>Mam broń, mam pancerze. A może szukasz eliksirów? Tych akurat mam całe sterty. Wszystkie zrobiłam sama i ręczę życiem za ich jakość!<bs_n1>
+<1933><bs_n1>Z eliksirów jestem szczególnie dumna. Sam{mf||a} zobacz!<bs_n1>
+<1934><bs_n1>Na imię mam Velhen. Jestem tu nowa. Kuję miecze, robię pancerze, warzę eliksiry. Co jeszcze chcesz wiedzieć?<bs_n1>
+<1935><bs_n1>Mocne, niezawodne i we wszystkich rozmiarach.<bs_n1>
+<1936><bs_n1>Masz. Wybierz coś, co ci się podoba.<bs_n1>
+<1937><bs_n1>Po latach spędzonych w jednym miejscu zaczyna się porastać mchem. Poza tym chciałam poznać tajniki nowego fachu — alchemii. A tam nikt by mnie do tego nie przyuczył... Po co szkolić własną konkurencję? Zamknęłam więc sklep i wyruszyłam w poszukiwaniu wiedzy, rzadkich składników... no i przygód, oczywiście!<bs_n1>
+<1938><bs_n1>Z rzecznych Królestw. Może słyszał{mf|e|a}ś o państwie zbudowanym na terenie Skradzionych Ziem? Przez wiele lat zajmowałam się tam tworzeniem broni i pancerzy dla całego królewskiego dworu!<bs_n1>
+<1939><bs_n1>Życzę powodzenia i bezpiecznego powrotu!<bs_n1>
+<1940><bs_n1>Cóż, jakby to...<bs_n1> {n}Krasnoludzka kobieta uśmiecha się tajemniczo.{/n} <bs_n1>Mało jest tych, którzy potrafią go zrobić, a jeszcze mniej tych, którzy go potrzebują. Ujmę to tak: zanim zaczęłam go warzyć, musiałam codziennie się golić. No i w Rzecznych Królestwach nosiłam zupełnie inne imię.<bs_n1>
+<1941><bs_n1>Zgadza się!<bs_n1> {n}Krasnoludzka kobieta śmieje się serdecznie.{/n}
+<1942><bs_n1>Spójrz.<bs_n1> {n}Velhen podnosi sztylet z lady.{/n} <bs_n1>Jedni powiedzą, że najpierw był rudą, potem żelazem, a na końcu stał się obecnym tu sztyletem. Dla innych ten sztylet drzemał głęboko w kopalniach, czekając na rękę rzemieślnika, która nada mu kształt. A według jeszcze innych metal to metal, bez względu na formę. Zostawiam tę debatę filozofom. Ja jestem rzemieślnikiem — po prostu kuję żelazo i warzę eliksiry.
+<1943><bs_n1>Zresztą, i tak poza mną nikogo to nie interesuje.<bs_n1> {n}Krasnoludzka kobieta uśmiecha się przyjaźnie, ale jej ton jasno wskazuje, że nie zamierza więcej rozmawiać na ten temat.{/n}
+<1944><bs_n1>Nie kłopocz się więc tym więcej. Lepiej weź kilka eliksirów leczniczych, w obecnych czasach nigdy nie ma się ich za dużo.<bs_n1> 
+<1945><bs_n1>Rozmowa nic nie kosztuje!<bs_n1>
+<1946><bs_n1>Specjalne zamówienie. Wyjawię ci sekret — potrafię uwarzyć kilka rzadkich eliksirów, z którymi mało kto by sobie poradził. Przybyłam tu, bo ktoś w Kenabres potrzebował jednego z nich. Potem wszystko stanęło na głowie — inwazja, kultyści, bitwa na ulicach... a mistrz Joran Vhane, przepadł bez śladu. Co więc miałam zrobić? Pozostawić jego klientów bez kowala?<bs_n1>
+<1947><bs_n1>Czego ci potrzeba? Broni, pancerzy? Może mikstur? Wszystkie moje towary to absolutnie najwyższa półka.<bs_n1>
+<1948><bs_n1>Jak się masz?<bs_n1>
+<1949>[Zapłać 2500 złota] <bs_n1>Moja drużyna potrzebuje wyszkolonego wojownika.<bs_n1>
+<1950><bs_n1>Muszę iść.<bs_n1>
+<1951><bs_n1>Mojej drużynie przydałby się doświadczony wojownik. Znasz jakiegoś?<bs_n1>
+<1952><bs_n1>Ha, ty żyjesz!<bs_n1>  {n}Sierżant Venrad, którego spotkał{mf|e|a}ś w jaskiniach pod Kenabres, salutuje ci kuflem piwa.{/n} <bs_n1>Nie sądziłem, że cię jeszcze zobaczę. Prawdę mówiąc, nie byłem pewien, czy sam wyjdę cało z tej krwawej jatki. Istny cud, obojgu nam się udało!<bs_n1>
+<1953><bs_n1>Jest jak jest.<bs_n1> {n}Venrad popija z kufla.{/n} <bs_n1>Dostałem awans, tak jakby. Ale to nic czym mógłbym się chwalić. Tak czy inaczej, nie mogę narzekać — zamiast tego mogłem trafić przed sąd wojenny.<bs_n1>
+<1954><bs_n1>Jasne, mnóstwo ich plącze się po Kenabres. Niektórzy szukają złota, inni sławy, a jeszcze inni szansy, aby zacząć wszystko od nowa... Pamiętaj, że nie będą pracować za darmo. Biorą po dwa i pół tysiąca, i to z góry.<bs_n1>
+<1955><bs_n1>Powodzenia. I do zobaczenia.<bs_n1>
+<1956><bs_n1>Znajdę ci coś odpowiedniego.<bs_n1>
+<1957><bs_n1>Po tym, jak odbiliśmy miasto, moja przyszłość stała się dla dowództwa twardym orzechem do zgryzienia. Nie mieli pojęcia co ze mną zrobić. Niektórzy chcieli mnie nagrodzić za uratowanie żołnierzy, a inni skazać za tchórzostwo. Ostatecznie decyzję podjęła sama królowa. Za wykazanie się wielką dyskrecją i rozwagą zostałem awansowany. Nie chciała mnie jednak wysłać na front — 'tam potrzebujemy oficerów obdarzonych innymi przymiotami', powiedziała. Stanęło na tym, że kapitanowi Venradowi kazano zostać w Kenabres, aby zajął się papierkową robotą i zbieraniem uzupełnień.<bs_n1>
+<1958><bs_n1>Wciąż żyjesz? Szczęściar{mf|z|a} z ciebie! Ludzie uwikłani w interesy Rekartha zwykle nie ciągną zbyt długo.<bs_n1>
+<1959> 
+<1960> 
+<1961> 
+<1962> 
+<1963> 
+<1964> 
+<1965> 
+<1966> 
+<1967> 
+<1968> 
+<1969> 
+<1970> 
+<1971> 
+<1972> 
+<1973> 
+<1974> 
+<1975> 
+<1976> 
+<1977> 
+<1978> 
+<1979> 
+<1980> 
+<1981> 
+<1982> 
+<1983> 
+<1984> 
+<1985> 
+<1986> 
+<1987> 
+<1988> 
+<1989> 
+<1990> 
+<1991> 
+<1992> 
+<1993> 
+<1994> 
+<1995> 
+<1996> 
+<1997> 
+<1998> 
+<1999> 
+<2000> 
+<2001> 
+<2002> 
+<2003> 
+<2004> 
+<2005> 
+<2006> 
+<2007> 
+<2008> 
+<2009> 
+<2010> 
+<2011> 
+<2012> 
+<2013> 
+<2014> 
+<2015> 
+<2016> 
+<2017> 
+<2018> 
+<2019> 
+<2020> 
+<2021> 
+<2022> 
+<2023> 
+<2024> 
+<2025> 
+<2026> 
+<2027> 
+<2028> 
+<2029> 
+<2030> 
+<2031> 
+<2032> 
+<2033> 
+<2034> 
+<2035> 
+<2036> 
+<2037> 
+<2038> 
+<2039> 
+<2040> 
+<2041> 
+<2042> 
+<2043> 
+<2044> 
+<2045> 
+<2046> 
+<2047> 
+<2048> 
+<2049> 
+<2050> 
+<2051> 
+<2052> 
+<2053> 
+<2054> 
+<2055> 
+<2056> 
+<2057> 
+<2058> 
+<2059> 
+<2060> 
+<2061> 
+<2062> 
+<2063> 
+<2064> 
+<2065> 
+<2066> 
+<2067> 
+<2068> 
+<2069> 
+<2070> 
+<2071> 
+<2072> 
+<2073> 
+<2074> 
+<2075> 
+<2076> 
+<2077> 
+<2078> 
+<2079> 
+<2080> 
+<2081> 
+<2082> 
+<2083> 
+<2084> 
+<2085> 
+<2086> 
+<2087> 
+<2088> 
+<2089> 
+<2090> 
+<2091> 
+<2092> 
+<2093> 
+<2094> 
+<2095> 
+<2096> 
+<2097> 
+<2098> 
+<2099> 
+<2100> 
+<2101> 
+<2102> 
+<2103> 
+<2104> 
+<2105> 
+<2106> 
+<2107> 
+<2108> 
+<2109> 
+<2110> 
+<2111> 
+<2112> 
+<2113> 
+<2114> 
+<2115> 
+<2116> 
+<2117> 
+<2118> 
+<2119> 
+<2120> 
+<2121> 
+<2122> 
+<2123> 
+<2124> 
+<2125> 
+<2126> 
+<2127> 
+<2128> 
+<2129> 
+<2130> 
+<2131> 
+<2132> 
+<2133> 
+<2134> 
+<2135> 
+<2136> 
+<2137> 
+<2138> 
+<2139> 
+<2140> 
+<2141> 
+<2142> 
+<2143> 
+<2144> 
+<2145> 
+<2146> 
+<2147> 
+<2148> 
+<2149> 
+<2150> 
+<2151> 
+<2152> 
+<2153> 
+<2154> 
+<2155> 
+<2156> 
+<2157> 
+<2158> 
+<2159> 
+<2160> 
+<2161> 
+<2162> 
+<2163> 
+<2164> 
+<2165> 
+<2166> 
+<2167> 
+<2168> 
+<2169> 
+<2170> 
+<2171> 
+<2172> 
+<2173> 
+<2174> 
+<2175> 
+<2176> 
+<2177> 
+<2178> 
+<2179> 
+<2180> 
+<2181> 
+<2182> 
+<2183> 
+<2184> 
+<2185> 
+<2186> 
+<2187> 
+<2188> 
+<2189> 
+<2190> 
+<2191> 
+<2192> 
+<2193> 
+<2194> 
+<2195> 
+<2196> 
+<2197> 
+<2198> 
+<2199> 
+<2200> 
+<2201> 
+<2202> 
+<2203> 
+<2204> 
+<2205> 
+<2206> 
+<2207> 
+<2208> 
+<2209> 
+<2210>Seelah przez pewien czas mieszkała w Gundrun, licząc, że odnajdzie się podczas pomocy w odbudowie miasta po wojnie. Nie przebywała tam jednak długo.
+<2211>Jakiś czas po zwycięstwie nad Raną Świata otoczenie dowódczyni zaczęło zauważać jej zaokrąglający się brzuszek.
+<2212>Jakiś czas po zwycięstwie nad Raną Świata otoczenie dowódczyni zaczęło zauważać jej zaokrąglający się brzuszek. Po tym wydarzeniu Lann poprzysiągł sobie nigdy więcej nie zaglądać do butelki.
+<2213> 
+<2214> 
+<2215> 
+<2216> 
+<2217> 
+<2218> 
+<2219> 
+<2220> 
+<2221> 
+<2222> 
+<2223> 
+<2224> 
+<2225> 
+<2226> 
+<2227>Od starożytnych czasów wielu mistyków wierzyło, że bariera rozdzielająca plany egzystencji najsłabsza jest właśnie w Sarkoris. Nic więc dziwnego, że to stare królestwo szamanów i wojowników upadło, pozostawiając po sobie jedynie ruiny i na wpół zapomniane imiona, które interesują już tylko historyków. Do samego końca szamanami kierowała nadzieja na powrót Arodena, który jakoby miałby ocalić ich przed Raną Świata. Na tej podstawie można stwierdzić, że Sarkorianie byli twardogłowym, upartym ludem. Być może ta upartość odpowiada za wciąż obecne pozostałości ich magii, albowiem zamieszkujące Sarkoris duchy przetrwały i nadal tu są — w przeciwieństwie do tych, którzy potrafili z nimi rozmawiać i nimi kierować.
+<2228>Po upadku Sarkoris jego mieszkańcy zostali zmuszeni do ucieczki. Niegdyś dumny lud został zmieniony w zbiorowisko włóczęgów i wyrzutków. Znani ze swej surowości i nietolerancji Kellidowie z Sarkoris nigdy nie zapomnieli demonom wyrządzonych im krzywd i wychowali nowe pokolenie wygnańców marzących o zemście i odbudowie ojczyzny. Morveg, młody Krzyżowiec Wiecznego Blasku, od dziecka pielęgnował pragnienie zemsty na demonach. Ta ślepa chęć odpłaty może doprowadzić chłopca do upadku, ale może też uczynić z niego prawdziwego bohatera.
+<2229> 
+<2230> 
+<2231> 
+<2232> 
+<2233> 
+<2234> 
+<2235> 
+<2236> 
+<2237> 
+<2238> 
+<2239> 
+<2240> 
+<2241> 
+<2242> 
+<2243> 
+<2244> 
+<2245> 
+<2246> 
+<2247> 
+<2248> 
+<2249> 
+<2250> 
+<2251> 
+<2252> 
+<2253> 
+<2254> 
+<2255> 
+<2256> 
+<2257> 
+<2258> 
+<2259> 
+<2260> 
+<2261> 
+<2262> 
+<2263> 
+<2264> 
+<2265> 
+<2266> 
+<2267> 
+<2268> 
+<2269> 
+<2270> 
+<2271> 
+<2272> 
+<2273> 
+<2274> 
+<2275> 
+<2276> 
+<2277> 
+<2278> 
+<2279> 
+<2280> 
+<2281> 
+<2282> 
+<2283> 
+<2284> 
+<2285> 
+<2286> 
+<2287> 
+<2288> 
+<2289> 
+<2290> 

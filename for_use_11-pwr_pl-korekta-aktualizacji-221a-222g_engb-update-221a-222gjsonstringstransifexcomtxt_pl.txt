@@ -1,0 +1,200 @@
+<4>Zmysł wzroku tej istoty zastał nadwyrężony, co tymczasowo uniemożliwia jej poprawne widzenie. Zamroczona postać ponosi {g|Encyclopedia:Penalty}karę{/g} -1 do {g|Encyclopedia:Attack}testów ataku{/g} i opartych na wzroku {g|Encyclopedia:Perception}testach Percepcji{/g}.
+<5>Alchemiczne Mdłości
+<6>Na 2. poziomie, Prowokator Szału zyskuje {g|Encyclopedia:Damage_Reduction}redukcję obrażeń{/g} (równą połowie swego poziomu Barbarzyńcy), którą stosuje się tylko względem ran otrzymywanych od broni lub broni naturalnej. Posiadana RO może zmniejszyć {g|Encyclopedia:Damage}obrażenia{/g} do 0, ale nie poniżej 0.
+<7>Na 10. poziomie Szalony Pies zyskuje {g|Encyclopedia:Damage_Reduction}redukcję obrażeń{/g} w wysokości RO 1/—, którą stosuje się tylko względem ran otrzymywanych od broni lub broni naturalnej. Na 13. poziomie i na każdych kolejnych 3 poziomach ta {g|Encyclopedia:Damage}RO{/g} wzrasta o 1, maksymalnie do RO 4/- na 19. poziomie. Bestia wojenna Szalonego Psa otrzymuje taką samą redukcję obrażeń jak Szalony pies.
+<8>Na 1. poziomie, Widmowy Jeździec zyskuje specjalnego wierzchowca stworzonego z wyczarowanej ektoplazmy, a nie z krwi i kości.<br>Taki wierzchowiec posiada niewrażliwość na krwawienie oraz efekty działające jedynie na istoty posiadające układ kostny.
+<9>Krzyżowcy służą jako zbrojne ramię kościoła, które stoi na straży świętych miejsc swej religii i stanowi szybkie, karzące ramię wymierzone w tych, którzy sprzeciwiają się jego prawdom.
+<10>Potrafisz manipulować wodą, mgłą i lodem, wyczarowywać wodne stwory oraz funkcjonować w siarczystym mrozie. Dzięki temu nabywasz zdolność {g|SeparatistIcicle}Sopel{/g} oraz cechę {g|FeatureSeparatistColdResistance}odporność na zimno{/g}.<br>{g|Encyclopedia:Spell}Zaklęcia{/g} Domeny: {g|SpellsRayOfSickening}Wiązka Choroby{/g}, {g|SpellsScorchingRay}Palący Promień (Zimno){/g}, {g|SpellsStinkingCloud}Cuchnąca Chmura{/g}, {g|SpellsFreedomOfMovement}Swoboda Ruchu{/g}, {g|SpellsIceStorm}Lodowa Nawałnica{/g}, {g|SpellsConeOfCold}Stożek Zimna{/g}, {g|SpellsElementalBodyIVWater}Postać Żywiołu IV (Woda){/g}, {g|SpellsHorridWilting}Plugawy Uwiąd{/g}, {g|SpellsTsunami}Tsunami{/g}.
+<11>Potrafisz naprawiać uszkodzone przedmioty, ożywiać je, a nawet konstruować coś z niczego.<br>Aura Efektywności<br>Emitujesz aurę o promieniu 30 stóp, która zapewnia twoim sojusznikom {g|Encyclopedia:Bonus}premię{/g} +4 do wszystkich {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g} przeciwko efektom, które nakładają stan {g|ConditionFatigued}zmęczenia{/g} lub {g|ConditionExhausted}wyczerpania{/g}. Możesz używać tej aury przez tyle {g|Encyclopedia:Combat_Round}rund{/g} dziennie, ile wynosi twój poziom w klasie, która dała ci dostęp do tej domeny. Te rundy nie muszą następować po sobie.<br>Aura Efektywności: Odporność na Obrażenia<br>Na 8 poziomie twoja Aura Efektywności zapewnia twoim sojusznikom {g|Encyclopedia:Damage_Reduction}redukcję obrażeń {/g} 1/-. Redukcja obrażeń wzrasta o +1/- za każde trzy posiadane przez ciebie poziomy w klasie, która dała ci dostęp do tej domeny powyżej poziomu 8.<br>{g|Encyclopedia:Spell}Zaklęcia{/g} Domeny: {g|SpellsLeadBlades}Ołowiane Ostrza{/g}, {g|SpellsEffortlessArmor}Wygodna Zbroja{/g}, {g|SpellsMagicalVestment}Magiczna Szata{/g}, {g|SpellsRestoration}Przywrócenie{/g}, {g|SpellsWavesOfFatigue}Fale Zmęczenia{/g}, {g|SpellsDisintegrate}Dezintegracja{/g}, {g|SpellsWavesOfExhaustion}Fale Wyczerpania{/g}, {g|SpellsProtectionFromSpells}Ochrona przed Czarami{/g}, {g|SpellsClashingRocks}Skalne Zderzenie{/g}.
+<12>Potrafisz manipulować wodą, mgłą i lodem, wyczarowywać wodne stwory oraz funkcjonować w siarczystym mrozie.<br>Wykorzystując {g|Encyclopedia:Standard_Actions}akcję standardową{/g}, możesz wystrzelić z palca sopel lodu, wycelowany w dowolnego przeciwnika w promieniu 30 stóp. Jest to dystansowy {g|Encyclopedia:TouchAttack}atak dotykowy{/g}. Sopel zadaje {g|Encyclopedia:Dice}1k6{/g} punktów {g|Encyclopedia:Energy_Damage}obrażeń od zimna{/g} + 1 punkt za każde dwa poziomy posiadane przez ciebie w klasie, która dała ci dostęp do tej domeny. Możesz użyć tej zdolności 3 + twój {g|Encyclopedia:Wisdom}modyfikator Mądrości{/g} razy dziennie.<br>Odporność na Zimno: Na 6. poziomie zyskujesz odporność na zimno 10. Odporność ta wzrasta do 20 na 12 poziomie. Na 20. poziomie zyskujesz {g|Encyclopedia:Energy_Immunity}niewrażliwość{/g} na zimno.<br>{g|Encyclopedia:Spell}Zaklęcia{/g} Domeny: {g|SpellsRayOfSickening}Wiązka Choroby{/g}, {g|SpellsScorchingRay}Palący Promień (Zimno){/g}, {g|SpellsStinkingCloud}Cuchnąca Chmura{/g}, {g|SpellsFreedomOfMovement}Swoboda Ruchu{/g}, {g|SpellsIceStorm}Lodowa Nawałnica{/g}, {g|SpellsConeOfCold}Stożek Zimna{/g}, {g|SpellsElementalBodyIVWater}Postać Żywiołu IV (Woda){/g}, {g|SpellsHorridWilting}Plugawy Uwiąd{/g}, {g|SpellsTsunami}Tsunami{/g}.
+<13>Potrafisz władać śniegiem i lodem jako dwoma osobnymi żywiołami, a twoje serce pompuje wiecznie zimną krew. Dzięki temu otrzymujesz następujące zdolności: {g|SeparatistIcicle}Sopel{/g}, {g|SeparatistBodyOfIce}Lodowe Ciało{/g}.<br>{g|Encyclopedia:Spell}Zaklęcia{/g} Domeny: {g|SpellsSnowball}Śnieżny Pocisk{/g}, {g|SpellsScorchingRay}Palący Promień (Zimno){/g}, {g|SpellsStinkingCloud}Cuchnąca Chmura{/g}, {g|SpellsFreedomOfMovement}Swoboda Ruchu{/g}, {g|SpellsIceStorm}Lodowa Nawałnica{/g}, {g|SpellsConeOfCold}Stożek Zimna{/g}, {g|SpellsElementalBodyIVWater}Postać Żywiołu IV (Woda){/g}, {g|SpellsPolarRay}Lodowy Promień{/g}, {g|SpellsMassIcyPrison}Grupowe Lodowe Więzienie{/g}.
+<14>Zmieniasz się w ogromnego żywiołaka powietrza. Otrzymujesz {g|Encyclopedia:Bonus}premię{/g} +4 z {g|Encyclopedia:Size}rozmiaru{/g} do {g|Encyclopedia:Strength}Siły{/g}, premię z rozmiaru +6 do {g|Encyclopedia:Dexterity}Zręczności{/g}, premię +4 z naturalnego pancerza przybranej formy do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}, {g|Encyclopedia:Energy_Resistance}odporność{/g} na elektryczność 20 i {g|Encyclopedia:Energy_Vulnerability}podatność{/g} na kwas. Masz dwa {g|Encyclopedia:Attack}ataki{/g} walnięciem {g|Encyclopedia:Dice}2k6{/g} oraz nową zdolność — Trąbę Powietrzną. W tej postaci zyskujesz również niewrażliwość na {g|Encyclopedia:Critical}trafienia krytyczne{/g} i podstępne ataki, {g|Encyclopedia:Damage_Reduction}RO{/g} 5/—, a twoja {g|Encyclopedia:Speed}prędkość{/g} poruszania się ulega zwiększeniu o 30 stóp.<br>Trąba Powietrzna: Żywiołak powietrza może swobodnie zmieniać się w trąbę powietrzną i z powrotem w żywiołaka. Trąba ma średnicę 40 stóp. Każda istota, która spędzi w niej {g|Encyclopedia:Combat_Round}rundę{/g}, musi wykonać udany {g|Encyclopedia:Saving_Throw}rzut obronny na Refleks{/g} lub otrzyma 2k6 {g|Encyclopedia:Damage_Type}obrażeń obuchowych{/g}. W tej formie żywiołak nie może atakować, może jednak używać swoich zdolności.
+<15>Zmieniasz się w dużego żywiołaka powietrza. Otrzymujesz {g|Encyclopedia:Bonus}premię{/g} +2 z {g|Encyclopedia:Size}rozmiaru{/g} do {g|Encyclopedia:Strength}Siły{/g}, premię z rozmiaru +4 do {g|Encyclopedia:Dexterity}Zręczności{/g}, premię +4 z naturalnego pancerza przybranej formy do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}, {g|Encyclopedia:Energy_Resistance}odporność{/g} na elektryczność 20 i {g|Encyclopedia:Energy_Vulnerability}podatność{/g} na kwas. Masz dwa {g|Encyclopedia:Attack}ataki{/g} walnięciem {g|Encyclopedia:Dice}1k8{/g} oraz nową zdolność — Trąbę Powietrzną. W tej postaci zyskujesz również niewrażliwość na {g|Encyclopedia:Critical}trafienia krytyczne{/g} i podstępne ataki, a twoja {g|Encyclopedia:Speed}prędkość{/g} poruszania się ulega zwiększeniu o 30 stóp.<br>Trąba Powietrzna: Żywiołak powietrza może swobodnie zmieniać się w trąbę powietrzną i z powrotem w żywiołaka. Trąba ma średnicę 40 stóp. Każda istota, która spędzi w niej {g|Encyclopedia:Combat_Round}rundę{/g}, musi wykonać udany {g|Encyclopedia:Saving_Throw}rzut obronny na Refleks{/g} lub otrzyma 1k8 {g|Encyclopedia:Damage_Type}obrażeń obuchowych{/g}. W tej formie żywiołak nie może atakować, może jednak używać swoich zdolności.
+<16>Zmieniasz się w średniego żywiołaka powietrza. Otrzymujesz {g|Encyclopedia:Bonus}premię{/g} +4 z {g|Encyclopedia:Size}rozmiaru{/g} do {g|Encyclopedia:Dexterity}Zręczności{/g}, premię +3 z naturalnego pancerza przybranej formy do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}, {g|Encyclopedia:Energy_Resistance}odporność{/g} na elektryczność 20 i {g|Encyclopedia:Energy_Vulnerability}podatność{/g} na kwas. Twoja {g|Encyclopedia:Speed}prędkość{/g} poruszania się ulega zwiększeniu o 30 stóp. Masz jeden {g|Encyclopedia:Attack}atak{/g} walnięciem {g|Encyclopedia:Dice}1k6{/g} oraz nową zdolność — Trąbę Powietrzną. <br>Trąba Powietrzna: Żywiołak powietrza może swobodnie zmieniać się w trąbę powietrzną i z powrotem w żywiołaka. Trąba ma średnicę 30 stóp. Każda istota, która spędzi w niej {g|Encyclopedia:Combat_Round}rundę{/g}, musi wykonać udany {g|Encyclopedia:Saving_Throw}rzut obronny na Refleks{/g} lub otrzyma 1k6 {g|Encyclopedia:Damage_Type}obrażeń obuchowych{/g}. W tej formie żywiołak nie może atakować, może jednak używać swoich zdolności.
+<17>Na 3 poziomie Specjalista Pawęży otrzymuje Szkolenie w Zakresie Zbroi, ale gdy używa pawęża, jego {g|Encyclopedia:Armor_Check_Penalty}kara do testów z pancerza{/g} jest zmniejszona o 3, a {g|Encyclopedia:Max_Dex_Bonus}maksymalna premia ze Zręczności{/g} wzrasta o 2. Korzyść ta wzrasta co cztery kolejne poziomy, tak jak w przypadku normalnego Szkolenia w Zakresie Zbroi; jeśli Specjalista Pawęży nie używa pawęża, stosowane są standardowe premie wynikające ze Szkolenia w Zakresie Zbroi.
+<18>Mistrz Sztuk Walki
+<19>Na 3. poziomie, a następnie co dwa poziomy, Czarownik uczy się dodatkowego {g|Encyclopedia:Spell}zaklęcia{/g}, którego źródłem jest jego linia krwi. Zaklęcia te stanowią dodatek do liczby zaklęć otrzymywanych na nowych poziomach.<br>{g|SpellsScorchingRay}Palący Promień (Zimno){/g}: To zaklęcie zawsze zadaje {g|Encyclopedia:Damage}obrażenia{/g} od twojego żywiołu (woda). Dodatkowo zmienia się również jego podtyp, dopasowując się do typu energii reprezentowanej przez twój żywioł.<br>Miotasz we wrogów wiązkami mrozu. Możesz wystrzelić jeden promień, plus jeden dodatkowy promień na każde cztery poziomy powyżej poziomu 3 (maksymalnie trzy promienie na 11 poziomie). Trafienie każdym z nich wymaga przeprowadzenia dystansowego {g|Encyclopedia:TouchAttack} ataku dotykowego{/g} i zadaje {g|Encyclopedia:Dice}4k6{/g} punktów {g|Encyclopedia:Energy_Damage}obrażeń od zimna{/g}. 
+<20>Na 1. poziomie możesz dotknąć jednego sojusznika i obdarzyć go świętym błogosławieństwem. Przez 1 minutę sojusznik ten zadaje dodatkowe {g|Encyclopedia:Dice}1k6{/g} punktów {g|Encyclopedia:Damage}obrażeń{/g} przeciwko {g|Encyclopedia:Alignment}złym{/g} istotom. W tym czasie jego {g|Encyclopedia:Attack}ataki{/g} są traktowane jak wykonywane bronią z cechą 'dobra', co ma wpływ na przezwyciężanie {g|Encyclopedia:Damage_Reduction}redukcji obrażeń{/g}.<br>Na 10. poziomie, wykorzystując {g|Encyclopedia:Swift_Action}szybką akcję{/g} możesz wzmocnić obronę sojuszników przed złem. Na jedną {g|Encyclopedia:Combat_Round}rundę{/g}, wszyscy sojusznicy w promieniu 30 stóp zyskują świętą {g|Encyclopedia:Bonus}premię{/g} +4 do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g} i {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g} przeciwko złym przeciwnikom.
+<21>Na 1. poziomie, możesz wykorzystać {g|Encyclopedia:Move_Action}akcję ruchu{/g}, aby stworzyć iluzoryczną kopię samego siebie. Ten sobowtór działa jak pojedyncze lustrzane odbicie i trwa przez liczbę {g|Encyclopedia:Combat_Round}rund{/g} równą twojemu poziomowi w klasie Kapłana Bojowego lub dopóki iluzoryczny duplikat nie zostanie rozproszony lub zniszczony. W tym samym czasie możesz mieć nie więcej niż jednego sobowtóra. Stworzona przez tę zdolność kopia nie sumuje się z dodatkowymi obrazami pochodzącymi od {g|Encyclopedia:Spell}zaklęcia{/g} Lustrzane Odbicie.
+<22>Na 1. poziomie Wiedźma Mrozu posiada już taką biegłość w panowaniu nad zimnem, że rzucane przez nią {g|Encyclopedia:Spell}zaklęcia{/g} z deskryptorem 'zimno' mają zwiększoną   {g|Encyclopedia:DC}Klasę Trudności{/g} dla {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g} o 1. Z drugiej strony wszystkie rzucane przez nią zaklęcia z deskryptorem 'ogień' mają KT dla rzutów obronnych zmniejszoną o 1. <br>Na 5. i 10. poziomie powyższe {g|Encyclopedia:Bonus}premie{/g} i {g|Encyclopedia:Penalty}kary{/g} są zwiększane o 1, maksymalnie do 3.<br>Jeżeli Wiedźma Mrozu posiada Sługę Zamieci (zdolność klasowa Dziecięcia Zimy), to premię tę dodaje się również do KT jego zdolności Wicher z Gradem.
+<23>Poziomy Wiedźmy Mrozu sumują się z poziomami Szamana przy określaniu mocy szamańskich heksów i zdolności Ducha Mrozu, oraz z poziomami Wiedźmy przy określaniu mocy wiedźmich heksów, dostępu do głównych i wielkich heksów, a także przy zdobywaniu {g|Encyclopedia:Spell}zaklęć{/g} patrona. Dodatkowo, poziomy Wiedźmy Mrozu sumują się z poziomami Druida przy określaniu poziomu Sługi Zamieci (zdolność klasowa Dziecięcia Zimy).
+<24>Kiedy Wiedźma Mrozu zdobywa nowy poziom, zyskuje wraz z nim możliwość rzucania nowych {g|Encyclopedia:Spell}zaklęć{/g} na dzień, tak jakby awansowała również jako Wiedźma lub Szaman (w zależności od tego, którą z tych klas podążała zanim zaczęła rozwijać swą klasę prestiżową). Dodatkowo na 2 poziomie i co dwa kolejne poziomy Wiedźma Mrozu zyskuje nowy heks, zależny od wybranej klasy czarującej.
+<25>Na 20 poziomie Zaklinacz Cieni może na wykorzystać {g|Encyclopedia:Standard_Actions}akcję standardową{/g}, aby przekształcić się w istotę z czystego cienia. Efekt trwa przez tyle minut, ile wynosi jego poziom rzucającego. Przebywając w tej postaci zyskuje szereg korzyści:<br>- uznaje się go za istotę bezcielesną i nieumarłą;<br>- otrzymuje {g|Encyclopedia:Bonus}premię{/g} +2 do {g|Encyclopedia:Intelligence}Inteligencji{/g};<br>- otrzymuje możliwość wykonywania {g|Encyclopedia:Incorporeal_Touch_Attack}bezcielesnych ataków dotykowych{/g} ({g|Encyclopedia:Dice}2k8{/g} {g|Encyclopedia:AbilityDamage}obrażeń{/g} {g|Encyclopedia:Strength}Siły{/g};<br>- otrzymuje niewrażliwość na efekty wynikające z terenu<br> otrzymuje premię +30 do {g|Encyclopedia:Speed}prędkości{/g};<br>- otrzymuje również efekty {g|Encyclopedia:Spell}zaklęcia{/g} Transformacji, przy czym zachowuje jednocześnie zdolność do rzucania zaklęć.<br>Tej zdolności można użyć raz na 24 godziny.
+<26>Na 7 poziomie Zaklinacz Cieni może raz dziennie wykorzystać {g|Encyclopedia:Standard_Actions}akcję standardową{/g}, aby sięgnąć do Planu Cieni i przywołać z niego jednego cienia. Przyzwana istota wspomaga go w walce i towarzyszy mu tyle minut, ile wynosi jego poziom w klasie Czarodzieja. Wraz ze zdobywaniem przez Zaklinacza Cieni kolejnych poziomów, rośnie również moc przyzywanego cienia. Na 7 poziomie istota ta zyskuje bluźnierczą {g|Encyclopedia:Bonus}premię{/g} +2 do {g|Encyclopedia:Dexterity}Zręczności{/g}, {g|Encyclopedia:Charisma}Charyzmy{/g},{g|Encyclopedia:Armor_Class}KP{/g}, testów ataku oraz rzutów obronnych na Refleks i Wolę. Premia ta jest dodatkowo zwiększana przez zdolność Potęga Planu Cieni.
+<27>Główny Animator
+<28>Związałeś część swojej duszy z pierścieniem. Zyskujesz {g|Encyclopedia:Bonus}premię{/g} +4 do {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g} przeciwko efektom wpływającym na umysł, emocjom, zamętowi, strachowi, {g|Encyclopedia:Injury_Death}śmierci{/g} i przymusowi, ale również ponosisz {g|Encyclopedia:Penalty}karę{/g} -2 do rzutów przeciwko efektom trucizny, żywiołów, paraliżującym i utrudniającym poruszanie się. Wykorzystując {g|Encyclopedia:Swift_Action}szybką akcję{/g}, możesz poświęcić ilość {g|Encyclopedia:HP}Punktów Wytrzymałości (PW){/g} równą połowie twojego poziomu, aby na 1 {g|Encyclopedia:Combat_Round}rundę{/g} zapewnić wskazanej istocie premię +2 do {g|Encyclopedia:Attack}testów ataku{/g} i przekształcić {g|Encyclopedia:Damage_Type}typ obrażeń{/g} jej broni w obrażenia od mocy.
+<29>Twoja wściekłość nie zna granic ani barier.<br>Korzyść: Od tej pory możesz korzystać ze zdolności Szał lub Furia przez nieograniczoną liczbę {g|Encyclopedia:Combat_Round}rund{/g} dziennie.
+<30> 
+<31> 
+<32> 
+<33> 
+<34> 
+<35> 
+<36> 
+<37> 
+<38> 
+<39> 
+<40> 
+<41> 
+<42> 
+<43> 
+<44> 
+<45> 
+<46> 
+<47> 
+<48> 
+<49> 
+<50> 
+<51> 
+<52> 
+<53> 
+<54> 
+<55> 
+<56> 
+<57> 
+<58> 
+<59> 
+<60> 
+<61> 
+<62> 
+<63> 
+<64> 
+<65> 
+<66> 
+<67> 
+<68> 
+<69><b>{source}</b> bezskutecznie próbuje sparować atak wyprowadzany przez: <b>{target}</b>.
+<70><b>{source}</b> paruje atak wyprowadzony przez: <b>{target}</b>.
+<71>{g|ConditionShaken}Wstrząśnięta{/g} postać ponosi {g|Encyclopedia:Penalty}karę{/g} -2 do {g|Encyclopedia:Attack}testów ataku{/g}, {g|Encyclopedia:Damage}rzutów na obrażenia{/g} od broni, {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g}, {g|Encyclopedia:Skills}testów umiejętności{/g} i {g|Encyclopedia:Ability_Scores}testów atrybutów{/g}. Wstrząśnięcie jest mniej poważnym stanem strachu niż {g|ConditionFrightened}przerażenie{/g} lub ogarnięcie paniką.
+<72>{g|ConditionShaken}Wstrząśnięta{/g} postać ponosi {g|Encyclopedia:Penalty}karę{/g} -2 do {g|Encyclopedia:Attack}testów ataku{/g}, {g|Encyclopedia:Damage}rzutów na obrażenia{/g} od broni, {g|Encyclopedia:Saving_Throw}rzutów obronnych{/g}, {g|Encyclopedia:Skills}testów umiejętności{/g} i {g|Encyclopedia:Ability_Scores}testów atrybutów{/g}. Wstrząśnięcie jest mniej poważnym stanem strachu niż {g|ConditionFrightened}przerażenie{/g} lub ogarnięcie paniką.
+<73>Istota objęta efektem tego zaklęcia staje się niewidzialna.<br>Jeśli sytuacja wymaga wykonania {g|Encyclopedia:Check}testu{/g}, niewidzialna istota korzysta z {g|Encyclopedia:Bonus}premii{/g} +20 do umiejętności {g|Encyclopedia:Stealth}Skradania się{/g}. Istota zyskuje 50% szansy na chybienie wymierzonego w niej ataku, tak jakby była całkowicie {g|Encyclopedia:Concealment}ukryta{/g}. {g|Encyclopedia:Spell}Zaklęcie{/g} ulega rozproszeniu gdy niewidzialna istota kogokolwiek {g|Encyclopedia:Attack}zaatakuje{/g}. Na potrzeby tego zaklęcia przyjmuje się, że atakiem jest każde zaklęcie bezpośrednio {g|Encyclopedia:Spell_Target}wycelowane{/g} w przeciwnika albo takie, którego obszar działania obejmuje przeciwnika. To, kogo należy uznać za wroga, zależy od punktu widzenia niewidzialnej postaci. {g|Encyclopedia:CA_Types}Działania{/g} podjęte wobec niepilnowanych obiektów nie kończą działania efektu zaklęcia. Pośrednie wyrządzenie krzywdy nie jest traktowane jak atak. Tak więc niewidzialna istota może otwierać drzwi, rozmawiać, jeść, wchodzić po schodach, przywoływać potwory i kazać im atakować, przecinać liny utrzymujące most linowy pełen wrogów, zdalnie uruchamiać pułapki, podnosić kratę, aby wypuścić atakujące psy i tak dalej. Jeśli jednak bezpośrednio zaatakuje, natychmiast staje się widoczna wraz z całym swoim ekwipunkiem. Zaklęcia takie jak {g|SpellsBless}Błogosławieństwo{/g}, które oddziałują jedynie na sojuszników, nie są uznawane za atak, nawet jeżeli obejmą przeciwników swoim obszarem działania.
+<74>Kości ofiary (lub jej egzoszkielet) rozszczepiają się, zadając jej {g|Encyclopedia:Dice}1k6{/g} punktów {g|Encyclopedia:Damage}obrażeń{/g} na {g|Encyclopedia:Caster_Level}poziom rzucającego{/g} (maksymalnie 15k6). Związane z tą transformacją ból oraz wysiłek powodują, że cel ulega {g|ConditionExhausted}wyczerpaniu{/g} na 1 minutę na poziom rzucającego.<br>Jeżeli ofierze uda się {g|Encyclopedia:Saving_Throw}rzut obronny na Wytrwałość{/g}, otrzymuje połowę obrażeń i staje się {g|ConditionFatigued}zmęczona{/g} (a nie wyczerpana).
+<75>Zmieniłeś się w wiwernę. Masz {g|Encyclopedia:Bonus}premię{/g} z {g|Encyclopedia:Size}rozmiaru{/g} +4 do {g|Encyclopedia:Strength}Siły{/g}, {g|Encyclopedia:Penalty}karę{/g} -2 do {g|Encyclopedia:Dexterity}Zręczności{/g} i premię z naturalnego pancerza +4 do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}. Twoja {g|Encyclopedia:Speed}prędkość{/g} ruchu uległa zmniejszeniu o 10 stóp. Posiadasz także jeden {g|Encyclopedia:Attack}atak{/g} poprzez ugryzienie, {g|Encyclopedia:Dice}2k6{/g}, dwa ataki skrzydłami (1k6) oraz atak żądłem (1k6 plus trucizna). 
+<76>Zmieniłeś się w dużą wiwernę. Masz {g|Encyclopedia:Bonus}premię{/g} z {g|Encyclopedia:Size}rozmiaru{/g} +4 do {g|Encyclopedia:Strength}Siłyi{/g}, {g|Encyclopedia:Penalty}karę{/g} -2 do {g|Encyclopedia:Dexterity}Zręczności{/g} i premię z naturalnego pancerza +4 do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}. Twoja {g|Encyclopedia:Speed}prędkość{/g} ruchu ulega zmniejszeniu o 10 stóp. Posiadasz także jeden {g|Encyclopedia:Attack}atak{/g} poprzez ugryzienie, ({g|Encyclopedia:Dice}2k6{/g}), dwa ataki skrzydłami (1k6) oraz atak żądłem (1k6 plus trucizna).<br>Trucizna Wiwerny: Żądło — zranienie; {g|Encyclopedia:Saving_Throw}Rzut obronny: Wytrwałość{/g} ({g|Encyclopedia:DC}KT{/g} 17); Częstotliwość: 1/{g|Encyclopedia:Combat_Round}runda{/g} przez 6 rund; Efekt: 1k4 {g|Encyclopedia:Damage}obrażenia{/g} {g|Encyclopedia:Constitution}Kondycji{/g} ; {g|Encyclopedia:Healing}Uleczenie{/g}: uzyskanie 2 razy z rzędu pozytywnego wyniku rzutu obronnego.
+<77>Podczas swojej tury postać może wykonać jedną {g|Encyclopedia:Standard_Actions}akcję standardową{/g}, jedną {g|Encyclopedia:Move_Action}akcję ruchu{/g}, jedną {g|Encyclopedia:Swift_Action}szybką akcję{/g} oraz nieograniczoną liczbę {g|Encyclopedia:Free_Action}akcji darmowych{/g} (wszystkie one zajmują łącznie 6 sekund <bs_n1>czasu rzeczywistego<bs_n1>). Najczęściej akcja ruchu wykorzystywana jest do poruszenia się lub wypicia eliksiru, akcja standardowa do przeprowadzania {g|Encyclopedia:Attack}ataków{/g}, {g|Encyclopedia:Spell}rzucania zaklęć{/g} lub wykonania dodatkowego ruchu, a szybka akcja do aktywowania specjalnych zdolności klasowych. Możliwe są również inne kombinacje. Istnieje również tak zwana <bs_n1>akcja pełnorundowa<bs_n1>, która zużywa zarówno akcję standardową, jak i akcję ruchu. Domyślnie system wybiera optymalną kombinację typów akcji, aby postać wykonała twoje polecenie. Możesz zmienić tę kombinację, używając <size=120%><sprite name=RightMouseBTN></size>.<br>Runda zaskoczenia. Jeśli rozpoczniesz walkę z przeciwnikiem, który nie jest świadomy twojej obecności, twoja drużyna zyskuje przewagę w postaci jednej rundy zaskoczenia. Podczas tej rundy twoje postacie mogą podjąć ograniczoną liczbę akcji, podczas gdy przeciwnik nie może w żaden sposób działać.
+<78>Pogromca Bogów Tanatycznego Tytana
+<79>Raz dziennie, kiedy trzepocze skrzydłami wykorzystując {g|Encyclopedia:Standard_Actions}standardową akcję{/g}, Koloksus może stworzyć hipnotyzujący pokaz kolorów i wygłuszające dźwięk brzęczenie. Wszystkie stworzenia w promieniu 30 stóp, które widzą koloksusa, muszą wykonać udany {g|Encyclopedia:Saving_Throw}rzut obronny na Wolę{/g} ({g|Encyclopedia:DC}KT{/g} 24) lub zostaną {g|ConditionSlowed}spowolnione{/g} na 6 {g|Encyclopedia:Combat_Round}rund{/g}. Dodatkowo dźwięk tworzy bufor przeciw energii dźwiękowej, dając koloksusowi {g|Encyclopedia:Energy_Immunity}niewrażliwość{/g} na dźwiękowe {g|Encyclopedia:Attack}ataki{/g} lub efekty na 6 rund. KT rzutu obronnego oparta jest na {g|Encyclopedia:Charisma}Charyzmie{/g}.
+<80>Ugryzienie; {g|Encyclopedia:Saving_Throw}Rzut Obronny{/g}: Wytrwałość ({g|Encyclopedia:DC}KT{/g} 18)<br>Częstotliwość: 1/{g|Encyclopedia:Combat_Round}runda{/g} przez 6 rund<br>Efekt: 1k2 {g|Encyclopedia:AbilityDamage}obrażeń{/g} {g|Encyclopedia:Constitution}Kondycji{/g}<br>Uleczenie: 1 udany rzut obronny<br>KT rzutów obronnych oparta jest na Kondycji.
+<81> 
+<82>[Projekt] Postać nosząca tę maskę zyskuje zdolność, dzięki której przy wykonywaniu testów ataku bronią używa atrybutu Inteligencji, a nie Siły, czy Zręczności. 
+<83>[Projekt] Maska Pełnej Ostrości
+<84>[Projekt] Miecz Krwawego Rycerza potrafi 3 razy dziennie wyssać krew ze zwłok i doprowadzić do ich eksplozji. Każdy przeciwnik w promieniu 30 stóp od truposza musi wykonać udany rzut na Refleks (KT = 10+KW posiadacza Miecza) lub otrzyma 12k6 złych obrażeń obuchowych, Udany rzut obronny zmniejsza te obrażenia o połowę.
+<85>Rozkojarzenie: Istota z tą zdolnością wywołuje mdłości u wszystkich stworzeń, którym zdoła zadać {g|Encyclopedia:Damage}obrażenia{/g}. Każda trafiona żywa istota musi wykonać udany rzut obronny na Wytrwałość, albo zacznie {g|ConditionNauseated}odczuwać mdłości{/g} przez 1 {g|Encyclopedia:Combat_Round}rundę{/g}. Udany {g|Encyclopedia:Saving_Throw}rzut obronny na Wytrwałość{/g} ({g|Encyclopedia:DC}Klasa Trudności (KT){/g} = 10 + połowa {g|Encyclopedia:Hit_Dice}Kostek Wytrzymałości (KW){/g} + modyfikator {g|Encyclopedia:Constitution}Kondycji{/g} istoty) neguje ten efekt.<br>Choroba: Rój (rzut na Wytrwałość przeciwko KT 21); Częstotliwość: 1/dzień; Efekt: {g|Encyclopedia:Dice}1k4{/g} obrażeń Kondycji i nałożenie stanu {g|ConditionFatigued}zmęczenia{/g}; Uleczenie: uzyskanie 2 razy z rzędu pozytywnego wyniku rzutu obronnego. Klasa Trudności rzutów obronnych oparta jest na Kondycji.
+<86>Torturowany Szkielet Snajper
+<87>Mieszczanin
+<88>Choroba wywołana przez demoniczne robaki. Istota otrzymuje {g|Encyclopedia:Penalty}karę{/g} -2 do {g|Encyclopedia:Ability_Scores}atrybutów{/g} {g|Encyclopedia:Dexterity}Zręczność{/g} i {g|Encyclopedia:Wisdom}Mądrość{/g}, karę -4 do wszystkich {g|Encyclopedia:Attack}testów ataku{/g} i 30% ryzyko na niepowodzenie {g|Encyclopedia:Spell}zaklęcia{/g} mistycznego.
+<89>Kiedy uderza atakuje okrutną bronią przeciwnika, który jest {g|ConditionFrightened}przerażony{/g}, {g|ConditionShaken}wstrząśnięty{/g}lub ogarnięty paniką, ofiara nabywa dodatkowo stan {g|ConditionSickened}osłabienia{/g} na 1 {g|Encyclopedia:Combat_Round}rundę{/g}. Za każdym razem, gdy ta broń kogoś zabije lub pozbawi {g|Encyclopedia:Injury_Death}przytomności{/g}, jej właściciel otrzymuje 5 tymczasowych {g|Encyclopedia:HP}Punktów Wytrzymałości{/g}, które utrzymują się przez 10 minut.
+<90>Sztylet +1. Zapewnia swojemu posiadaczowi {g|Encyclopedia:Bonus}premię{/g} +3 z uniku do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g} i niewrażliwość na stan {g|ConditionNauseated}odczuwający mdłości{/g}.
+<91>Za każdym razem, gdy posiadacz tego kompozytowego, krótkiego łuku krwawienia +3 potwierdzi nim {g|Encyclopedia:Critical}trafienie krytyczne{/g}, nakłada na przeciwnika trwającą do końca walki {g|Encyclopedia:Penalty}karę{/g} -1 do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g}. Efekt ten kumuluje się z każdym kolejnym trafieniem krytycznym.
+<92>Podczas gdy arystokraci i oficjele pławią się w chwale zdobywców Rany Świata, zwykli mieszkańcy Mendev przyjdą z pomocą dowódc{mf|y|zyni} i wyślą milicję na pomoc krucjacie.
+<93><bs_n1>Nie przeczę, że Mendev znajduje się w środku poważnego kryzysu. Musimy jednak rozwiązać ten problem sami, bez angażowania w to obcych mocarstw. Nerosyan zrobił wszystko, co w jego mocy, by wspomóc Drezen, a teraz oczekuje wzajemności. Proszę o wydanie rozkazu wszystkim nowo sformowanym oddziałom gotowym do wyruszenia do Drezen, by zamiast tego pomaszerowały do głównych miast Mendev.
+<94>Duży, ciężki klucz wykonany z matowego metalu. Jego wypolerowana powierzchnia jest gładka i wolna od zadrapań, zarysowań czy innych śladów użytkowania.
+<95>{n}Martwa kapłanka przytakuje w milczeniu, ale jej zachowanie nie pozostawia wątpliwości, iż pała do ciebie gorącą nienawiścią.{/n}
+<96>O czym ty mówisz? Nie jesteśmy przecież diabłami!<bs_n1> {n}Yozz śmieje się i głośno klaszcze w dłonie.{/n} <bs_n1>Wspaniale! Czeka cię tu świetlana przyszłość, mój drobny, acz śmiertelnie niebezpieczny przyjacielu!<bs_n1>
+<97><bs_n1>{name}, co ty wyprawiasz?<bs_n1>
+<98><bs_n1>{name}, dostał{mf|e|a}ś się pod wpływ Sithuda! Zwalcz to, nie poddawaj się!
+<99>{n}Sendri zaczyna się trąść, starając się nie zwymiotować.{/n} <bs_n1>Desno łaskawa, nic z tego nie wydarzyło się naprawdę, prawda...? Nie, absolutnie nie. To tylko wytwór wyobraźni... Proszę, chodźmy stąd.<bs_n1>
+<100>{n}Dotychczasowe mamrotanie zastępuje przeraźliwy krzyk, który przenika twoje serce zawartym w nim bólem i dojmującą rozpaczą.{/n}
+<101><bs_n1>Uff, niebezpieczna część mamy już za sobą. Można zgasić lampę.<bs_n1>
+<102>Jakaś kobieta woła was pewnym siebie głosem. Poznajesz ją, zwrócił{mf|e|a}ś na nią uwagę, gdy olbrzymy zabierały swoją ostatnią ofiarę.{/n} <bs_n1>Chcę, żebyście zabili tego skurwiela.<bs_n1>
+<103><bs_n1>Zaraz zwymiotuję...<bs_n1> {n}Gnom wpatruje się w twarz więźnia z obrzydzeniem...{/n} <bs_n1>Pomóżmy mu i bierzmy nogi za pas. Nie zniosę kolejnych takich potworności...<bs_n1>
+<104> 
+<105> 
+<106> 
+<107> 
+<108> 
+<109> 
+<110> 
+<111> 
+<112> 
+<113> 
+<114> 
+<115> 
+<116> 
+<117> 
+<118> 
+<119> 
+<120> 
+<121> 
+<122> 
+<123> 
+<124> 
+<125> 
+<126> 
+<127> 
+<128> 
+<129> 
+<130> 
+<131> 
+<132> 
+<133> 
+<134> 
+<135> 
+<136> 
+<137> 
+<138> 
+<139> 
+<140> 
+<141> 
+<142> 
+<143> 
+<144> 
+<145> 
+<146> 
+<147> 
+<148> 
+<149> 
+<150> 
+<151> 
+<152> 
+<153> 
+<154> 
+<155> 
+<156> 
+<157> 
+<158> 
+<159> 
+<160> 
+<161> 
+<162> 
+<163> 
+<164> 
+<165> 
+<166> 
+<167> 
+<168> 
+<169> 
+<170> 
+<171> 
+<172> 
+<173> 
+<174> 
+<175> 
+<176> 
+<177> 
+<178> 
+<179> 
+<180> 
+<181> 
+<182> 
+<183> 
+<184> 
+<185> 
+<186> 
+<187> 
+<188> 
+<189> 
+<190> 
+<191> 
+<192> 
+<193> 
+<194> 
+<195> 
+<196> 
+<197> 
+<198> 
+<199> 
+<200> 
+<201>Klątwa Shelyn nakłada następujące negatywne efekty. Otrzymujesz karę -2 do wszystkich testów ataku i rzutów na obrażenia, rzutów obronnych, testów umiejętności, testów atrybutów i zawsze jesteś dotknięty stanami: wstrząśnięty i zmęczony.
+<202>Trzy okruchy obdarzyły t{mf|ego|ą} śmiertelni{mf|ka|czkę} półboską mocą. Jeśli zdoła odzyskać je wszystkie, stanie się potężniejsz{mf|y|a} od bogów! Ale jak to zrobić bez umierania? Musi być jakiś sposób.
+<203>Nosiciel okruchu duszy Sithuda chowa coś w lesie. Trzeba to odnaleźć.

@@ -1,0 +1,123 @@
+<4>Wszyscy Besmarańscy piraci otrzymują {g|Encyclopedia:Bonus}premię{/g} +1 z intuicji do {g|Encyclopedia:Attack}testów ataku{/g} i {g|Encyclopedia:Damage}rzutów na obrażenia{/g} za swoich poległych towarzyszy, to jest za każdych 5 Besmarańskich piratów, których zabiłeś (na tej lub innej wyspie). Premia ta kumuluje się do maksymalnej wartości +10.
+<5>Na 15. poziomie Reanimator dodaje do swojej księgi receptur Stworzenie Potężnych Nieumarłych jako ekstrakt 5 poziomu.<br>Dodatkowo od teraz każda nieumarła istota stworzona przez Reanimatora otrzymuje jeden dodatkowy {g|Encyclopedia:Attack}atak{/g} na {g|Encyclopedia:Combat_Round}rundę{/g}.
+<6>Kształty Żywiołu — Powietrze
+<7>Na 5 poziomie Adept Zakonu Piki otrzymuje cechę klasową wojownika Trening Broni. Jego wybór ograniczony jest do następujących grup: broń drzewcowa, włócznie. Wraz z kolejnymi poziomami Trening Broni zapewnia dalsze premie. Na potrzeby ustalenia ich wysokości uznaje się, że postać ma poziom w klasie Wojownika równy swojemu poziomowi w klasie Kawalerzysty 
+<8>Mag bojowy może wzmocnić broń usprawnioną przy użyciu jego puli energii magicznej, cechą {g|EnhancementShockingBurst}wstrząsający wybuch{/g}, ale wiąże się z redukcją przyznanej tej broni {g|Encyclopedia:Bonus}premi{/g} z usprawnienia o 2 punkty. 
+<9>Sohei nie posiada zwykłych biegłości mnicha w posługiwaniu się bronią i pancerzem, zamiast tego jest biegły we wszystkich broniach prostych i {g|Encyclopedia:Weapon_Proficiency}wojennych{/g} oraz w lekkich zbrojach. Gdy mnich nosi zbroję lub tarczę, albo też jest średnio lub mocno obciążony, traci swoją {g|Encyclopedia:Bonus}premię{/g} do {g|Encyclopedia:Armor_Class}Klasy Pancerza (KP){/g} oraz zdolności Szybki Ruch i Grad Ciosów
+<10>Szaman może śpiewać wykorzystując {g|Encyclopedia:Move_Action}akcję ruchu{/g}. Każda istota w promieniu 30 stóp, która znajduje się pod wpływem któregoś z następujących szamańskich heksów: Złe Oko, Fortuna, Furia, Pech lub Ochronne Szczęście, doznaje przedłużenia czasu trwania tego efektu o 1 {g|Encyclopedia:Combat_Round}rundę{/g}.
+<11>Nie ma następującej cechy: Linia Krwi<br>\t\t\t\t\tor<br>Ma Linię Krwi tego samego typu przyznaną przez inną klasę
+<12>Nie ma następującej Cechy: Linia Krwi<br>\t\t\t\t\tor<br>Ma Niebiańską Linię Krwi
+<13>Nie ma następującej Cechy: Linia Krwi<br>\t\t\t\t\tor<br>Ma Mistyczną Linię Krwi
+<14>Nie ma następującej Cechy: Linia Krwi<br>\t\t\t\t\tor<br>Ma Linię Krwi Fey
+<15>Uderzenie Burzy (druga ręka)
+<16>Lekarstwo na beznadziejnego pijaka.
+<17>Eliksir Widzialności
+<18>Przeklinając swych wrogów, osłabiasz przy okazji ich zdolności obronne.<br>Korzyść: Jeżeli użyjesz na przeciwniku zdolności lub {g|Encyclopedia:Spell}zaklęcia{/g} z {g|Encyclopedia:Spell_Descriptor}deskryptorem{/g} 'klątwa' lub 'heks', to w kolejnej {g|Encyclopedia:Combat_Round}rundzie{/g} wszystkie wymierzone w niego {g|Encyclopedia:Attack}ataki{/g} traktowane są tak, jakby wykonywano je przy użyciu broni magicznej i z zimnego żelaza. W tym samym czasie jego {g|Encyclopedia:Damage_Reduction}RO{/g} zostaje zredukowana o wartość odpowiadającą liczbie noszonych przez ciebie okruchów.
+<19>Skażasz krew przeciwnika, czyniąc ją zaraźliwą. Cel {g|ConditionNauseated}odczuwa mdłości{/g}przez 1 {g|Encyclopedia:Combat_Round}rundę{/g} na {g|Encyclopedia:Caster_Level}poziom rzucającego{/g}. Jeśli cel umrze podczas stanu odczuwania mdłości, zada {g|Encyclopedia:Dice}6k6{/g} {g|Encyclopedia:Damage}obrażeń{/g} wszystkim istotom w promieniu 15 stóp i nałoży na nie efekt Skażonej Krwi. Jeśli wykonywany przez ofiarę rzut obronny się powiedzie, zamiast tego stanie się osłabiona.<br>Cel co rundę wykonuje nowy {g|Encyclopedia:Saving_Throw}rzut obronny{/g}, przeciwko nałożonemu na niego stanowi.
+<20>Każdego dnia postacie posługujące się magią mistyczną przygotowują wszystkie swoje sztuczki (zaklęcia 0-poziomowe). Rzuca się je tak jak inne zaklęcia, ale nie wymagają one żadnych slotów na zaklęcia i można ich użyć nieograniczoną liczbę razy. 
+<21>Każdego dnia postacie posługujące się boską magią przygotowują wszystkie swoje litanie (zaklęcia 0-poziomowe). Rzuca się je tak jak inne zaklęcia, ale nie wymagają one żadnych slotów na zaklęcia i można ich użyć nieograniczoną liczbę razy. 
+<22>Pomioty diabłów lub też piekielni, jak czasem się ich nazywa, to nazwa nadana diabelstwom wywodzącym się od diabłów. Choć często są rygorystyczne, uparte oraz skupione na ścisłym trzymaniu się planów i harmonogramów, to mają również jeden rzadki talent — potrafią przejrzeć stwarzane przez innych pozory. Te istoty rozpoznają kłamstwo, gdy tylko je usłyszą. Często są też w stanie odgadnąć jaki skrywany występek lub wyrzut sumienia tak naprawdę motywuje inną osobę. <br>Piekielni mają {g|Encyclopedia:Bonus}premię{/g} rasową +2 do {g|Encyclopedia:Constitution}Kondycji{/g} i {g|Encyclopedia:Wisdom}Mądrości{/g}, {g|Encyclopedia:Penalty}karę{/g} -2 do {g|Encyclopedia:Charisma}Charyzmy{/g} i premię rasową +2 do testów {g|Encyclopedia:Persuasion}Perswazji{/g} (gdy jest używana do dyplomacji) i {g|Encyclopedia:Perception}Percepcji{/g}. Raz dziennie mogą użyć {g|Encyclopedia:Spell}zaklęcia{/g} {g|SpellsScorchingRay}Palący Promień{/g} (jako zdolności czaropodobnej). Nie otrzymują kary do Charyzmy, jeśli w ramach swojej klasy wybrali piekielną linię krwi.
+<23>Żądło - zranienie<br>2{g|Encyclopedia:Saving_Throw}Rzut obronny{/g}: Wytrwałość<br>Częstotliwość: 1/{g|Encyclopedia:Combat_Round}rundę{/g} przez 6 rund<br>Efekt: {g|Encyclopedia:Dice}1k4{/g} obrażeń {g|Encyclopedia:Strength}Siły{/g}<br>Uleczenie: uzyskanie 3 razy z rzędu pozytywnego wyniku rzutu obronnego.<br>{g|Encyclopedia:DC}Klasa Trudności (KT){/g} rzutu obronnego oparta jest na {g|Encyclopedia:Constitution}Kondycji{/g}.
+<24>Vescavory potrafią pożreć niemal wszystko. Ten rój ignoruje wszystkie {g|Encyclopedia:Damage_Reduction}RO{/g}, poza N/-.
+<25>Wygłodniałość
+<26> 
+<27> 
+<28> 
+<29> 
+<30> 
+<31> 
+<32> 
+<33> 
+<34> 
+<35> 
+<36> 
+<37> 
+<38> 
+<39> 
+<40> 
+<41> 
+<42> 
+<43> 
+<44>{n}Sendri mruga, a zimny płomień w jego oku gaśnie. Opuszcza głowę w zakłopotaniu.{/n} <bs_n1>Tak, masz rację. Gadam bez zastanowienia. Wybacz mi.<bs_n1>
+<45><bs_n1>Nie potrzebujemy kolejnego członka drużyny. Możesz sobie iść.<bs_n1>
+<46><bs_n1>Czekaj, nie możesz odrzucić takiej pomocy! Zdecydowanie przydałby nam się profesjonalny badacz Otchłani, bo właśnie tam zmierzamy — klnę się na moje futro z lisa.<bs_n1>
+<47><47>{n}Złoty promień słońca oświetla twarze towarzyszy, zmywając ich gniewne miny i rozwiewając demoniczną iluzję. Rekarth i Sendri wymieniają zdezorientowane spojrzenia, zdając sobie sprawę, że mieli się właśnie nawzajem pozabijać — po czym jednym synchronicznym ruchem odwracają się, by stawić czoła prawdziwemu wrogowi.
+<48>{n}Promień słońca, pokonuje niewyobrażalną odległość między Niebem a Otchłanią, przebijając się przez wyrwę w tkaninie rzeczywistości. Obmywa twoją świadomość boskim spokojem. Sithhud rozluźnia swój lodowaty uścisk, pozwalając ci znów myśleć jasno.{/n}
+<49>{name}, co ty wyprawiasz?
+<50>{name}, dostał{mf|e|a}ś się pod wpływ Sithuda! Zwalcz to, nie poddawaj się!
+<51>Dotknij ściany lodu
+<52>Zejście po tym stromym zboczu nie nastręczy zbyt dużych trudności, ale wspięcie się na nie z powrotem będzie już niewykonalne.
+<53><bs_n1>Pożywienem? Ciekawe. Musi być już znudzony typowymi torturami. Założę się, że taki potwór jak ten velstrak, mógłby z pomocą okruchu wymyślić wiele nowych metod kaźni.<bs_n1>
+<54><bs_n1>Sithhud sam skrócił się o głowę... I natychmiast powrócił z odnowioną mocą. Co to było?<bs_n1>
+<55><bs_n1>Czas wracać do domu.<bs_n1>
+<56>{n}Lodowate kości Sithhuda powoli rozpadają się w proch, stając się jednością z zimowym pyłem, z którego zbudowana jest jego domena. Upadły władca demonów odchodzi w zapomnienie, tym razem na zawsze. Pozostawił po sobie jedynie odłamek ogromnego miecza. Jego ostry, zimny blask przyciąga wzrok.{/n}
+<57><bs_n1>Uważał się za władcę świata — ale świat już dawno o nim zapomniał. To niezwykłe, jak najpotężniejsze potwory z Otchłani mogą być jednocześnie najbardziej żałosne.<bs_n1>
+<58><bs_n1>Bądź z tym bardzo ostrożny. Ty ze wszystkich ludzi dobrze wiesz, że każdy skarb Otchłani niesie w sobie ułamek jej spaczenia!<bs_n1>.
+<59><bs_n1>Nie pozbędziesz się władcy demonów na dobre, jeśli zabijesz go tylko raz. Wycofują się, by odzyskać siły w bezpiecznym miejscu. Pamiętasz, jak Bafomet uciekł z pola bitwy, gdy rzucił{mf|e|a}ś mu wyzwanie? Sithhud zrobił to samo — jednak tym razem nie miał dokąd uciec.<bs_n1>
+<60><bs_n1>Stary, nudny i całkowicie szalony... Lepiej umrzeć niż zamienić się w taką kompromitację. Zrobiliśmy przysługę całemu światu pozbywając się tego czegoś.<bs_n1>
+<61><bs_n1>Gołe kości, śnieg, lód, kilka starych, zmurszałych kamieni służących za dom... Taka moc, a żył w tej ruderze? Ten władca demonów naprawdę nie miał gustu!<bs_n1>
+<62><bs_n1>Wydawał się nie do końca rozumieć, co się dzieje, kim jesteśmy my, kim jest on... Jak bardzo stary człowiek. A jednak wciąż torturował siebie i innych... Mam nadzieję, że teraz wreszcie będzie mógł spocząć w pokoju.<bs_n1>
+<63><bs_n1>Bez względu na to, ile demonów zabijamy, one wciąż wracają, aby stoczyć z nami kolejną walkę. Może los tego gościa w końcu nauczy ich, że nie warto z nami zadzierać?<bs_n1>
+<64><bs_n1>Cena za czyjąś głowę zależy od sumy pokonanych wrogów. Moja głowa jest dziś warta znacznie więcej niż wczoraj. To było dobre polowanie.<bs_n1>
+<65><bs_n1>Wiele w życiu widziałem, ale władca demonów z demencją starczą?<bs_n1> {n}Lann potrząsa głową.{/n} <bs_n1>Dlaczego nie mógł po prostu usiąść przy kominku w swoim bujanym fotelu jak większość dziadków? Te wszystkie szalone typy ciągną do Golarionu jak ćmy do ognia... Czy ich własny plan im nie wystarcza...?<bs_n1>
+<66><bs_n1>Trudno mi przyjąć, że ten władca demonów może być dla nas użyteczny z naukowego punktu widzenia. Jest zbyt pochłonięty własnym szaleństwem, by wziąć udział w jakichkolwiek istotnych eksperymentach.<bs_n1>
+<67><bs_n1>Kolejne zwycięstwo!<bs_n1> {n}Seelah uśmiecha się triumfalnie, pokazując wszystkie zęby.{/n} <bs_n1>Żaden demon nie ma wstępu na Golarion, gdy stara Seelah i jej ekipa stoją na warcie!<bs_n1>
+<68><bs_n1>Rozchmurz się, bracie. Wygraliśmy, a demon nie żyje. Nie skrzywdzi już nikogo więcej.<bs_n1>
+<69><bs_n1>Spójrz na nas i zadrżyj, Otchłani! <bs_n1> {n}Wydaje z siebie dziki okrzyk bojowy.{/n} <bs_n1>Wyrżniemy twoich władców jak bydło! <bs_n1>
+<70><bs_n1>Czy takie coś uchodzi władcy demonów? Myślałem, że oni wszyscy mają skarbce pełne złota, tymczasem ten gość jest bardziej spłukany niż żebrak! Zresztą żebracy mają przynajmniej puste kieszenie i szansę na wypełnienie ich cudzymi pieniędzmi...<bs_n1>
+<71><bs_n1>I tak odchodzi ten, który rozpoczął całą tę awanturę. Ten, który jako pierwszy wpuścił demony do Sarkoris.<bs_n1> {n}Ulbrig spluwa na szybko rozpadające się kości.{/n} Areelu, Deskari, wszystkie inne czarty... Oni tylko go naśladowali. Ten drań przekopywał się ze swojego świata fey prosto do naszego... Niech tutaj gnije, niepochowany i nieopłakany!<bs_n1>
+<72><bs_n1>Masz rację.<bs_n1> {n}Sosielowi udaje się uśmiechnąć po chwili przerwy.{/n} <bs_n1>Wygraliśmy... ale nie wypada tego świętować w tym zimnym, mrocznym miejscu. Wróćmy do domu, rozpalmy ogień, podgrzejmy wino — i radujmy się!<bs_n1>
+<73><bs_n1>Po co nam ten poskręcany kawałek metalu? Przypuszczam, że mógłbym umieścić go w mojej piwnicy, aby chłodził mi wino.<bs_n1>
+<74><bs_n1>Ten przedmiot nie różni się zbytnie od swojego właściciela. Rozbity na kawałki, poskręcany, zamrożony... Wydaje się, jakby wykuł go z własnego bólu i samotności.<bs_n1>
+<75><bs_n1>Cóż, to wystarczy. Zdaje się, że nie dostaniemy innej zapłaty za tę pracę.<bs_n1>
+<76><bs_n1>Kawałek demonicznego plugastwa. Zabrałbym go ze sobą tylko po to, by móc osobiście nadzorować jego zniszczenie.<bs_n1>
+<77><bs_n1>To tylko jedna wielka gruda demonicznego spaczenia. Obawiam się, że na zawsze pozostanie skażona, nawet jeśli ją przetopisz i zrobisz z niej coś zupełnie nowego.<bs_n1>
+<78><bs_n1>Wiesz, kto jest największym wrogiem każdego demona? Inny demon. Z tego tutaj można zrobić solidną broń. Broń, która wzbudzi strach w sercu każdego potwora z Otchłani.<bs_n1>
+<79><bs_n1>Znalazł{mf|e|s}ś kolejną błyskotkę fey? Ostrożnie! Nie chciał{mf||a}byś chyba złapać od niej jakiejś klątwy? Radzę ci narysować wokół niej trzy kółka, posypać ją solą i zmienić buty przed zbliżeniem się. Aha, i nie zapomnij na nią nasikać! To najlepsza ochrona przed klątwami!<bs_n1>
+<80><bs_n1>To nie wygląda jakoś specjalnie okazale. Obawiam się, że nie dostaniesz za tą rzecz dobrej ceny. Cóż, mimo wszystko chyba lepiej być chudym niż głodnym!<bs_n1>
+<81><bs_n1>Stary dziad próbował użyć sztuczek władcy demonów, ale nie wyszło mu to zbyt dobrze. Pamiętasz, jak Bafomet uciekł z pola bitwy po tym, jak rzucił{mf|e|a}ś mu wyzwanie? Wrócił wtedy w bezpieczne miejsce. Sithhud próbował zrobić to samo – ale my już tam na niego czekaliśmy.<bs_n1>
+<82><bs_n1>Nie zamierzam nawet próbować zgadywać, co on tam zrobił. Muszę przyznać, że spektakl był zdumiewający! <bs_n1>.
+<83><bs_n1>Cóż to był za wielki gest! Władcy demonów uwielbiają wielkie gesty — podobnie jak krzyżowcy. Myślę, że to myśl o tym, jak imponująco wyglądał w tym momencie, dała mu nową siłę!<bs_n1>
+<84><bs_n1>Wyobraź sobie, jakie to byłoby cudowne, gdyby wszyscy inni władcy demonów poszli za jego przykładem i po prostu się zabili. Cudowne, po prostu cudowne.<bs_n1>
+<85><bs_n1>Tak, nawet krzyczał coś o tym, że przetrwa samą śmierć... Jednak dwukrotne wywinięcie się przed kostuchą okazało się zbyt dużym wyzwaniem nawet dla kogoś takiego jak on.<bs_n1>
+<86><bs_n1>Władcy demonów mają zdolność wskrzeszania się w swojej domenie, jeśli zostaną zabici. Niedawno zaobserwowaliśmy to zjawisko, kiedy mieliśmy do czynienia z Bafometem. Jednak Sithhud stracił tytuł władcy demonów i swoją domenę wieki temu... Hmm...<bs_n1> {n}Nenio drapie się w zamyśleniu po nosie.{/n} <bs_n1>Czy to możliwe, że ten zakątek Otchłani zachował pewne właściwości dawnej domeny Sithhuda? Brzmi to jak prawdopodobna hipoteza, choć nie da się jej w tej chwili udowodnić.<bs_n1>
+<87><bs_n1>Władcę demonów trzeba zabić co najmniej dwa razy. Udało nam się osaczyć Sithhuda właśnie tutaj, w jego domenie — lub raczej w tym, co z niej zostało. Na nasze szczęście to tu powrócił do życia, co zaoszczędziło nam ganiania za nim, aby dokończyć robotę.<bs_n1>
+<88><bs_n1>Ważne jest to, że już nie żyje. Jeśli miał jakąś sztuczkę w zanadrzu, to mu nie pomogła.<bs_n1>
+<89><bs_n1>Nie wiem dokładnie co to było, ale musiała to być jego ostatnia deska ratunku. Kiedy przyłożył miecz do własnej szyi, zrozumiałem, że to jest to. Osaczyliśmy go do tego stopnia, że zaczął stosować desperackie środki.<bs_n1>
+<90><bs_n1>Nie chcę nawet myśleć o bezbożnych sekretach władców demonów ani o zawiłościach ich przerażających rytuałów. Mam wrażenie, że widok tego groteskowego szkieletu ścinającego sobie głowę będzie nawiedzał moje sny przez długi czas.<bs_n1> {n}Sosiel się wzdryga.{/n}
+<91><bs_n1>Wrócił, ale nie na długo. Powaliliśmy go ponownie w mgnieniu oka. A jeśli znów wróci, zabijemy go jeszcze raz. To właśnie robią krzyżowcy, prawda?<bs_n1>
+<92><bs_n1>Ostatnią rzeczą, jakiej potrzebujemy, jest próba rozpracowywania sztuczek fey! W końcu zginął — i dobrze! <bs_n1>
+<93><bs_n1>Kiedy podniósł miecz, byłam przez chwilę rozczarowana. Myślałam, że się przestraszył i postanowił sam zakończyć swoje cierpienie. Że chciał ukraść nasze zwycięstwo i odejść na własnych warunkach. Nie doceniłam go. Ten starzec wciąż miał w sobie odrobinę odwagi...<bs_n1> {n}Wenduag szczerzy zęby.{/n} <bs_n1>To była wspaniała bitwa i wspaniałe zwycięstwo.<bs_n1>
+<94><bs_n1>Ci władcy demonów mają więcej asów w rękawach niż najlepsi kanciarze z Kenabres. Mogą wstać ze zmarłych, przekląć cię, wejść ci do głowy... Nie warto się głowić, co tam aktualnie kombinują. Trzeba spuścić im dobry, staroświecki łomot.<bs_n1>
+<95>{n}U twych stóp leży odłamek lodowatego metalu. W emanującym z niego chłodzie wyczuwasz pragnienie zabicia wszystkiego, czego dotknie.{/n}
+<96><bs_n1>Starożytni władcy demonów są jak pył pod twoimi stopami. Rób tak dalej, a już wkrótce twoja ściana trofeów zacznie konkurować nawet z tą, którą ma Lady Nocticula.<bs_n1>
+<97><bs_n1>Jakże jest nudno bez żadnego grajka w drużynie. Nie ma nikogo, kto mógłby zaśpiewać piosenkę przy ognisku!<bs_n1>
+<98>Sendri do końca opierał się spaczeniu okruchów. Jego heroiczne poświęcenie nie zostanie nigdy zapomniane.
+<99>Penta była gotowa oddać własne życie, aby uratować swych przyjaciół, jednak oczyszczające płomienie bogini ją oszczędziły. Androidka wyszła z burzy ognia poparzona, ale wciąż żywa. Gdyby próbowała wytrwać tam dłużej i spalić ostatni z okruchów, z pewnością by zginęła — jednak na szczęście został on już wcześniej zniszczony przez potwora ze Świata Cienia.
+<100>{name} był{mf||a} got{mf|ów|owa} poświęcić swe życie, aby tylko zgładzić Sithhuda. Choć oczyszczający płomień bogini prawie spalił {mf|go|ją} na popiół, to mimo wszystko udało {mf|mu|jej} się przeżyć. Próba stopienia jeszcze jednego okruchu z pewnością by {mf|go|ją} zabiła — ale na szczęście ten został już wcześniej pochłonięty przez potwora ze Świata Cienia.
+<101>Poświęcenie bohaterów, którzy do końca opierali się spaczeniu okruchów, nie zostanie nigdy zapomniane.
+<102>Burkliwy Rekarth bez zastanowienia zaoferował poświęcenie własnego życia, aby ocalić przyjaciół — jednak oczyszczające płomienie bogini go oszczędziły. Jeden z okruchów został już wcześniej zniszczony w Świecie Cienia, co pozwoliło temu bohaterowi wyjść z ognia nieco przypalonym, ale żywym.
+<103>Dzielny Sendri bez zastanowienia rzucił się w ogień, by ratować swoich przyjaciół — jednak wyszedł z niego żywy, choć nieco osmalony. W normalnych okolicznościach z pewnością podzieliłby los okruchów i został spalony na popiół, jednak jeden fragment duszy Sithuda został już wcześniej zniszczony przez potwora ze Świata Cieni, dzięki czemu ten mały bohater opuścić płomienie i ujść z życiem.
+<104><bs_n1>Jeśli liczysz na naszą pomoc, musisz nam nieco przybliżyć sytuację. Tylko odrobinę. Głupio tak bez powodu rzucać się w paszczę śmierci, skoro dopiero co z niej uciekliśmy.<bs_n1>
+<105><bs_n1>Przodkowie wyśmieją nas za tak głupią prośbę. Jesteśmy wojownikami i musimy zmierzyć się z wrogiem twarzą w twarz. Oto, co zrobimy: poprosimy przodków, by użyczyli nam siły i osłabili olbrzymy. Następnie potniemy drani, aż nie pozostaną po nich jedynie krwawe ochłapy. Pomścimy naszych krewniaków i opuścimy to miejsce jako wojownicy, a nie tchórze!<bs_n1>
+<106><bs_n1>Nasz ojciec przekazał nam świętą wiedzę — sekret naszej plemiennej magii. Istnieje specjalny rytuał, który pozwoli nam przywołać moc naszych przodków. Nasz spór dotyczy tego, jak powinniśmy użyć tej mocy. Odprawienie rytuału nie pozostanie niezauważone, więc musimy zdecydować, jak walczyć z gigantami. Mój plan jest następujący: poprosimy przodków, by wezwali na pomoc zwierzęta. Podczas gdy nasi porywacze będą z nimi walczyć, my prześlizgniemy się obok nich. W końcu będziemy wolni.<bs_n1>
+<107><bs_n1>Całkiem niezły plan — zarówno dla was, jak i dla nas. Zwierzęta mogą pomóc pokonać gigantów. Zaoszczędzi nam to wielu kłopotów.<bs_n1>
+<108>{n}Przerywając swą kłótnię, bracia wpatrują się w was wyczekująco.{/n}
+<109><bs_n1>Jesteście barbarzyńcami, którzy w tak pozbawiony finezji sposób zabili moją oprawczynię — służkę bólu. Ale nieważne. Teraz na własnej skórze poznacie piękno wszystkiego, co tylko ludzkie ciało jest w stanie wytrzymać.<bs_n1> 
+<110><bs_n1>Przynieśliście mojej służce ulotne szczęście, pozwalając jej dać się pochłonąć przez ogień i agonię. Ja zapewnię wam dużo czasu, byście doświadczyli przyjemności i zbadali granice tego, co wasze ciała mogą znieść.<bs_n1>
+<111><bs_n1>Jeśli zamierzasz z nim zagrać, to się pospiesz. Zgadzam się z gnomem — to obrzydliwy spektakl. I bez wątpienia jego mistrza ucieszy wieść, że dołączymy do tortur. Nazwijmy to szacunkiem do miejscowych zwyczajów, jakie by one nie były.<bs_n1>
+<112><bs_n1>Mam już dość szaleństwa tych dziwaków. Pozbycie się jednego z nich to dobry uczynek. No dalej. Patrząc na tutejsze zwyczaje, ten jego władca może nam nawet za to podziękować.<bs_n1>
+<113>[Spal ciało] <bs_n1>Spalimy twoje ciało tutaj.<bs_n1>
+<114><bs_n1>Po co mamy iść do świątyni? Spalimy twoje ciało tutaj.<bs_n1>
+<115><bs_n1>W obu przypadkach Carrock spróbuje was powstrzymać. Jeśli udacie się do świątyni, wyśle swoich sługusów, aby złapali was po drodze. Tutaj jednak grozi wam o wiele większe niebezpieczeństwo. Ten cmentarz był kiedyś spokojnym i świętym miejscem — teraz czai się tu straszliwe zło. Mądrze byłoby go nie obudzić.<bs_n1>
+<116> 
+<117> 
+<118> 
+<119> 
+<120>Kolejny okruch duszy Mistrza trafił w ręce śmiertelników. Doskonale. Czy znajdą drogę do kolejnych, gdy dotrą do jego zamarzniętego królestwa?
+<121> 
+<122> 
+<123> 
+<124> 
+<125> 
+<126> 
