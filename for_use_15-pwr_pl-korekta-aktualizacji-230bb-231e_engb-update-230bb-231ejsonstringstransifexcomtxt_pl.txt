@@ -1,8 +1,8 @@
-<4>Empty
-<5>Empty
-<6>Empty
-<7>Empty
-<8>Empty
-<9>Empty
-<10>Empty
+<4>Puste
+<5>Puste
+<6>Puste
+<7>Puste
+<8>Puste
+<9>Puste
+<10>Puste
 <11> 

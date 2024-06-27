@@ -1,0 +1,27 @@
+<4>Aivu, Penta
+<5>Translator and Editor (English)
+<6>Senior Localization Manager
+<7>President, Producer
+<8>Recording Engineer
+<9>Sendri
+<10>Ulbrig
+<11>Razmir
+<12>Rovus
+<13>Lord Zuset Ekhox Zego
+<14>Drimo, Winemaker
+<15>Kerismei
+<16>Preacher
+<17>Oread Scientist
+<18>Isera Voile
+<19>Other Voices
+<20>Vox Records
+<21>Last Page
+<22>Lost Fragment of a Book
+<23>Book of Dreams
+<24>Words fill the pages in even rows, some even accompanied by detailed illustrations. All the secrets of the magical book are revealed to you.
+<25>The cover of this heavy tome, framed in gold filigree, depicts a night sky. There are no words on it, not even a title. When the last of the torn pages was added to this book, several dozen previously hidden pages magically appeared. The book's enchanting stories are now embellished with exquisite illustrations in gold leaf, full of countless intricate details. The collection contains myriad tales about travels and luck, cryptic dreams and helpful visions, and friends leaving their hometowns to see the world — and now they are all told from beginning to end.
+<26>The book reveals its secrets to you gradually. While some stories end — almost always happily — most remain unfinished.
+<27>As soon as the page that was torn from the book connects to its spine, every other page fills with new words, drawings and magical images. Stories that used to end before they really began have now turned into exciting tales., and characters that were unfamiliar to you before now feel like well-known friends. And yet, as you reread this book, you can't shake the feeling that something important still eludes you — too many stories remain unremarkable and unclear, like a distant dream fading from memory come morning.
+<28>The margins of this page are decorated with illustrations of stars, bizarre animals, and fluttering butterflies — all done in gold leaf. Like butterflies, the words on the paper move around and change. Though you understand each word individually, any greater meaning eludes you.
+<29>Torn Page
+<30>There is not a single word on this piece of paper, seemingly torn out of a book — only a gold leaf illustration of a butterfly soaring among the stars. Animated by magic, its wings flutter as the stars drift slowly across the paper.
